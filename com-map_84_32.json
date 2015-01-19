@@ -1,0 +1,61 @@
+{
+    "id": 84,
+    "languages": ["en"],
+    "drawings": [{
+        "id": 84,
+        "ref_frame": {
+            "transform": [9.540848309042984E-7, 4.449467006061618E-6, 5.718774148964262E-6, -7.424087466128669E-7, -77.227360, 38.913851],
+            "height": 1527.780,
+            "angle_deg": -80.527,
+            "width": 1599.850,
+            "local2m": 0.5021503206536718
+        },
+        "levels": [{
+            "id": 129,
+            "properties": {
+                "name": "1",
+                "zlevel": 0,
+                "main": true
+            },
+            "obj_type": "Level"
+        }, {
+            "id": 3905,
+            "properties": {
+                "name": "2",
+                "zlevel": 1
+            },
+            "obj_type": "Level"
+        }, {
+            "id": 31117,
+            "properties": {
+                "name": "3",
+                "zlevel": 2
+            },
+            "obj_type": "Level"
+        }],
+        "properties": {
+            "is_root": true,
+            "display_name": "Tysons Corner Center",
+            "map_type": "Shopping Mall"
+        },
+        "obj_type": "Drawing"
+    }],
+    "location": {
+        "type": "Point",
+        "coordinates": [-77.2224350, 38.9174220]
+    },
+    "entity_version": 31,
+    "properties": {
+        "phone": "(703) 847-7300",
+        "hours": "Mon-Sat: 10am-9:30pm, Sun: 11am-7pm",
+        "name": "Tysons Corner Center",
+        "url": "http://www.shoptysons.com/",
+        "state": "VA",
+        "default_lang": "en",
+        "city": "McLean",
+        "country": "US",
+        "postal code": "22102"
+    },
+    "map_version": 32,
+    "obj_type": "CommunityMap"
+}

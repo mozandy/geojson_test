@@ -1,0 +1,3502 @@
+{
+    "id": 84,
+    "entity_version": 31,
+    "name": "Tysons Corner Center",
+    "map_version": 32,
+    "entities": [{
+        "id": 8621,
+        "properties": {
+            "tags": "1892,Abercrombie & Fitch,Abercrombie &amp Fitch,Active,Athletic,Baseball Caps,Belts,Camis,Cargo,Chinos,Cologne,Cord Minis,Denim,Fleece,Flip Flops,Halter,Hats,Humor,Intimates,Jewelry,Knit/Woven Minis,Knits,Logo,Long Sleeve,Outerwear,Pants,Personal Care,Polos,Shirts,Short Sleeve,Shorts,Sleepwear,Sleeveless,Sweatbands,Sweaters,Swimwear,Tanks,Tees,Tops,Totes,Tube,Underwear,Visors,Abercrombie,Abercrombiekids,Anf,Apparel,Catalog,Classic,Clothes,Clothing,Desktop Images,Dvd,Fitch,Gift Card,Girls,Graphic,Guys,Men,Model,Movies,Mp3,Music,Photos,Quicktime,Retail,Screen Saver,Shopping,Stores,T-shirts,Tee-shirts,Video,Vintage,Wallpaper,Women",
+            "phone": "(703) 288-1540",
+            "int_address": ["Unit M003U"],
+            "location": "2",
+            "description": "High quality, collegiate-inspired, casual luxury clothing.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Abercrombie & Fitch",
+            "url": "www.abercrombie.com/",
+            "geometry": [
+                [329946, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8622,
+        "properties": {
+            "tags": "1892,Abercrombie & Fitch,Active,Athletic,Baseball Caps,Belts,Camis,Cargo,Chinos,Cologne,Cord Minis,Denim,Fleece,Flip Flops,Halter,Hats,Humor,Intimates,Jewelry,Knit/Woven Minis,Knits,Logo,Long Sleeve,Outerwear,Pants,Personal Care,Polos,Shirts,Short Sleeve,Shorts,Sleepwear,Sleeveless,Sweatbands,Sweaters,Swimwear,Tanks,Tees,Tops,Totes,Tube,Underwear,Visors,Abercrombie,Abercrombie Kids,Abercrombiekids,Anf,Apparel,Catalog,Classic,Clothes,Clothing,Desktop Images,Dvd,Fitch,Gift Card,Girls,Graphic,Guys,Men,Model,Movies,Mp3,Music,Photos,Quicktime,Retail,Screen Saver,Shopping,Stores,T-shirts,Tee-shirts,Video,Vintage,Wallpaper,Women",
+            "phone": "(703) 288-3524",
+            "int_address": ["Unit F003AU"],
+            "location": "2",
+            "description": "High quality, casual luxury clothing.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "abercrombie kids",
+            "url": "www.abercrombiekids.com/kids/",
+            "geometry": [
+                [329935, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8623,
+        "properties": {
+            "tags": "Adidas Performance,Adidas Y-3,Children's Apparel,Men's Apparel,Shoes,Adidas,Adidas Originals",
+            "phone": "(571) 234-8537",
+            "int_address": ["Unit K003U"],
+            "location": "2",
+            "description": "Sports Apparel for Men, Women and kids www.shopadidas.com ",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Adidas",
+            "url": "www.adidas.com",
+            "geometry": [
+                [329837, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8624,
+        "properties": {
+            "tags": "Aero,Aeropostale.com.,Accessories,Apparel,Back To School Clothes,Bags,Baseball Caps,Belts,Bikini,Blue Jeans,Board Short,Boot Cut,Bootcut,Boots,Bottoms,Boxers,Boys,Camis,Capris,Caps,Cargo,Clothing,Cropped,Curvy,Denim,Dresses,Everyday Clothes,Fashion,Flare,Fleece,Flip Flops,Fragrance,Gifts,Girls,Graphics,Guys,Halter,Hats,Hoodies,Jackets,Jeans,Jewelry,Madras,Mens,Outerwear,Pants,Polo,Print,Sandals,Sandblast,Shirts,Shoes,Shorts,Skinny,Skirts,Sunglasses,Sweaters,Sweatshirts,Swim,Swimsuits,Swimwear,T&39s,T-shirts,Tank Tops,Tanks,Tee&39s,Tee-shirts,Teenager,Teens,Tees,Tops,Underwear,Uniform,Utility,Wide Leg,Womens,Aeropostale,Clothes",
+            "phone": "(703) 848-0684",
+            "int_address": ["Unit G005U"],
+            "location": "2",
+            "description": "Shop Aeropostale for men&39s and women&39s clothes, shoes and accessories.  For great styles and prices shop our collection featuring girl&39s and guy&39s jeans, hoodies, t-shirts, sweaters, jackets and more.  Extended sizes available only at Aeropostale.com.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Aeropostale",
+            "url": "www.aeropostale.com/home/index.jsp",
+            "geometry": [
+                [329892, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8625,
+        "properties": {
+            "tags": "Shopping Mall,Shopping Center,Store Directory,Stores At Bay Street,AEROSOL,AEROSOLE,AEROSOLE SHOES,AEROSOLES,AEROSOLES ONLINE,AEROSOLES SHOES,AEROSOLES',AEROSOLES' SHOES,BOOTS,CASUAL,COMFORT,COMFORT SHOES,COMFORTABLE SHOES,FASHION,FOOTWARE,FOOTWEAR,HANDBAGS,HOSIERY,INEXPENSIVE,LEATHER,LEGWEAR,MATERNITY,PURSES,QUALITY,SANDALS,SHOES,SOCKS,TRAVEL,WOMENS SHOES,WOMEN'S SHOES,Shopping Mall Stores",
+            "phone": "(703) 448-0684",
+            "int_address": ["Unit H004L"],
+            "location": "1",
+            "description": "Womens shoes, boots and sandals",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Aerosoles",
+            "url": "http://www.baystreetemeryville.com/go/fb/guide/store.cfm?StoreInstanceID=2138793072&StoreID=765&MallID=",
+            "geometry": [
+                [210646, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8627,
+        "properties": {
+            "tags": "Aldo Shoes,Boots,Casual Shoes,Designer Handbag,Dress Boots,Dress Shoes,Fashion Footwear,Handbag,Men's Boots,Men's Sandals,Men's Shoes,Monthly Sales,Sandals,Shoe Store,Shoes,Women's Boots,Women's Sandals,Women's Shoes,Aldo",
+            "phone": "(703) 760-4940",
+            "int_address": ["Unit G008AU"],
+            "location": "2",
+            "description": "Providing cutting-edge trends in quality fashion footwear, leather goods and accessories at affordable prices.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Aldo",
+            "url": "www.aldoshoes.com/store.cfm?&ckey=US?=eng",
+            "geometry": [
+                [329898, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8628,
+        "properties": {
+            "tags": "Gift Cards,Movie Times,Movie Trailers,Movies,AMC Theatres,Amc Entertainment",
+            "phone": "(703) 998-4262",
+            "int_address": ["Unit MAJ04"],
+            "location": "3",
+            "description": "Movie Theater providing guests with the best possible out-of-home entertainment experience including movie previews and concession stands - Experience the Difference at AMC!",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "AMC Theatres",
+            "url": "http://www.amcentertainment.com/",
+            "geometry": [
+                [6369995, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 216068,
+        "properties": {
+            "tags": "AMC,AMC Tickets,Tickets",
+            "int_address": ["$id 6369996"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "AMC Tickets",
+            "geometry": [
+                [6369996, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8629,
+        "properties": {
+            "tags": "5-pocket,Accessories,Ae.com,Aeo,Alive,American Eagle Outfitters,Apparel,Bandanas,Baseball Caps,Belts,Bikini,Blue Jeans,Board Short,Books,Boot Cut,Bootcut,Boots,Bottoms,Boxers,Boys,Bracelets,Bucket,Bungie,Caps,Cargo,Chokers,Clothing,Convertible,Cropped,Denim,Drawstring,Dresses,Dvd,Fashion,Flare,Fragrance,Girls,Graphics,Guys,Halter,Hats,Hiking,Jackets,Jeans,Jewelry,Khakis,Madras,Mens,Mules,Music,Necklaces,Original 5 Pocket,Outerwear,Pants,Personal Care,Polar Fleece,Polo,Print,Rings,Sandals,Sandblast,Shirts,Shoes,Shorts,Skirts,Slides,Sweaters,Sweatshirts,Swim,Swimsuits,Swimwear,T-shirts,T's,Tank Tops,Tanks,Tee-shirts,Tee's,Teenager,Teens,Tees,Tops,Tube Top,Underwear,Utility,Video,Visors,Wide Leg,Womens,Wrap,Clothes",
+            "phone": "(703) 288-1996",
+            "int_address": ["Unit F007U"],
+            "location": "2",
+            "description": "Providing quality, laidback, current clothing trends at affordable prices.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "American Eagle Outfitters",
+            "url": "www.ae.com/",
+            "geometry": [
+                [329936, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 522619,
+        "properties": {
+            "phone": "(877) 247-5223",
+            "int_address": ["Unit K009L"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "American Girl",
+            "url": "http://www.americangirl.com/index.php",
+            "geometry": [
+                [6368267, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8631,
+        "properties": {
+            "tags": "22180,22181,22182,22183,Alexandria,Arlington,Burke,Center,Centerville,Centreville,East,Facials,Fairfax,Leesburg,Lorton,Loudoun,McLean,Metro,Metropolitan,North,Pedicure,Reston,Route - Manicure,South,Springfield,Virginia,West,Westwood,Arm,Chin,Color,Eyebrow,Face,Hand,Leg,Lip,Underarm,Wax,Angel Nails,County",
+            "phone": "(703) 506-1664",
+            "int_address": ["Unit D009AU"],
+            "location": "In Strip Center across from Lord & Taylor",
+            "description": "Angel Nails Salon offers full nail and spa services. Services include Nail Care, Skin Care, Body Treatment, Massage, Waxing, Make-up Artistry, Permanent, Make-up and Tanning.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Angel Nails",
+            "url": "www.angelnailssalon.com",
+            "geometry": [
+                [329920, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8632,
+        "properties": {
+            "tags": "Ann,Ann Taylor,Taylor",
+            "phone": "(703) 893-0777",
+            "int_address": ["Unit J003AU"],
+            "location": "2",
+            "description": "Providing women with updated classics that are feminine, stylish, versatile and polished - a complete wardrobe for all aspects of her evolving lifestyle.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Ann Taylor",
+            "url": "www.anntaylor.com/",
+            "geometry": [
+                [329862, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 216209,
+        "properties": {
+            "tags": "Apple",
+            "phone": "(703) 893-5055",
+            "int_address": ["Unit J002U"],
+            "description": "Apple designs and creates iPod and iTunes, Mac laptop and desktop computers, the OS X operating system, and the revolutionary iPhone and iPad.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Apple Computers",
+            "url": "http://www.apple.com/",
+            "geometry": [
+                [329858, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 522620,
+        "properties": {
+            "phone": "(703) 356-6820",
+            "int_address": ["Unit D006U"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Arden B.",
+            "url": "http://www.ardenb.com/",
+            "geometry": [
+                [5662870, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8636,
+        "properties": {
+            "tags": "Chair,Desk,Furniture,Hutches,Lamp,Ottoman,Quality,Sofa,Table,Arhaus,Arhaus Furniture",
+            "phone": "(703) 734-9001",
+            "int_address": ["Unit N001L"],
+            "location": "1",
+            "description": "Arhaus Furniture offers unique, well-designed home furnishings including sofas, chairs, lighting fixures, desk systems, and outdoor garden furniture.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Arhaus Furniture",
+            "url": "www.arhaus.com",
+            "geometry": [
+                [210709, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8637,
+        "properties": {
+            "tags": "Art,Art For Your Face,Face,Your",
+            "phone": "(703) 883-1121",
+            "int_address": ["Unit KSK01L"],
+            "location": "1",
+            "description": "The ultimate optical experience. Highly skilled Opticians will help create your unique look. We specialize in European boutique collections at affordable prices. We also create custom gold and diamond eyewear by appointment only. ",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Art For Your Face",
+            "geometry": [
+                [6368268, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 139707,
+        "properties": {
+            "tags": "AT&T,AT&T Mobility,AT&T Wireless,Android Phones,Apple,Blackberry,Cell Phone,Cell Phone Plans,Cingular Wireless,Smartphones,Apps,Wireless Phones,Free Cell Phones",
+            "phone": "(703) 834-2530",
+            "int_address": ["Unit O003L"],
+            "description": "Shop for Cell Phones, Cell Phone Plans, Prepaid Phones, Free Phones, iPhone, Android phones, & wireless accessories on the nation's fastest 3G network at AT&T.  Wireless from AT&T.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "AT&T",
+            "url": "www.att.com/wireless",
+            "geometry": [
+                [210682, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 535149,
+        "properties": {
+            "phone": "(703) 388-2870",
+            "int_address": ["Unit H002U"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Athleta",
+            "url": "http://www.athleta.gap.com/",
+            "geometry": [
+                [329847, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8640,
+        "properties": {
+            "tags": "Auntie Anne,Auntie Annes Pretzels,Business Franchise Opportunities,Food Gifts,Franchise Opportunities,Franchises For Sale,Fundraising Ideas For Non-profits,Fundraising Ideas For Schools,Pretzels,Soft Pretzel Recipes,Soft Pretzels,Auntie Anne's,Auntie Annes",
+            "phone": "(703) 790-0619",
+            "int_address": ["Unit G011U"],
+            "location": "2",
+            "description": "Offering customers delicious pretzel products, dips, and drinks. Our pretzels are mixed, twisted, and baked to golden brown perfection in full view.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Auntie Anne's",
+            "url": "www.auntieannes.com/home.aspx",
+            "geometry": [
+                [329904, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8641,
+        "properties": {
+            "tags": "Eco Friendly Beauty,Aveda,Beauty,Beauty Care,Environmental,Hair Care,Hair Care Products,Natural Hair,Natural Skin,Skin Care,Skin Care Products For Women",
+            "phone": "(703) 506-9500",
+            "int_address": ["Unit J005L"],
+            "location": "1",
+            "description": "Professional hair and skin care products give you a fashion-forward look while supporting eco-friendly practices.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Aveda",
+            "url": "www.aveda.com/",
+            "geometry": [
+                [210701, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8620,
+        "properties": {
+            "tags": "A|X Armani Exchange",
+            "phone": "(703) 893-0198",
+            "int_address": ["Unit M010U"],
+            "location": "2",
+            "description": "Armani Exchange is the youthful fashion label created by Italian designer Giorgio Armani.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "A|X Armani Exchange",
+            "url": "www.armaniexchange.com",
+            "geometry": [
+                [329951, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 522628,
+        "properties": {
+            "phone": "(703) 848-0380",
+            "int_address": ["Unit FC04"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Baja Bistro Fresh Mex Grille",
+            "url": "http://bajabistro.net/",
+            "geometry": [
+                [6369994, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8644,
+        "properties": {
+            "tags": "Banana,Banana Republic,Republic",
+            "phone": "(703) 893-0540",
+            "int_address": ["Unit F001AU"],
+            "location": "2",
+            "description": "Banana Republic offers elevated essentials and sophisticated seasonal collections of accessories, shoes, personal care products and intimate apparel. From work to casual occasions, Banana Republic offers covetable, uncomplicated style.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Banana Republic",
+            "url": "www.bananarepublic.com/",
+            "geometry": [
+                [329932, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8645,
+        "properties": {
+            "tags": "Banana,Banana Republic Petites,Petites,Republic",
+            "phone": "(703) 893-1806",
+            "int_address": ["Unit M005U"],
+            "location": "2",
+            "description": "Perfectly proportioned for Petite Women, we offer a chic selection of stylish apparel from sophisticated dresses and pants to sweater, skirts, jeans and more.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Banana Republic Petites",
+            "url": "www.bananarepublic.com/browse/division.do?cid=5122",
+            "geometry": [
+                [329947, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 216186,
+        "properties": {
+            "tags": "Banner,Banner Hallmark,Hallmark",
+            "int_address": ["Unit G009U"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Banner Hallmark",
+            "geometry": [
+                [329900, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8646,
+        "properties": {
+            "tags": "Bare,Bare Escentuals,Escentuals",
+            "phone": "(703) 448-7373",
+            "int_address": ["Unit G023L"],
+            "location": "1",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Bareminerals",
+            "url": "www.bareescentuals.com/",
+            "geometry": [
+                [210684, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8647,
+        "properties": {
+            "tags": "Barnes & Noble,Harry Potter Hardcover Boxed Set Books 1-7,J. K. Rowling,National Geographic",
+            "phone": "(703) 506-2937",
+            "int_address": ["Unit M013L"],
+            "location": "1",
+            "description": "Offering books, magazines, newspapers, DVDs, music, PC & Video Games, toys & games, gifts and more.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Barnes & Noble",
+            "url": "http://www.barnesandnoble.com/",
+            "geometry": [
+                [329955, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8648,
+        "properties": {
+            "tags": "Fragrance Oil,Spray,Anti-Bacterial,Aromatherapy,Black Amethyst,Black Raspberry Vanilla,Body Butter,Body Cream,Body Lotion,Brown Sugar & Fig,C.O. Bigelow,Canada,Candles,Cherry Blossom,Coconut Lime Verbena,Corporate Gifts,Discontinued Fragrances,Eau De Toilette,Exotic Coconut,Fabric Refresher,FitFlop,Fragrance Mist,Fragrant Waters,Gift Card,Gift Sets,Hand Cream,Hand Soaps,Ile De Tahiti,Jobs,Juniper Breeze,Lambie,Lemon,Lip Gloss,Mens Grooming,Mentha,Moonlight Path,Odor Elimination,Patricia Wexler M.D.,Pumpkin,Robes,Scentport,Sensual Amber,Shampoo,Shower Gel,Signature Collection,Signature Collection Classics,Slatkin & .,Slippers,Soap And Lotion Caddy,Socks,Store Locator,Sweet Pea,Sweetest Softest,Totes And Bags,True Blue Spa,Vanilla Bean,Victoria&39s Secret PINK,Wallflowers,Warm Vanilla Sugar,Bath & Body Works,Japanese Cherry Blossom",
+            "phone": "(703) 442-3904",
+            "int_address": ["Unit K004L"],
+            "location": "1",
+            "description": "A 21st century apothecary integrating health, beauty and well-being including fragrant flavorful indulgences such as shower gels, lotions, candles and accessories.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Bath & Body Works",
+            "url": "www.bathandbodyworks.com/home/index.jsp",
+            "geometry": [
+                [210639, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8650,
+        "properties": {
+            "tags": "Bebe",
+            "phone": "(703) 734-8686",
+            "int_address": ["Unit K001L"],
+            "location": "1",
+            "description": "Featuring a distinctive line of contemporary women's apparel and accessories with an unmistakeable hint of sensuality.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "bebe",
+            "url": "www.bebe.com/gp/home.html",
+            "geometry": [
+                [210644, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8651,
+        "properties": {
+            "tags": "Benetton,Women's Apparel & Accessories",
+            "phone": "(703) 749-9064",
+            "int_address": ["Unit O002U"],
+            "location": "2",
+            "description": "Young women and men's fashionable apparel.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Benetton",
+            "url": "www.benetton.com",
+            "geometry": [
+                [329883, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 696447,
+        "properties": {
+            "phone": "(703) 790-3437",
+            "int_address": ["Unit K009U"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "BGR The Burger Joint",
+            "url": "http://www.bgrtheburgerjoint.com/",
+            "geometry": [
+                [329843, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8652,
+        "properties": {
+            "tags": "Bloomingdales.com,Department Store,Designer Clothing,Designer Handbags,Designer Shoes,Home Furnishings,Bloomingdale's",
+            "phone": "(703) 556-4600",
+            "int_address": ["Unit MAJ01"],
+            "location": "1",
+            "description": "Upscale department store featuring exclusive merchandise and customized service.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Bloomingdale's",
+            "url": "http://www.bloomingdales.com/",
+            "geometry": [
+                [210635, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 696451,
+        "properties": {
+            "phone": "(703) 288-9026",
+            "int_address": ["Unit H003U"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Bose",
+            "url": "http://www.bose.com/",
+            "geometry": [
+                [329849, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8653,
+        "properties": {
+            "tags": "Bostonian,Clarks,Shoes",
+            "phone": "(703) 893-7813",
+            "int_address": ["Unit G009AU"],
+            "location": "2",
+            "description": "Offering a highly versatile collection of traditional and contemporary classic men's shoes that are stylish yet comfortable and fit and feel as good as they look.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Bostonian",
+            "url": "bostonian.zappos.com",
+            "geometry": [
+                [329908, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8654,
+        "properties": {
+            "tags": "Brighton,Brighton Collectibles,Collectibles",
+            "phone": "(703) 714-7310",
+            "int_address": ["Unit O010U"],
+            "location": "2",
+            "description": "Featuring accessory collections that coordinate from head to toe with defining details and special meaning. Whatever your style, personality, career, or mood, Brighton accessories are designed for you!",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Brighton Collectibles",
+            "url": "http://www.brighton.com/",
+            "geometry": [
+                [329876, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8655,
+        "properties": {
+            "tags": "Brio Tuscan Grille,Brio Italian,Brio Restaurants,Restaurants,Brio Italian Restaurant",
+            "phone": "(703) 288-8882",
+            "int_address": ["Unit M009L"],
+            "location": "1",
+            "description": "Lunch and dinner daily, Bellini Brunch on Saturdays & Sundays from 11am-3pm, kids menu, and extensive Italian wine list.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Brio Tuscan Grille",
+            "url": "www.brioitalian.com",
+            "geometry": [
+                [210652, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8656,
+        "properties": {
+            "tags": "Apparel,Belt,Big & Tall,Big And Tall Clothes,Blazer,Blouse,Bowtie,Boxer,Boxer Short,Boxers,Brook Brothers,Brooks,Brooks Boys,Brooks Brother,Brooks Brothers,Brooks Brothers Clothes,Brooks Brothers Clothing,Brooks Brothers Online,Brooksbrothers,Brooksbrothers.com,Business Attire,Business Casual,Business Dress,Business Suit,Button Down Oxford,Button-down Shirt,Career Clothing,Cashmere,Catalog,Chino,Chinos,Clearance,Clothes,Clothing,Clothing Catalog,Clothing Store,Crewneck,Custom,Custom Made,Designer Suit,Designer Suits,Dress Shirt,Dress Shirts,Dress Shoe,Dresses,Factory Outlet,Flat-front,Formalwear,Jacket,Jackets,Ladies,Loafer,Men,Men's,Men's Apparel,Men's Dress Shirts,Men's Suit,Men's Suits,Mens Dress Shirt,Menswear,Merino,Necktie,Non-iron,Outlet,Outlet Center,Overcoat,Oxford,Oxford Shirt,Pant,Pants,Penny Loafer,Pima,Pleated,Polo,Polo Shirt,Seersucker,Shirt,Shirts,Shoe,Shoes,Shopping,Slacks,Sock,Sportcoat,Sportcoats,Suit,Suits,Sweater,Tailored,Tie,Ties,Trousers,Tuxedo,Women,Women's,Women's Apparel,Wool,Work Clothing,Wrinkle Free,Www.brooksbrothers.com,Brook Brother",
+            "phone": "(703) 556-6566",
+            "int_address": ["Unit O003U"],
+            "location": "2",
+            "description": "Men's, women's, and children's apparel and related accessories.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Brooks Brothers",
+            "url": "http://www.brooksbrothers.com/",
+            "geometry": [
+                [329882, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 216196,
+        "properties": {
+            "tags": "Cool Gifts,Fathers Day Gifts,Gift Ideas,Gifts For Her,Gifts For Him,Gifts For Men,Gifts For Women,Unique Gift Ideas,Unique Gifts,Brookstone,Gifts",
+            "phone": "(703) 356-0280",
+            "int_address": ["Unit G007AU"],
+            "description": "Find unique gift ideas for men and women at Brookstone. Our gifts are perfect for any occasion. Browse gifts for him, gifts for her, luxury gifts, Father's Day gifts, innovative electronic gifts, and more.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Brookstone",
+            "url": "http://www.brookstone.com",
+            "geometry": [
+                [329897, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8657,
+        "properties": {
+            "tags": "Bubbles",
+            "phone": "(703) 448-3987",
+            "int_address": ["Unit D004L"],
+            "location": "1",
+            "description": "Full service hair salon for men and women as well as the sale of related hair care products.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Bubbles",
+            "url": "www.bubblessalons.com",
+            "geometry": [
+                [210735, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 1008778,
+        "properties": {
+            "phone": "(703) 761-3970",
+            "int_address": ["Unit D003U"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "C Wonder",
+            "url": "http://www.cwonder.com/",
+            "geometry": [
+                [329911, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 522632,
+        "properties": {
+            "phone": "(703) 356-0311",
+            "int_address": ["Unit O012U"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Cache",
+            "url": "http://www.cache.com/",
+            "geometry": [
+                [329874, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 216169,
+        "properties": {
+            "tags": "Cafe,Cafe Hagen Dazs,Dazs,Hagen",
+            "int_address": ["Unit H002AU"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Cafe Hagen Dazs",
+            "geometry": [
+                [329848, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8661,
+        "properties": {
+            "tags": "Brownies,Buttercream,Cakes,Cheesecake,Chocolate,Crunchy Feet,Cupcakes,Downfall,Food Network,Lemon Swirl,Love Cafe,Pastries,Sugar Rush,Sugarrush,Toffee,Vanilla,Wedding Cake,Weddings,Cakelove,Food Specialty,Warren Brown",
+            "phone": "(703) 442-4880",
+            "int_address": ["Unit F011L"],
+            "location": "1",
+            "description": "Cakes and pastries made from scratch in a variety of flavors. Also provides a \"\"Green Label\"\" selection of assorted Vegan and Gluten-free options.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "CakeLove",
+            "url": "www.cakelove.com/",
+            "geometry": [
+                [210666, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8662,
+        "properties": {
+            "tags": "Carry-out,Cpk,Cpk Asap,Locations,Made To Order Pasta,Menu,Nutrition,Order Online,Pick-up,Pizza,Salads,To-go,California Pizza Kitchen",
+            "phone": "(703) 761-1473",
+            "int_address": ["Unit G021L"],
+            "location": "1",
+            "description": "Featuring distinctive and innovative flavors and tastes from around the world, from Thai to Jamaican Jerk...all on a pizza. Also served are creative salads, made-to-order pastas, soups, sandwiches, appetizers and desserts.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "California Pizza Kitchen",
+            "url": "www.californiapizzakitchen.com/",
+            "geometry": [
+                [210668, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 1008815,
+        "properties": {
+            "phone": "(703) 790-3252",
+            "int_address": ["Unit G006L"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Call It Spring",
+            "url": "http://www.callitspring.com/ca-eng",
+            "geometry": [
+                [210673, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8663,
+        "properties": {
+            "tags": "Candy,Candy Heaven,Heaven",
+            "phone": "(703) 556-7700",
+            "int_address": ["Unit E011LB"],
+            "location": "1",
+            "description": "Bulk and prepackaged candy, nuts, trail mixes, chocolates, and confectionery products.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Candy Heaven",
+            "geometry": [
+                [210730, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 522633,
+        "properties": {
+            "phone": "(703) 288-3001",
+            "int_address": ["Unit J006AL"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Catimini",
+            "url": "http://www.catiminidc.com/",
+            "geometry": [
+                [6368278, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 522634,
+        "properties": {
+            "phone": "(703) 288-0005",
+            "int_address": ["Unit K007AU"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Cava Mezze Grill",
+            "url": "http://cavagrill.com/",
+            "geometry": [
+                [329844, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8666,
+        "properties": {
+            "tags": "Charlie,Charlie Chiang's Kwai,Chiang's,Kwai",
+            "phone": "(703) 883-8051",
+            "int_address": ["Unit G002L"],
+            "location": "3",
+            "description": "Chinese cuisines, salads, soups.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Charlie Chiang's Kwai",
+            "url": "www.kwai.us/",
+            "geometry": [
+                [6368274, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 1082486,
+        "properties": {
+            "phone": "(703) 883-8051",
+            "int_address": ["Unit FC03"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Charlie Chiang's Kwai",
+            "url": "http://www.kwai.us/",
+            "geometry": [
+                [6369992, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8667,
+        "properties": {
+            "tags": "Charlotte,Charlotte Russe,Russe",
+            "phone": "(703) 848-1814",
+            "int_address": ["Unit D010L"],
+            "location": "1",
+            "description": "Serving the fashion and style needs of young, fashion-conscious women in their teens and early twenties, offering trend right apparel and accessories at value prices.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Charlotte Russe",
+            "url": "CharlotteRusse.com",
+            "geometry": [
+                [210741, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 216170,
+        "properties": {
+            "tags": "Chico's,Accessories,Apparel,Blouses,Catalog,Chico,Chicos,Chs,Clothing,Collection,Designer,Fashion,Gift,Novelty,Passport,Retail,Shopping,Stores,Travel,Unique,Watches,Womens",
+            "phone": "(703) 917-6110",
+            "int_address": ["Unit D001U"],
+            "description": "Clothier for the sophisticated woman featuring a full line of private label apparel, accessories, and jewelry, with a focus on comfort.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Chico's",
+            "url": "www.chicos.com/store/home.asp",
+            "geometry": [
+                [329910, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 1008769,
+        "properties": {
+            "phone": "(703) 288-3890",
+            "int_address": ["Unit F003CL"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Chipotle Mexican Grill",
+            "url": "http://www.chipotle.com/en-US/default.aspx?type=default",
+            "geometry": [
+                [6368271, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8669,
+        "properties": {
+            "tags": "CinnaPacks,Cinnabun,Focus Brands,Cinnabon",
+            "phone": "(703) 506-8530",
+            "int_address": ["Unit G003LA"],
+            "location": "1",
+            "description": "Featuring the roll that made us famous! Cinnabon is a warm dough, filled with our legendary Makara Cinnamon, topped with freshly made cream cheese frosting. Also serving other fine sweets.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Cinnabon",
+            "url": "www.cinnabon.com/home.html",
+            "geometry": [
+                [214566, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8670,
+        "properties": {
+            "tags": "Claire's",
+            "phone": "(703) 847-5909",
+            "int_address": ["Unit F001BL"],
+            "location": "1",
+            "description": "Value-priced costume jewelry, accessories, and cosmetics for fashion-aware tweens, teens and young adults.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Claire's",
+            "url": "www.claires.com/index.asp",
+            "geometry": [
+                [210710, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 142416,
+        "properties": {
+            "tags": "Clarks,Clarks Boots,Clarks Sandals,Clarks Shoes,Boot,Boots,Childrens Shoes,Flip Flops,Footwear,Heels,High Heels,Ladies Shoes,Leather Shoes,Mens Shoes,Mules,Sandals,Shoe,Shoe Store,Wedges,Womens Shoes,Shoes",
+            "phone": "(703) 883-9750",
+            "int_address": ["Unit G006AU"],
+            "description": "This seasons women&39s, men&39s and children&39s shoes now online. Shop for ladies boots, slip ons, mens shoes, wellies and handbags plus get free delivery",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Clarks",
+            "url": "www.clarks.co.uk",
+            "geometry": [
+                [329895, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8672,
+        "properties": {
+            "tags": "Coach Bags,Coach Briefcases,Coach Fragrance,Coach Handbags,Coach Jewelry,Coach Leather,Coach Pouches,Coach Products,Coach Purses,Coach Shoes,Coach Totes,Coach Wallets,Coach Wristlets,Coach,Coach Store",
+            "phone": "(703) 883-1772",
+            "int_address": ["Unit O004U"],
+            "location": "2",
+            "description": "Classic high quality leather goods such as handbags, footwear and accessories.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Coach",
+            "url": "www.coach.com/default.aspx",
+            "geometry": [
+                [329881, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8673,
+        "properties": {
+            "tags": "Coastal,Coastal Flats,Flats",
+            "phone": "(703) 356-1440",
+            "int_address": ["Unit M007L"],
+            "location": "1",
+            "description": "1950's coastal-Florida inspired restaurant serving traditional dishes out of the gulf stream of Florida, all the way to the Carolina low-country. Popular dishes include Jambalaya Eggrolls, Shrimp fritters, Lobster Bisque, and burgers!",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Coastal Flats",
+            "url": "www.greatamericanrestaurants.com/coastaltysons/index.htm",
+            "geometry": [
+                [210749, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8674,
+        "properties": {
+            "tags": "Cold Stone Birthday Club,Cold Stone Promotions,Cold Stone Stores,Ice Cream Catering,Ice Cream Pies,Cold Stone Creamery,Find A Cold Stone",
+            "phone": "(703) 288-9205",
+            "int_address": ["Unit FC10"],
+            "location": "3",
+            "description": "Unique ice cream creations, smoothies, cakes and shakes â\u20ac\u201c nobody serves up the ultimate indulgence like Cold Stone.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Cold Stone Creamery",
+            "url": "www.coldstonecreamery.com/",
+            "geometry": [
+                [6369985, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 1082483,
+        "properties": {
+            "phone": "(703) 288-4100",
+            "int_address": ["Unit KSK03L"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Crumb's Bake Shop",
+            "url": "http://www.crumbs.com/",
+            "geometry": [
+                [6368269, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8678,
+        "properties": {
+            "tags": "Cusp",
+            "phone": "(703) 288-1940",
+            "int_address": ["Unit K005U"],
+            "location": "1",
+            "description": "Cusp, a new boutique concept from Neiman Marcus, features a unique and often exclusive mix of contemporary fashion, \"\"it\"\" bags, must have shoes and the hottest beauty essentials. For the latest fashion news online, visit www.blogonthecusp.com.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Cusp",
+            "url": "www.cusp.com",
+            "geometry": [
+                [329839, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 216164,
+        "properties": {
+            "tags": "Diesel",
+            "phone": "(703) 485-4755",
+            "int_address": ["Unit K008U"],
+            "description": "Be Stupid. Smart listens to the head. Stupid listens to the heart. Also, if you really have to, peruse Denim, SS10 apparel, Diesel Black Gold and Diesel Kid.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Diesel",
+            "url": "http://www.diesel.com",
+            "geometry": [
+                [329842, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 142453,
+        "properties": {
+            "tags": "Dinsey,Dinsey Store,Store",
+            "phone": "(703) 556-6910",
+            "int_address": ["Unit D014L"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Dinsey Store",
+            "geometry": [
+                [210745, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8685,
+        "properties": {
+            "tags": "Easy,Easy Spirit,Spirit",
+            "phone": "(703) 893-0121",
+            "int_address": ["Unit O009L"],
+            "location": "1",
+            "description": "Stylish shoes with comfort for men and women.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Easy Spirit",
+            "url": "www.easyspirit.com/",
+            "geometry": [
+                [210692, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 1082464,
+        "properties": {
+            "int_address": ["Unit F006L"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "EB Games",
+            "geometry": [
+                [214568, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 522635,
+        "properties": {
+            "phone": "(703) 388-0056",
+            "int_address": ["Unit J006U"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Ecco Shoes",
+            "url": "http://us.shop.ecco.com/",
+            "geometry": [
+                [329864, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8686,
+        "properties": {
+            "tags": "Bags,Bedding,Eddiebauer.com,Gear,Mens Clothing,Mens Outerwear,Mens Shoes,Swimwear,Womens Clothing,Womens Outerwear,Womens Shoes,Eddie Bauer",
+            "phone": "(703) 893-4483",
+            "int_address": ["Unit H005L"],
+            "location": "2",
+            "description": "Exceptional customer service and premium-quality clothing, accessories and gear for men and women that complement today's modern outdoor lifestyle.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Eddie Bauer",
+            "url": "www.eddiebauer.com",
+            "geometry": [
+                [210645, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 522636,
+        "properties": {
+            "phone": "(703) 893-4483",
+            "int_address": ["Unit F003DL"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Elevation Burger",
+            "url": "http://www.eddiebauer.com/home.jsp",
+            "geometry": [
+                [6368272, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8690,
+        "properties": {
+            "tags": "But,Everything,Everything But Water,Water",
+            "phone": "(703) 748-1987",
+            "int_address": ["Unit O015AU"],
+            "location": "2",
+            "description": "Offering a broad selection of trend-setting swimwear and resort fashions. As the largest specialty swimwear chain, Everything But Water truly is the swimwear source.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Everything But Water",
+            "url": "http://www.everythingbutwater.com",
+            "geometry": [
+                [329871, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8691,
+        "properties": {
+            "tags": "Men's Clothing,Mens Clothes,Womens Clothes,Express,Women's Clothing",
+            "phone": "(703) 760-8980",
+            "int_address": ["Unit O004L"],
+            "location": "1",
+            "description": "A sexy and sophisticated designer brand for work and casual wear among fashion-forward young women and men.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Express",
+            "url": "www.expressfashion.com/index.jsp",
+            "geometry": [
+                [210687, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 522637,
+        "properties": {
+            "phone": "(703) 288-3668",
+            "int_address": ["Unit G014U"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Eyebrow Designer 21",
+            "geometry": [
+                [329903, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8694,
+        "properties": {
+            "tags": "Famous Famiglia,Restaurants Order At The Counter",
+            "phone": "(703) 288-3433",
+            "int_address": ["Unit FC05"],
+            "location": "3",
+            "description": "Famous Famiglia, New York's Favorite Pizza and the Official Pizza of the New York Yankees, serves pizza, pasta, and Italian specialties. ",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Famous Famiglia",
+            "url": "www.famousfamiglia.com",
+            "geometry": [
+                [6369993, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8695,
+        "properties": {
+            "tags": "Fashion,Fashion Time The Time Store,Store,Time",
+            "phone": "(703) 893-9005",
+            "int_address": ["Unit J001AUB"],
+            "location": "2",
+            "description": "Sale of watches, clocks and related items and repairs and services of such items.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Fashion Time The Time Store",
+            "geometry": [
+                [329854, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8696,
+        "properties": {
+            "tags": "Fast-Fix,Watch Repair,While You,Fast-Fix Jewelry Repairs,Jewelry & Accessories,Jewelry Repair",
+            "phone": "(571) 633-0766",
+            "int_address": ["Unit G013U"],
+            "location": "2",
+            "description": "Specializes in Jewelry and Watch Repair",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Fast-Fix Jewelry Repairs",
+            "url": "www.fastfix.com/",
+            "geometry": [
+                [329907, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8697,
+        "properties": {
+            "tags": "Finish,Finish Line,Line",
+            "phone": "(571) 633-0161",
+            "int_address": ["Unit E012L"],
+            "location": "1",
+            "description": "Leading athletic retailer specializing in brand name footwear, apparel and accessories. Best selection of product built for your Sport.Life.Style.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Finish Line",
+            "url": "www.finishline.com/",
+            "geometry": [
+                [210719, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 216197,
+        "properties": {
+            "tags": "Finks",
+            "int_address": ["Unit G006U"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Finks"
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8698,
+        "properties": {
+            "tags": "&amp,Art,Beads,Fire,Fire & Ice,Glass,Gold,Ice,Jewelry,Silver",
+            "phone": "(703) 356-7598",
+            "int_address": ["Unit G022L"],
+            "location": "1",
+            "description": "Fire &amp Ice - Hand Crafted Gold and Silver Jewelry Also Specialize In Art Glass Fossil and Mineral Carvings and Many Other Unusual Artifacts",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Fire & Ice",
+            "url": "www.fireandice.com",
+            "geometry": [
+                [210685, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8699,
+        "properties": {
+            "tags": "Five Guys Burgers And Fries,RESTAURANTS",
+            "phone": "(571) 633-9550",
+            "int_address": ["Unit FC08"],
+            "location": "3",
+            "description": "Burgers, hot dogs, fries.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Five Guys Burgers and Fries",
+            "url": "www.fiveguys.com",
+            "geometry": [
+                [6369987, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 142507,
+        "properties": {
+            "tags": "Athletic Shoes,Casual Shoes,Jordan Shoes,Running Shoes,Foot Locker/Kids Foot Locker,Basketball Shoes",
+            "phone": "(703) 506-8220",
+            "int_address": ["Unit F003L"],
+            "description": "Foot Locker offers a wide variety of athletic shoes including basketball shoes, jordan shoes, running shoes and casual shoes.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Foot Locker/Kids Foot Locker",
+            "url": "www.FootLocker.com/",
+            "geometry": [
+                [210659, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8701,
+        "properties": {
+            "tags": "Accessories,Apparel,Basics,Bottoms,Casual Tops,Cheap,Clothing,Denim,Dress,Dresses,Dressy Tops,Earrings,Fashion,Forlove,Gadzooks,Graphics,Hair Goods,Halter,Handbags,Hats,Intimate,Jackets,Jeans,Jewelry,Junior Fashion,Mens,Necklaces,Outerwear,Pants,Rings,Sale,Scarves,Shirts,Shoes,Shorts,Skirts,Sunglasses,Sweaters,Tank Tops,Tees,Tops,Tube Top,Underwear,Woman,Womens,Womens Apparel,Xxi,Forever 21,Clothes",
+            "phone": "(703) 442-9501",
+            "int_address": ["Unit E020L"],
+            "location": "1",
+            "description": "A phenomenon in the fashion world that provides shoppers with an unprecedented selection of today's fashions, always changing and always in style.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Forever 21",
+            "url": "www.forever21.com/",
+            "geometry": [
+                [210721, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 522638,
+        "properties": {
+            "phone": "(703) 288-8538",
+            "int_address": ["Unit G008U"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Francesca's Collections",
+            "url": "http://www.francescas.com/",
+            "geometry": [
+                [329899, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8704,
+        "properties": {
+            "tags": "Apparel,Bags,Bohemian,Bracelets,Camis,Camisoles,Clothes,Denim,Dresses,Earrings,Gloves,Hats,Hoodies,Jackets,Jeans,Jewelry,Necklaces,Pants,Scarves,Shirts,Shoes,Shorts,Skirts,Sweaters,Tanks,Tees,Urbn,Free People,Clothing",
+            "phone": "(703) 821-6928",
+            "int_address": ["Unit N001U"],
+            "location": "2",
+            "description": "Unique women's apparel including tops, bottoms, dresses, skirts, women's jewelry, and other accessories.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Free People",
+            "url": "http://www.freepeople.com/",
+            "geometry": [
+                [329937, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8705,
+        "properties": {
+            "tags": "Fresh,Fresh & Fruity,Fruity",
+            "phone": "(703) 848-8070",
+            "int_address": ["Unit KSK06U"],
+            "location": "1",
+            "description": "Fresh juices, smoothies, fountain beverages, coffee, bottled water and drinks, frozen yogurt, pretzels, and related items.",
+            "name": "Fresh & Fruity",
+            "geometry": [
+                [329965, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 535158,
+        "properties": {
+            "phone": "(703) 760-4626",
+            "int_address": ["Unit G012U"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Fruity Yogurt",
+            "geometry": [
+                [329906, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8707,
+        "properties": {
+            "tags": "Baby Clothing,Clothing,Kids Clothing,Maternity Clothing,Mens Clothing,Womens Clothing,Gap,Clothes",
+            "phone": "(703) 893-4546",
+            "int_address": ["Unit E009U"],
+            "location": "2",
+            "description": "Jeans and apparel, including loungewear, sleepwear and intimate apparel, for men and women.",
+            "name": "Gap",
+            "url": "www.Gap.com/",
+            "geometry": [
+                [329931, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8708,
+        "properties": {
+            "tags": "Garage,Clothing,GRG,GRG TXT,GRG Email,Garage.ca,Garageclothing.com,Girls Clothing,Women&39s Clothing,Accessories,Apparel,Back To School,Back-to-school,Bags,Belts,Bikini,Bikinis,Blue Jeans,Boot Cut,Bootcut,Boots,Bottoms,Bracelets,Cami,Camisole,Capri Pants,Capris,Cardigan,Cargo,Cargo Pants,Clothes,Clothes For Girls,Clothes Store,Clothing For Girls,Clothing Stores,Cropped,Denim,Dresses,Everyday,Fashion,Fashion Trends,Flare,Fleece,Flip Flop,Fragrance,Gift,Gift Card,Giftcard,Girl Clothing,Graphics,Hoodies,Jackets,Jeans,Jewellry,Jewelry,Necklaces,Outerwear,Pants,Perfume,Personal Care,Print,Purses,Rings,Sandals,Sandblast,Scarves,School,Shirts,Shoes,Shopping,Shorts,Skinny Jeans,Skirts,Sneakers,Stores,Sunglasses,Sweaters,Sweatpants,Sweats,Sweatshirts,Swim,Swimsuits,Swimwear,T&39s,T-shirts,Tank,Tank Top,Tanks,Tanktop,Tee&39s,Tee-shirts,Teen Clothing Store,Teen Clothing Stores,Teenager,Teens,Tees,Tops,Underwear,Wide Leg,Womens,Womens Fashion,Zippies,5-pocket",
+            "phone": "(703) 883-2055",
+            "int_address": ["Unit N009U"],
+            "location": "2",
+            "description": "Stylish clothing, footwear and accessories for teens.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Garage",
+            "url": "www.garage.ca/",
+            "geometry": [
+                [329939, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8710,
+        "properties": {
+            "tags": "Bodybuilding,Cylaris,Diet,Energy,Fiber,Gift,Glucomannan,Gnc,Gnc.com,Health,Herb,Holiday,Hoodia,Hydroxycut,Loss,Mineral,Muscle,Nutrition,Pro Performance,Protein,Supplement,Weight,Whey,Zinc,Vitamin",
+            "phone": "(703) 893-0046",
+            "int_address": ["Unit F001AL"],
+            "location": "1",
+            "description": "Providing supplements and vitamins for health-conscious customers, GNC is devoted to improving quality of life through Nutritional Science.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "GNC",
+            "url": "www.gnc.com/home/index.jsp",
+            "geometry": [
+                [210711, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8711,
+        "properties": {
+            "tags": "Belgian Chocolate,Biscotti,Biscuits,Chocolate,Chocolate Cake,Chocolate Gifts,Chocolate Baskets,Cookies,Dark Chocolate,Hot Chocolate,Recipes,Truffles,Godiva,Godiva Chocolatier",
+            "phone": "(703) 448-4825",
+            "int_address": ["Unit G018L"],
+            "location": "1",
+            "description": "Evokes the greatest in confectionery excellence.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Godiva Chocolatier",
+            "url": "www.godiva.com/welcome.aspx",
+            "geometry": [
+                [210683, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8712,
+        "properties": {
+            "tags": "American,Biersch,Brewery,Dining,Gordon,Gordon Biersch Brewery Restaurant,Restaurant,Sit Down",
+            "phone": "(703) 388-5454",
+            "int_address": ["Unit N013L"],
+            "location": "1",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Gordon Biersch Brewery Restaurant",
+            "url": "www.gordonbiersch.com",
+            "geometry": [
+                [210653, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8713,
+        "properties": {
+            "tags": "Cheese Steak,Great Wraps,Franchise,Franchising,Fries,Great Wraps Fries,Grilled Sandwiches,Menu,Sandwich,Spice,Wrap",
+            "phone": "(703) 356-2070",
+            "int_address": ["Unit FC06"],
+            "location": "3",
+            "description": "Wrap-style sandwiches, Philly Cheesesteak-style sandwiches, melt sandwiches, chicken fingers, platters, breakfast items, and various salads, sides, and soups. ",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Great Wraps",
+            "url": "www.greatwraps.com",
+            "geometry": [
+                [6369988, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8714,
+        "properties": {
+            "tags": "Grill,Grill Kabob,Kabob",
+            "phone": "(703) 893-1176",
+            "int_address": ["Unit FC09"],
+            "location": "3",
+            "description": "Kabobs, chicken curry, Basmati rice, Baklava.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Grill Kabob",
+            "url": "www.grillkabobrestaurants.com/",
+            "geometry": [
+                [6369986, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8715,
+        "properties": {
+            "tags": "Guess",
+            "phone": "(703) 288-5172",
+            "int_address": ["Unit N007U"],
+            "location": "2",
+            "description": "Known for innovative style, we continue to dress and accessorize the world with fashion-forward apparel, handbags, watches, shoes and more.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Guess",
+            "url": "www.Guess.com/",
+            "geometry": [
+                [329943, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8716,
+        "properties": {
+            "tags": "Gymboree",
+            "phone": "(703) 790-8858",
+            "int_address": ["Unit D008L"],
+            "location": "1",
+            "description": "Unique from head to toe. Girls and boys clothing and accessories for newborns, toddlers and children up to size 12. ",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Gymboree",
+            "url": "www.gymboree.com",
+            "geometry": [
+                [210739, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8717,
+        "properties": {
+            "tags": "H&M",
+            "phone": "(703) 556-6812",
+            "int_address": ["Unit M001L"],
+            "location": "1",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "H&M",
+            "url": "http://www.hm.com/",
+            "geometry": [
+                [210752, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8718,
+        "properties": {
+            "tags": "H&M",
+            "phone": "(703) 506-9091",
+            "int_address": ["Unit E001L"],
+            "location": "1",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "H&M",
+            "url": "http://www.hm.com/",
+            "geometry": [
+                [210715, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8720,
+        "properties": {
+            "tags": "Cuttery,Hair,Hair Cuttery",
+            "phone": "(703) 442-9721",
+            "int_address": ["Unit E001EU"],
+            "location": "2",
+            "description": "Hair salon for men, women, and children as well as sales of related hair care items.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Hair Cuttery",
+            "url": "www.haircuttery.com",
+            "geometry": [
+                [329960, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8722,
+        "properties": {
+            "tags": "Baby Clothing,Childrens Clothes,Childrens Clothing Catalog,Childrensclothing,Clothes,Dresses,Free Baby Catalog,Girls Clothes,Hanaandersen.com,Hanna And Clothes,Hanna Anderson Childrens Clothing,Hanna Anderson Corp,Hanna Anderssen,Hanna Anderssen Clothing,Hanna Clothes,Hannaandersen.com,Hannaanderson,Hannaandersson,Hannah Anderson Catalog,Hannah Anderson Clothing,Hannah Andersson Clothing,Hannah Swedish Clothing,Hannahandersson,Hannandersen.com,Kidsclothes,Leggings,Outerwear,Sweatpants,Swedish Baby Clothes,Underwear,Uniforms,Hana Anderssen,Accessories,Babies,Baby,Baby Clothes,Babyclothes,Bike Shorts,Boys Clothes,Boys Clothing,Children Clothes,Children Clothing,Children's Clothes,Children's Clothing,Childrens Clothing,Clogs,Clothing,Cotton,Cotton Baby Clothes,Cotton Clothes,Cotton Clothing,Denim,European Sizing,Fleece,Free Baby Catalogs,Free Clothing Catalog,Free Clothing Catalogs,Girls Clothing,Gore-tex,Hana Anderson,Hanaandersson.com,Hanahanderson.com,Hanna,Hanna  Andersson,Hanna Anderrson,Hanna Andersen,Hanna Andersen.com,Hanna Anderson,Hanna Anderson Catalog,Hanna Anderson Clothes,Hanna Anderson Clothing,Hanna Anderson Kids Clothes,Hanna Anderson.com,Hanna Andersson,Hanna Andersson Clothing,Hanna Andersson Corp,Hanna Andersson.com,Hanna Clothing,Hanna Home Page,Hanna-anderson,Hanna-andersson,Hannaandderson.com,Hannaanderrsen.com,Hannaanderrson,Hannaanderrson.com,Hannaandersen,Hannaanderson.com,Hannaandersonn.com,Hannaanderssen,Hannaanderssen.com,Hannaandersson.com,Hannaandresson.com,Hannaannderson.com,Hannah Anderson,Hannah Anderson Clothes,Hannah Anderson.com,Hannah Andersson,Hannah Andersson.com,Hannahandersen,Hannahanderson,Hannahanderson.com,Hannahanderssen.com,Hannahandersson.com,Hannanadersson.com,Hannanandersson.com,Hannanderssen.com,Hannandersson,Hannandersson.com,Hannas,Hats,Headbands,Infant Clothes,Infant Clothing,Jumpers,Kid's Clothes,Kids Clothing,Long Johns,Maternity,Overalls,Pants,Polo Shirts,Pregnant,Quality,Rugby Shirts,School,Shirts,Shorts,Skirts,Sleepwear,Socks,Sweaters,Sweats,Sweatshirts,Swedish,Swedish Clothes,Swedish Clothing,Swimwear,Tee Shirts,Tee-shirts,Tights,Toddler Clothes,Toddler Clothing,Tops,Turtlenecks,Women's,Women's Clothing,Ww.hannaanderson.com,Children's Apparel,Kids Clothes",
+            "phone": "(703) 356-6104",
+            "int_address": ["Unit O001U"],
+            "location": "2",
+            "description": "Quality apparel and design for kids and families, inspired by our Swedish heritage. ",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Hanna Andersson",
+            "url": "www.hannaandersson.com",
+            "geometry": [
+                [329884, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8723,
+        "properties": {
+            "tags": "Buying Diamonds,Diamond Engagement Rings,Engagement Rings,Gemstone Jewelry,Jewelry,Sterling Silver Jewelry,Helzberg Diamonds,Diamond Jeweler",
+            "phone": "(703) 848-9008",
+            "int_address": ["Unit F008L"],
+            "location": "1",
+            "description": "Providing exclusive designs and timeless jewelry. Whether your taste is classic or contemporary, we provide exciting jewelry for you and those you love.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Helzberg Diamonds",
+            "url": "http://www.helzberg.com",
+            "geometry": [
+                [210667, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8725,
+        "properties": {
+            "tags": "Hollister,Hollister Co.",
+            "phone": "(703) 288-1354",
+            "int_address": ["Unit M001U"],
+            "location": "2",
+            "description": "A California lifestyle retailer geared toward energetic and outgoing guys and girls.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Hollister Co.",
+            "url": "www.hollisterco.com",
+            "geometry": [
+                [329945, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 216202,
+        "properties": {
+            "tags": "I Am",
+            "phone": "(703) 918-9373",
+            "int_address": ["Unit O008U"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "I am",
+            "geometry": [
+                [329877, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 813532,
+        "properties": {
+            "phone": "(703) 442-0627",
+            "int_address": ["Unit J008U"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Infinite Beauty",
+            "geometry": [
+                [329861, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 535159,
+        "properties": {
+            "phone": "(703) 584-7295",
+            "int_address": ["Unit K006U"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Intimacy",
+            "geometry": [
+                [329840, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 1008812,
+        "properties": {
+            "int_address": ["Unit G016U"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Irelax",
+            "geometry": [
+                [329901, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8727,
+        "properties": {
+            "tags": "J. Jill,Jill",
+            "phone": "(703) 734-6042",
+            "int_address": ["$id 329851"],
+            "location": "2",
+            "description": "Offers women's apparel, accessories, and footwear.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "J. Jill",
+            "url": "www.jjill.com/",
+            "geometry": [
+                [329851, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8728,
+        "properties": {
+            "tags": "Newborns,Babies,Baby,Baby Clothes,Baby Clothing,Baby Furniture,Baby Gifts,Baby Names,Baby Products,Baby Shower,Baby Store,Baby Stuff,Baby Things,Babys,Babyshower,Birthday Gifts,Birthdays,Body Suit,Bodysuit,Boutique,Boys,Child,Child Clothing,Children,Children's Clothes,Childrens Clothes,Clothes,Dress,Dresses,Furniture,Gift,Gift Basket,Gifts,Girls,Infant Clothing,Infants,Kid,Kid Clothes,Kid Clothing,Kid Style,Kids,Kids Clothes,Layette,Maternity,Maternity Clothes,Newborn,Newborn Clothes,Onesie,Onesy,Onezie,Onezy,Onsie,Pajamas,Pregnancy,Pregnant,Presents,Toddler,Toddlers,Janie And Jack,Shopping",
+            "phone": "(703) 356-7526",
+            "int_address": ["Unit E001AU"],
+            "location": "2",
+            "description": "Precious looks rich in fabric, design and detail. For girls and boys Layette up to size 6. ",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Janie and Jack",
+            "url": "www.janieandjack.com/index.jsp",
+            "geometry": [
+                [329923, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8729,
+        "properties": {
+            "tags": "Jessica,Jessica McClintock,McClintock",
+            "phone": "(703) 790-0016",
+            "int_address": ["Unit J003L"],
+            "location": "1",
+            "description": "Specializes in special occasion dresses including prom and bridal.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Jessica McClintock",
+            "url": "www.jessicamcclintock.com",
+            "geometry": [
+                [210699, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8730,
+        "properties": {
+            "tags": "J&M,Johnston & Murphy,Johnston And Murphy,Shoes,Apparel,Belts,Cedar Products,Coats,Comfort,Footwear,Jackets,Leather Goods,Men's Accessories,Men's Apparel,Men's Clothing,Men's Footwear,Men's Gifts,Men's Shoes,Online Footwear,Pants,Shirts,Shoe Care,Shoe Repair,Socks,Style",
+            "phone": "(703) 556-9833",
+            "int_address": ["Unit G002BU"],
+            "location": "2",
+            "description": "Shop Johnston & Murphy for a premium selection of mens and womens footwear, accessories, apparel and gifts. Free ground shipping on orders over 225.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Johnston & Murphy",
+            "url": "www.johnstonmurphy.com",
+            "geometry": [
+                [329888, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8731,
+        "properties": {
+            "tags": "Journeys,Accessories,Adidas,Apparel,Boots,Candies,Converse,Cool,Dr. Martens,Funky,Handbags,Hip,Melissa,Puma,Sandals,Shoes,T-shirts,Teen,Vans",
+            "phone": "(703) 448-0371",
+            "int_address": ["Unit F003AL"],
+            "location": "1",
+            "description": "Offering a collection of hip men's and women's footwear, clothing and accessories.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Journeys",
+            "url": "www.Journeys.com/",
+            "geometry": [
+                [210657, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8732,
+        "properties": {
+            "tags": "Justice",
+            "phone": "(703) 748-0956",
+            "int_address": ["Unit G009AL"],
+            "location": "1",
+            "description": "Offering a wide array of apparel, swimwear, sleepwear, underwear, footwear, lifestyle and personal care products for active, fashion-aware 'tween girls.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Justice",
+            "url": "www.shopjustice.com/limitedtoo",
+            "geometry": [
+                [210675, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8734,
+        "properties": {
+            "tags": "Cajun,Grill,Kelly's,Kelly's Cajun Grill",
+            "phone": "(703) 288-4702",
+            "int_address": ["Unit G001L"],
+            "location": "1",
+            "description": "Great Cajun food. Come check out our bourbon chicken, shrimp etouff'ee, Louisiana clam chowder, sandwiches, salads and 31 side orders!",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Kelly's Cajun Grill",
+            "url": "www.kellyscajungrill.com",
+            "geometry": [
+                [6368273, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 522666,
+        "properties": {
+            "phone": "(703) 734-1252",
+            "int_address": ["Unit F001U"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Kiehl's",
+            "url": "http://www.kiehls.com/",
+            "geometry": [
+                [329909, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8751,
+        "properties": {
+            "tags": "L'Occitane,L'Occitane En Provence,Provence",
+            "phone": "(703) 893-6664",
+            "int_address": ["Unit G002CU"],
+            "location": "2",
+            "description": "We create products for men, women and the home, which are presented in traditional packaging that reflect the true elegance of simplicity, and all are produced according to strict ethical guidelines.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "L'Occitane en Provence",
+            "url": "www.loccitane.com/",
+            "geometry": [
+                [329890, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8739,
+        "properties": {
+            "tags": "Footwear,Home Furnishings,Outdoor Apparel And Gear,Travel,Anchor Stores,L.L. Bean,Ll Bean",
+            "phone": "(703) 288-4466",
+            "int_address": ["Unit J010L"],
+            "location": "1",
+            "description": "L.L.Bean is a leading retailer of quality gear and apparel for men, women, and children who enjoy the outdoors. The company was founded in 1912 and is headquartered in Freeport, Maine.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "L.L. Bean",
+            "url": "www.llbean.com",
+            "geometry": [
+                [210706, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8740,
+        "properties": {
+            "tags": "La Madeleine,Madeleine",
+            "phone": "(703) 827-8833",
+            "int_address": ["Unit D008U"],
+            "location": "In Strip Center across from Lord & Taylor",
+            "description": "Step out of the world and into la Madeleine, where you can enjoy the simple pleasures of French country life: fresh, flavorful food, welcoming people and good conversation. ",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "la Madeleine",
+            "url": "www.lamadeleine.com/",
+            "geometry": [
+                [329918, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 142492,
+        "properties": {
+            "tags": "Bar,Chicken,La Sandia Mexican Chicken And Bar,Mexican,Sandia",
+            "phone": "(703) 893-2222",
+            "int_address": ["Unit M011L"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "La Sandia Mexican Chicken and Bar",
+            "url": "http://www.richardsandoval.com/",
+            "geometry": [
+                [210651, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 522667,
+        "properties": {
+            "phone": "(703) 288-0801",
+            "int_address": ["Unit K007U"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Lacoste",
+            "url": "http://www.lacoste.com/",
+            "geometry": [
+                [329841, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 139704,
+        "properties": {
+            "tags": "Nike Shox,Women's Casual Boots,Women's Casual Shoes,Women's Running Shoes,Lady Foot Locker,Nike Running Shoes",
+            "phone": "(703) 506-0908",
+            "int_address": ["Unit D009L"],
+            "description": "Lady Foot Locker has women's running shoes from the leading brands of Nike, adidas, Saucony, Under Armour. We also offer women's casual shoes and casual boots.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Lady Foot Locker",
+            "url": "www.ladyfootlocker.com/",
+            "geometry": [
+                [210740, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8742,
+        "properties": {
+            "tags": "Laila Rowe,Life & Style Weekly,Life And Style,Lyla Rowe,'tween,Accessories,Bags,Bangles,Beads,Boho,Bracelet,Bracelets,Chic,Cool Looks,Cool Trends,Cosmo Girl,Cubic Zirconia,Earrings,Fashion,Fashion Accessories,Fashion Trends,Handbags,Hats,Jewelry,Lailarowe,Layla Rowe,Laylarowe,Life&style,Lylarowe,New York,Nyc,Plastic,Rhinestone,Rhinestones,Ring,Rings,Shopping,Style,Styles,Sunglasses,Teen Apparel,Teen Fashion,Teen Fashion Accessories,Teen People,Trend,Tween,Umbrella,Wishlist,Costume,Gifts,Hat,Necklaces,Teen Accessories,Trends",
+            "phone": "(703) 288-3640",
+            "int_address": ["Unit N005U"],
+            "location": "2",
+            "description": "Your one stop shop for necklaces, earrings, bracelets, handbags, and other accessories.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Laila Rowe",
+            "url": "www.lailarowe.com",
+            "geometry": [
+                [329944, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8743,
+        "properties": {
+            "tags": "Bridal Jewelry,Copy Jewelry,Costume Jeweler,Costume Jeweller,Costume Jewelry,Cubic Zirconia,Cubic Zirconium,Faberge,Fashion Jewelry,Faux Jewelry,Minaudiere,Pillbox,Replica Jewelry,ACCESSORIES,JEWELRY,Landau",
+            "phone": "(703) 356-3760",
+            "int_address": ["Unit G002DU", "Unit G002DU"],
+            "location": "2",
+            "description": "Landau collection of costume jewelry, cubic zirconia,  14k gold jewelry, faberge, pillboxes, minaudieres jewelled evening bags. Over 60 Landau boutiques worldwide. Landau Costume Jeweler offers a Lifetime Guarantee.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Landau",
+            "url": "www.landaujewelry.com",
+            "geometry": [
+                [329889, true],
+                [329889, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8744,
+        "properties": {
+            "tags": "Le Salon,Salon",
+            "phone": "(703) 893-8833",
+            "int_address": ["Unit E001CU"],
+            "location": "2",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Le Salon",
+            "geometry": [
+                [329959, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8745,
+        "properties": {
+            "tags": "LEGO",
+            "phone": "(703) 848-2822",
+            "int_address": ["Unit D007L"],
+            "location": "1",
+            "description": "LEGO brand and related products, including play materials, children's toys, clothing, and accessories.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Lego",
+            "url": "www.lego.com",
+            "geometry": [
+                [210738, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8746,
+        "properties": {
+            "tags": "Lenkersdorfer",
+            "phone": "(703) 506-6712",
+            "int_address": ["Unit J005U"],
+            "location": "2",
+            "description": "Jewelry, time pieces, and related gifts as well as jewelry and watch repair. ",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Lenkersdorfer",
+            "url": "www.lenkersdorfer.com",
+            "geometry": [
+                [329863, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8747,
+        "properties": {
+            "tags": "LensCrafters",
+            "phone": "(703) 790-3180",
+            "int_address": ["Unit J013L"],
+            "location": "1",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "LensCrafters",
+            "url": "www.lenscrafters.com/",
+            "geometry": [
+                [210707, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8748,
+        "properties": {
+            "tags": "Levenger",
+            "phone": "(703) 288-9097",
+            "int_address": ["Unit H001AU"],
+            "location": "2",
+            "description": "Tools for serious readers - such as totes, briefcases, pens, stationary and more.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Levenger",
+            "url": "www.levenger.com/",
+            "geometry": [
+                [329846, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8749,
+        "properties": {
+            "tags": "Levi's,Men's & Women's Apparel",
+            "phone": "(703) 917-0882",
+            "int_address": ["Unit D006AU"],
+            "location": "2",
+            "description": "Levi's. Where you can find your favorite pair of Levi's or you can create a pair of jeans or if you have a hard to find size, then you can modify a pair of existing jeans. We also do cargo khakis and carpenter pants.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Levi's",
+            "url": "us.levi.com",
+            "geometry": [
+                [5662871, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8750,
+        "properties": {
+            "tags": "Lids",
+            "phone": "(703) 847-1800",
+            "int_address": ["Unit D011L"],
+            "location": "1",
+            "description": "Offering the biggest and best selection of sport, fashion and collegiate hats in the latest designs and trends. Choose hats from the hottest brands and profiles, with the accessories and apparel you need to complete your look.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Lids",
+            "url": "www.Lids.com/",
+            "geometry": [
+                [210742, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 522668,
+        "properties": {
+            "phone": "(703) 288-1513",
+            "int_address": ["Unit D006CU"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Loft",
+            "url": "http://www.loft.com/",
+            "geometry": [
+                [329913, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8752,
+        "properties": {
+            "tags": "AK Anne Klein,Adrianna Papell,BCBG Max Azria,BCBGirls,Calvin Klein,Clinique,Eileen Fisher,Ellen Tracy,Estee Lauder,Frye,Lancome,Laundry,Michael Michael Kors,Ralph Lauren,Tahari,Ugg,Apparel,Beauty,Cosmetics,Department Stores,Handbags,Jewelry,Kids Clothes,Lord And Taylors,Men's Clothing,Men's Shoes,Swimwear,Uggs,Women's Clothing,Women's Dresses,Women's Fashion,Women's Shoes,Womens Clothes,Lord & Taylor,Lord And Taylor",
+            "phone": "(703) 506-1156",
+            "int_address": ["Unit MAJ03"],
+            "location": "1",
+            "description": "Since 1826, we have built a reputation for service, for quality, and most of all, for style. By creating a unique mix of the latest trends and the timeless classics, we have become the favorite store of generations of shoppers.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Lord & Taylor",
+            "url": "www.lordandtaylor.com/",
+            "geometry": [
+                [210726, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 142503,
+        "properties": {
+            "tags": "LOVESAC",
+            "phone": "(703) 506-0805",
+            "int_address": ["Unit F004AL"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "LoveSac",
+            "url": "http://www.lovesac.com/",
+            "geometry": [
+                [210655, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8754,
+        "properties": {
+            "tags": "Luciano,Luciano Restaurant & Pizzeria,Pizzeria,Restaurant",
+            "phone": "(703) 893-8488",
+            "int_address": ["Unit E001FU"],
+            "location": "2",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Luciano Restaurant & Pizzeria",
+            "geometry": [
+                [329961, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8755,
+        "properties": {
+            "tags": "Brand,Jeans,Lucky,Lucky Brand Jeans",
+            "phone": "(703) 893-4419",
+            "int_address": ["Unit M007U"],
+            "location": "2",
+            "description": "Vintage-inspired denim, sportswear, outerwear, T-shirts, activewear and accessories for men and women",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Lucky Brand Jeans",
+            "url": "www.LuckyBrandJeans.com/",
+            "geometry": [
+                [329948, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8756,
+        "properties": {
+            "tags": "Gym Clothes,Lucy Brand,Lucy Retail,Lucy Stores,Lucy.com,Pilates Apparel,Pilates Clothes,Running Clothes,Running Clothing,Travel Apparel,Travel Clothes,Women's Activewear,Workout Clothes,Workout Pants,Yoga Apparel,Yoga Clothes,Yoga Clothing,Yoga Pants,Yoga Wear,Lucy,Lucy Activewear",
+            "phone": "(703) 506-6755",
+            "int_address": ["Unit J008L"],
+            "location": "1",
+            "description": "Beautifully designed, multi-use apparel and accessories for today's active woman",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "lucy",
+            "url": "www.lucy.com",
+            "geometry": [
+                [210704, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8757,
+        "properties": {
+            "tags": "Hot Yoga Wear,Yoga Accessories,Yoga Clothes,Yoga Clothing For Men,Yoga Clothing For Women,Yoga Mat,Yoga Workout,Lululemon Athletica,Yoga Pants",
+            "phone": "(703) 821-1357",
+            "int_address": ["Unit K004AU"],
+            "location": "2",
+            "description": "Yoga and athletic apparel for the fashion minded.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Lululemon athletica",
+            "url": "www.lululemon.com",
+            "geometry": [
+                [329838, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8758,
+        "properties": {
+            "tags": "Arts,Autos,Beauty,Care,Computers,Construction,Education,Elec.,Entertainment,Estate,Financial,Garden,Health,Hotels,Improvement,Insurance,Lawn,Legal,Lodging,Pet,Real,Restaurant,Services,Shopping,Wellness,Agriculture,Lush",
+            "phone": "(703) 893-5874",
+            "int_address": ["Unit KSK01U"],
+            "location": "2",
+            "description": "Fresh, handmade cosmetics, soap, fragrance, skincare and massage products!",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Lush",
+            "url": "http://ca.ocregister.com",
+            "geometry": [
+                [338819, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8759,
+        "properties": {
+            "tags": "M.A.C",
+            "phone": "(703) 356-3182",
+            "int_address": ["Unit O006U"],
+            "location": "2",
+            "description": "World renowned cosmetics and skincare line with a full range of alluring colors in eye shadow, blush, lipsticks and more. Products for face, skin, lips, and eyes as well as tools and accessories for all cosmetic needs.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "M.A.C",
+            "url": "www.maccosmetics.com/",
+            "geometry": [
+                [329879, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 139705,
+        "properties": {
+            "tags": "Macys Store,Accessories,Apparel,Clothing,Clothing Store,Department Stores,Dept Store,Macy's Department Store,Macys Apparel,Macys Department Stores,Macy's,Department Store",
+            "phone": "(703) 893-4900",
+            "int_address": ["Unit MAJ02"],
+            "description": "Shop Clothing, Accessories, Jewelry, Beauty, Shoes and Home Products at Macys.com. Macy's, America's Department Store carries Women's , Men's and Kids Fashion Apparel and Accessories, Shoes, Perfume, Handbags, Bedding, Furniture, Mattresses, Small Kitchen Appliances and more.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Macy's",
+            "url": "www.macys.com",
+            "geometry": [
+                [329869, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8761,
+        "properties": {
+            "tags": "Jewelry,Bags,Cardigan,Denim,Jeans,Pants,Scarves,Shorts,Skinny Jeans,Skirts,T Shirts,Tank Tops,Madewell,Women's Apparel,Women's Clothing",
+            "phone": "(703) 761-4301",
+            "int_address": ["Unit G005AU"],
+            "location": "2",
+            "description": "Real, honest, wear-with-everything clothes for women.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Madewell",
+            "url": "www.madewell1937.com/",
+            "geometry": [
+                [329893, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 216174,
+        "properties": {
+            "tags": "Health,Magic,Magic & Health",
+            "phone": "(703) 790-4789",
+            "int_address": ["Unit O013L"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Magic & Health",
+            "geometry": [
+                [210688, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8765,
+        "properties": {
+            "tags": "Express,Massage,Massage Express",
+            "phone": "(703) 288-9601",
+            "int_address": ["Unit E022L"],
+            "location": "1",
+            "description": "Massage Express offers relaxing massages at great prices. Come check out our services: Acupressure and Foot Reflexology. ",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Massage Express",
+            "url": "www.massageexpress.net",
+            "geometry": [
+                [210725, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 142514,
+        "properties": {
+            "tags": "Dollar Menu,Extra Value Meals,Happy Meals,McCafe,Mighty Kids Meals,RMHC,See What We're Made Of,Angus,Beverages,Big Mac,Breakfast,Burgers,Careers,Cheeseburger,Desserts,Desserts And Shakes,Drinks,Food,Food Quality,Franchise,Fries,Fry,Full Menu,Hamburger,Happy Meal,Innovation,Jobs,Mcdonald's Corporation,Mcmuffin,Meal Bundles,Menu,Nutrition,Quality,Quarter Pounder,Ronald,Ronald Mcdonald House Charities,Salads,Sandwiches,See Menu,Shakes,Stock,Third Pounders,Trends,View Menu,McDonald's,United States",
+            "phone": "(703) 448-9594",
+            "int_address": ["Unit F002L"],
+            "description": "McDonald's in the USA Food and nutrition info, franchise opportunities, job and career info, restaurant locations, promotional information, history, innovation and more.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "McDonald's",
+            "url": "www.mcdonalds.com/",
+            "geometry": [
+                [210663, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 216166,
+        "properties": {
+            "tags": "Designer Apparel And Sportswear,Kors,Michael,Michael Kors,Shoes",
+            "phone": "(703) 883-0220",
+            "int_address": ["Unit H001U"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Michael Kors",
+            "url": "http://www.michaelkors.com/",
+            "geometry": [
+                [329845, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 522670,
+        "properties": {
+            "phone": "(703) 336-8480",
+            "int_address": ["Unit F003U"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Microsoft",
+            "url": "http://www.microsoftstore.com/store/msin/en_GB/home",
+            "geometry": [
+                [329933, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 696466,
+        "properties": {
+            "phone": "(703) 848-8070",
+            "int_address": ["Unit G003LB"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Mixing Bowl",
+            "url": "http://mixingbowltysons.com/",
+            "geometry": [
+                [214567, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 522672,
+        "properties": {
+            "phone": "(703) 356-5326",
+            "int_address": ["Unit M012U"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Modern Nail Studio",
+            "url": "http://modernco.net/modern-nail-studio",
+            "geometry": [
+                [329953, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8771,
+        "properties": {
+            "tags": "Maternity Apparel,Maternity Clothing,Maternity Wear,Motherhood Maternity,Pregnancy,Women&39s Maternity Clothing,Maternity Clothes",
+            "phone": "(703) 734-0741",
+            "int_address": ["Unit D003L"],
+            "location": "1",
+            "description": "Specialists in fashionable clothing and accessories for all your maternity needs",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Motherhood Maternity",
+            "url": "www.motherhood.com/",
+            "geometry": [
+                [210734, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8774,
+        "properties": {
+            "tags": "Hawaiian Collection,Shell,Silver,Steven Douglas Jewelry,Hawaiian Flower Jewelry,Bracelets,Bride,Chains,Diamond,Diamond Engagement Ring,Diamond Ring,Earrings,Engagemet Ring,Fine Jewelry,Flip Flop,Flip Flop Jewelry,Flip Flop Pendant,Gold,Hawaii,Hawaiian,Hawaiian Gold Jewelry,Hawaiian Slipper Jewelry,Hawaiian Watches,Jewel,Jeweler,Jewellery,Jewelry,Jewelry Gift,Jewels,Jewlery,Kabana,Maui Jeweler,Necklaces,Opal Jewelry,Palm Tree Jewelry,Palm Tree Pendant,Pearl Jewelry,Pearls,Ring,Rose Gold,Sea Life Jewelry,Sea Turtle,Slipper Pendant,Tahitian,Tanzanite,Turtle,Wedding Band,Wedding Ring,Wedding Rings,White Gold,Na Hoku,Hawaiian Jewelry",
+            "phone": "(703) 893-4803",
+            "int_address": ["Unit D004U"],
+            "location": "2",
+            "description": "We offer the largest collections of Hawaiian jewelry including slipper flip flop, palm tree, plumeria, rings, bracelets, pendants and necklaces.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Na Hoku",
+            "url": "www.nahoku.com",
+            "geometry": [
+                [329912, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8775,
+        "properties": {
+            "tags": "Baby Clothing,Cotton,Infant Clothing,Kids Clothing,Maartjie,Naartje,Narchee,Nargee,Narrtjie,Nartjie,Natural Fabric,Newborn Clothing,Apparel/Childrens,Naartjie,Children&ampaposs Clothing",
+            "phone": "(702) 288-0067",
+            "int_address": ["Unit D006L"],
+            "location": "1",
+            "description": "Welcome to Naartjie Kids, Unique kids clothing, baby clothes, infant clothing, newborn clothing, &ampamp trendy children&ampaposs clothing. nartjie, maartjie, narchee, nargee",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Naartjie",
+            "url": "www.naartjie.com/",
+            "geometry": [
+                [210737, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 1082484,
+        "properties": {
+            "phone": "(703) 893-9330",
+            "int_address": ["Unit G002AL"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Nestle Toll House Cafe",
+            "url": "http://www.nestlecafe.com/",
+            "geometry": [
+                [210672, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8778,
+        "properties": {
+            "tags": "Company,New,New York & Company,York",
+            "phone": "(703) 893-9887",
+            "int_address": ["Unit G008L"],
+            "location": "1",
+            "description": "Mega Style. Mini Price. Find the hottest looks in women's fashion and accessories. From career-minded, sexy suiting to casual chic to sporty comfort, New York & Company offers extraordinary collections that won't break the bank. Great deals on NY Style. ",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "New York & Company",
+            "url": "www.newyorkandcompany.com/nyco/",
+            "geometry": [
+                [210674, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8779,
+        "properties": {
+            "tags": "Nine,Nine West,West",
+            "phone": "(703) 893-0423",
+            "int_address": ["Unit O004AU"],
+            "location": "2",
+            "description": "Renowned women's fashion retailer offering footwear, handbags, apparel and accessories, turning runway looks into real life fashion.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Nine West",
+            "url": "www.ninewest.com/n/",
+            "geometry": [
+                [329880, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8781,
+        "properties": {
+            "tags": "Nordstrom,Desinger,Fasion,Nordstorm,Nordstroms,Nordstrum,Norstrom,Shoping",
+            "phone": "(703) 761-1121",
+            "int_address": ["Unit MAJ05"],
+            "location": "2",
+            "description": "Renowned upscale department store featuring designer clothing, shoes, handbags, accessories, jewelry, cosmetics and home furnishings.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Nordstrom",
+            "url": "shop.nordstrom.com",
+            "geometry": [
+                [6369983, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8782,
+        "properties": {
+            "tags": "American,Bar,Grill,Norton's,Norton's American Bar & Grill",
+            "phone": "(703) 288-9363",
+            "int_address": ["Unit G021U"],
+            "location": "2",
+            "description": "Norton's Amercian Grill and Bar is an upscale casual restaurant with fresh house made quality food and a full service bar with a nice wine list.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Norton's American Bar & Grill",
+            "geometry": [
+                [329964, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8783,
+        "properties": {
+            "tags": "Apparel,Goggles,Oakley,Sunglasses",
+            "phone": "(703) 893-4730",
+            "int_address": ["Unit N011U"],
+            "location": "2",
+            "description": "Oakley is a global icon to consumers in more than 100 countries with its premium sunglasses, prescription eyewear, performance apparel and accessories, footwear, watches, and electronics.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Oakley",
+            "url": "oakley.com/",
+            "geometry": [
+                [329940, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8785,
+        "properties": {
+            "tags": "Navy,Old,Old Navy",
+            "phone": "(703) 356-0429",
+            "int_address": ["Unit M015U"],
+            "location": "2",
+            "description": "The place to go for the latest fashion trends in apparel and accessories as well as updated basics at amazing prices.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Old Navy",
+            "url": "http://oldnavy.gap.com/?",
+            "geometry": [
+                [329956, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8788,
+        "properties": {
+            "tags": "Billabong,Bullhead,Element,Famous Stars And Straps,Fox,Hurley,Kirra,Kirra Girl,Lost,Nike 6.0.,O'Neill,Quiksilver,RVCA,Rip Curl,Roxy,Vans,Volcom,Vurt,WeSC,Zoo York,Girls Apparel,Girls Clothes,Guys Apparel,Guys Clothes,Guys Clothing,Teen Apparel,Teen Clothes,Teen Clothing,PacSun,Girls Clothing",
+            "phone": "(703) 821-1067",
+            "int_address": ["Unit E018L"],
+            "location": "1",
+            "description": "Find the latest fashion trends in surfing and skateboarding clothing and accessories for teenagers and young adults",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "PacSun",
+            "url": "shop.pacsun.com/",
+            "geometry": [
+                [210720, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8789,
+        "properties": {
+            "tags": "Express,Panda,Panda Express",
+            "phone": "(703) 442-7987",
+            "int_address": ["Unit G020L"],
+            "location": "1",
+            "description": "Traditional Chinese dishes while offering new taste creations served fast, hot and flavorful. Interested in fundraising for your charity or organization? Visit http://www.pandaexpress.com/webzine/FR2009/index.html to find out how.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Panda Express",
+            "url": "www.PandaExpress.com/",
+            "geometry": [
+                [210670, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 522674,
+        "properties": {
+            "phone": "(571) 405-5065",
+            "int_address": ["Unit J006L"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Pandora",
+            "url": "http://www.pandora.net/en-us/",
+            "geometry": [
+                [6368279, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8790,
+        "properties": {
+            "tags": "Bread Company,Operation Doughnation,PNRA,Panera,Saint Louis Bread .,Artisan Baking,Artisan Bread,Bagels,Bakery,Bakery-cafe,Bread,Cafe,Catering,Dinner,Fast Casual,Free Wifi,Lunch,Meeting Room,Pastries,Quick Casual,Salads,Sandwiches,Soups,Panera Bread,Panera Bread Co.",
+            "phone": "(703) 442-7755",
+            "int_address": ["Unit F009L"],
+            "location": "1",
+            "description": "Panera Bread bakery-cafes bring the tradition of freshly baked artisan bread to neighborhoods in cities throughout the country. We use only the highest-quality ingredients and bake fresh every day.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Panera Bread Co.",
+            "url": "www.panerabread.com/",
+            "geometry": [
+                [210662, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8791,
+        "properties": {
+            "tags": "Papaya",
+            "phone": "(703) 848-0072",
+            "int_address": ["Unit N013U"],
+            "location": "2",
+            "description": "Trendy women's clothing at reasonable prices.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Papaya",
+            "url": "http://www.papayaclothing.com",
+            "geometry": [
+                [329941, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 522675,
+        "properties": {
+            "phone": "(703) 388-0877",
+            "int_address": ["Unit J007U"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Papilio",
+            "url": "http://www.papiliostores.com/",
+            "geometry": [
+                [329865, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8792,
+        "properties": {
+            "tags": "Baby Showers,Anniversaries,Birthdays,Cards,Gifts,Holidays,Printing,Sale,Weddings,Wrap,Papyrus,Greeting Cards",
+            "phone": "(703) 893-5640",
+            "int_address": ["Unit E001BU"],
+            "location": "2",
+            "description": "Specialists in elegantly designed paper products offering an array of greeting cards, stationary, invitations, gift wraps, custom printing and more.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Papyrus",
+            "url": "www.papyrusonline.com/",
+            "geometry": [
+                [329924, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8793,
+        "properties": {
+            "tags": "Cross,Cross Pen Refills,Fountain Pen Refills,Montblanc,Montblanc Refills,Parker,Pen Refills,Retro 51,Visconti,Waterman,Paradise Pen Company,Fountain Pens",
+            "phone": "(703) 847-0007",
+            "int_address": ["Unit G013L"],
+            "location": "1",
+            "description": "Writing instruments and related executive gifts.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Paradise Pen Company",
+            "url": "www.paradisepen.com",
+            "geometry": [
+                [210678, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8795,
+        "properties": {
+            "tags": "France,Parfums,Parfums De France",
+            "phone": "(703) 734-0000",
+            "int_address": ["Unit KSK02L"],
+            "location": "1",
+            "description": "French and Italian perfumes and related bath products ",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Parfums de France",
+            "geometry": [
+                [6368270, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8796,
+        "properties": {
+            "tags": "Mitchell,Paul,Paul Mitchell The School,School,Schools",
+            "phone": "(703) 288-0008",
+            "int_address": ["Unit J016LA"],
+            "location": "1",
+            "description": "Beauty school offering 1500 hour cosmetology program featuring design, cutting, coloring, make-up, resume/interviewing courses, professional development & more!",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Paul Mitchell the School",
+            "url": "www.paulmitchelltheschool.com/pmts/",
+            "geometry": [
+                [6368277, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 813535,
+        "properties": {
+            "phone": "(571) 216-1524",
+            "int_address": ["Unit D002L"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Perfect Eyebrows",
+            "geometry": [
+                [210733, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8798,
+        "properties": {
+            "tags": "Cheesesteak,Factory,Philadelphia,Philadelphia Cheesesteak Factory",
+            "phone": "(703) 556-0020",
+            "int_address": ["Unit FC01"],
+            "location": "3",
+            "description": "Cheesesteaks, hoagies, fries, and salads.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Philadelphia Cheesesteak Factory",
+            "url": "phillysteakfactory.com/",
+            "geometry": [
+                [6369990, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8800,
+        "properties": {
+            "tags": "Accessories,Bra,Bras,Exclusive Offers,Free Gifts,Inside Scoop,Lounge Wear,PINK,PINK NATION,Panties,Panty,Sleepwear,Special Access,Sweat Pants,Sweats,Undies,Freebies,Karma,Loyal Fans,Victoria's Secret PINK",
+            "phone": "(703) 356-0125",
+            "int_address": ["Unit G007U"],
+            "location": "2",
+            "description": "One of the leading specialty retailers of apparel, lingerie and personal care products!",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Pink",
+            "url": "www.vspink.com/",
+            "geometry": [
+                [329896, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8802,
+        "properties": {
+            "tags": "Barn,Pottery,Pottery Barn",
+            "phone": "(703) 288-0316",
+            "int_address": ["Unit H001L"],
+            "location": "1",
+            "description": "A collection of beautiful, expertly crafted furniture, accessories, lighting, rugs and window treatments designed to bring casual style to every room in the home.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Pottery Barn",
+            "url": "www.Potterybarn.com/",
+            "geometry": [
+                [210647, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8803,
+        "properties": {
+            "tags": "Baby Bedding,Baby Furniture,Baby Gifts,Baby Registry,Kids Bedding,Kids Gifts,Pottery Barn Kids,Kids Furniture",
+            "phone": "(703) 356-2172",
+            "int_address": ["Unit K007L"],
+            "location": "1",
+            "description": "A collection of comfortable, casual furnishings and textiles for babies and kids expertly crafted from the finest materials and designed to delight and inspire the imagination.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Pottery Barn Kids",
+            "url": "www.potterybarnkids.com/",
+            "geometry": [
+                [210638, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 522679,
+        "properties": {
+            "phone": "(703) 556-3303",
+            "int_address": ["Unit K002L"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "PR FreshLook Store",
+            "geometry": [
+                [210642, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8805,
+        "properties": {
+            "tags": "96 Hours,Accessories,Active Wear,Apparel,Athletic,Christy Turlington,Clothing,Equipment,Fashion,Football,Hip Hop,Mahanuala,Mcqueen,Mihara,Nuala,Puma,Running,Soccer,Starck,Tennis,Trainaway,Urban,Yoga,Shoes",
+            "phone": "(703) 893-0145",
+            "int_address": ["Unit E002U"],
+            "location": "2",
+            "description": "The online home of PUMA. Find the latest information about PUMA products, news and upcoming events.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Puma",
+            "url": "www.puma.com/",
+            "geometry": [
+                [329925, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8809,
+        "properties": {
+            "tags": "Bed &amp Bath,Furniture,Gifts,Home Accessories,Light Fixtures,Lighting,Sale,Textiles,Windows &amp Floors,Restoration Hardware",
+            "phone": "(703) 821-9655",
+            "int_address": ["Unit E003U"],
+            "location": "2",
+            "description": "One of the leading purveyors of premium home furnishings, offering high quality textiles, furniture, lighting, bathware, hardware and amusements.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Restoration Hardware",
+            "url": "www.restorationhardware.com/rh/index.jsp",
+            "geometry": [
+                [329926, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8811,
+        "properties": {
+            "tags": "Footwear,Rockport",
+            "phone": "(703) 749-6401",
+            "int_address": ["Unit J010U"],
+            "location": "2",
+            "description": "Wide selection of comfortable and casual shoes.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Rockport",
+            "url": "www.rockport.com",
+            "geometry": [
+                [329860, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8812,
+        "properties": {
+            "tags": "Furs,Rosendorf/Evans,Rosendorf/Evans Furs",
+            "phone": "(703) 893-3680",
+            "int_address": ["Unit O015U"],
+            "location": "2",
+            "description": "Women's, men's, and children's fur apparel and accessories.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Rosendorf/Evans Furs",
+            "geometry": [
+                [329870, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 522682,
+        "properties": {
+            "phone": "(703) 356-3240",
+            "int_address": ["Unit FC02"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Sabrina's Pollo",
+            "geometry": [
+                [6369991, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8814,
+        "properties": {
+            "tags": "Sbarro",
+            "phone": "(703) 288-1717",
+            "int_address": ["Unit G021AL"],
+            "location": "1",
+            "description": "fresh italian cooking. The Sbarro family opened their first restaurant in Brooklyn, which became a town favorite.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Sbarro",
+            "url": "www.Sbarro.com/",
+            "geometry": [
+                [210669, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 522683,
+        "properties": {
+            "phone": "(703) 288-3852",
+            "int_address": ["Unit N011L"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Seasons 52",
+            "url": "http://www.seasons52.com/",
+            "geometry": [
+                [210654, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8815,
+        "properties": {
+            "tags": "Cosmetics,Fragrance,Hair,Makeup,Makeup Tips,Perfume,Skin Care,Beauty,Sephora",
+            "phone": "(703) 917-0002",
+            "int_address": ["Unit E004U"],
+            "location": "2",
+            "description": "Quality makeup, skincare, fragrance, bath & body, and hair products for men and women.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Sephora",
+            "url": "www.Sephora.com/",
+            "geometry": [
+                [329927, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8816,
+        "properties": {
+            "tags": "Jewelers,Shaw's,Shaw's Jewelers",
+            "phone": "(703) 893-3262",
+            "int_address": ["Unit E001U"],
+            "location": "2",
+            "description": "Fine jewelry, watches, and clocks.",
+            "name": "Shaw's Jewelers",
+            "url": "www.shawsjewelers.com",
+            "geometry": [
+                [329922, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8817,
+        "properties": {
+            "tags": "Shoe,Shoe Shoppe/Tailorcraft,Shoppe/Tailorcraft",
+            "phone": "(703) 448-7747",
+            "int_address": ["Unit G015U"],
+            "location": "2",
+            "description": "Instant shoe repair and shoe-related accessories. Clothing alterations and repairs.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Shoe Shoppe/Tailorcraft",
+            "geometry": [
+                [329902, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8818,
+        "properties": {
+            "tags": "Skechers",
+            "phone": "(703) 790-5520",
+            "int_address": ["Unit D012L"],
+            "location": "1",
+            "description": "Lifestyle footwear that appeals to today's trend-savvy men, women and children.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Skechers",
+            "url": "www.Skechers.com/",
+            "geometry": [
+                [210744, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8819,
+        "properties": {
+            "tags": "Boutique,Solstice,Solstice Sunglass Boutique,Sunglass",
+            "phone": "(703) 918-0391",
+            "int_address": ["Unit G017L"],
+            "location": "1",
+            "description": "The headquarters for designer brand sunwear in an upbeat fashion-forward environment.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Solstice Sunglass Boutique",
+            "url": "www.solsticestores.com/index.php",
+            "geometry": [
+                [6368275, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8820,
+        "properties": {
+            "tags": "Baked,Love Cupcakes,Love Sprinkles,Bake,Baked From Scratch,Baked Goods,Bakery,Barbara Streisand Cupcake,Barbra Oprah Cupcake,Barbra Oprah Sprinkles Cupcakes,Barbra Streisand Cupcake,Barbra Streisand Sprinkles,Best Bakery,Beverly Hills Bakery,Buttercake Bakery,Buttercup Bakeshop,Celebrity,Celebrity Bakery,Chocolate Sprinkles,Crumbs,Crumbs Bakery,Cupacake,Cupcake,Cupcake Addict,Cupcake Cake,Cupcake Obsessed,Cupcake Wars,Cupcakery,Cupcakes,Delicious,Dot Decoration,Eat Cake,Eat Cupcakes,Eat Sprinkles,Famous Bakery,Fresh,Fresh Baked,Freshly Baked,Frosted Cupcakery,Gourmet,Gourmet Treat,Hollywood,Hollywood Bakery,Homebaked,Karas Cupcakes,Ledas Bakeshop,Los Angeles Bakery,Magnolia Bakery,Modern Dot,Moist,Movie Star,Natural,New York City Cupcakes,Obsessed With Cupcakes,Oprah Cake,Oprah Cupcake,Oprah Red Velvet,Oprah's Favorite Cupcakes,Oprahs Favorite Things,Original Cupcake Bakery,Real Sprinkles,Rodeo Drive Bakery,Scratch Baked,Scrumptious,Sex In The City,Sibbys Cupcakery,Small Cakes,Sony Style,Sophisticated,Sprinkels,Sprinkles,Sprinkles Cucpcakes,Sprinkles Cupcakes,Sprinklescupcakes,Sprinklez,Sprinklz,Sprnkles,Sugar Decoration,Swirls Cupcakes,Swirlz Cupcakes,Tantalizing,Tiny,Treat,Unique,Upscale,Vanilla Sprinkles,World Famous Bakery,Worlds Best Bakery,Yummy,Yummy Cupcakes,Billys Bakery,City Bakery,Cupcake Boutique,Cupcake Love,Designer Cupcakes,Eat Cupcake,Eat Sprinkles Cupcakes,Entertainment Cupcakes,Fancy Cupcakes,Hollywood Cupcakes,Movie Star Cupcakes,My Little Cupcake,Sprinkles Bakery,Sprinkles Cakes,Sprinkles Cupacakes,Sprinkls,Sweet,Tasty,Tasty Treats,Www.sprinkles.com",
+            "phone": "(703) 356-6396",
+            "int_address": ["Unit M009U"],
+            "location": "2",
+            "description": "Play, Capture, Watch, Create, Listen, Drive",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Sony Style",
+            "url": "http://www.sprinkles.com/",
+            "geometry": [
+                [329950, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 696468,
+        "properties": {
+            "phone": "(703) 848-8029",
+            "int_address": ["Unit J001AUC"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Spanx",
+            "url": "http://www.spanx.com/",
+            "geometry": [
+                [329855, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 522684,
+        "properties": {
+            "phone": "(703) 734-1014",
+            "int_address": ["Unit F004L"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Spencer's Gifts",
+            "url": "http://www.spencersonline.com/",
+            "geometry": [
+                [210656, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 813538,
+        "properties": {
+            "phone": "(703) 356-2390",
+            "int_address": ["Unit J007L"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Sperry Top-Sider",
+            "geometry": [
+                [210703, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8822,
+        "properties": {
+            "tags": "One,Square,Square One",
+            "phone": "(703) 748-1111",
+            "int_address": ["Unit E007L"],
+            "location": "2",
+            "description": "Square One sells all types of winter outter wear and shoes.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Square One",
+            "geometry": [
+                [210718, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8823,
+        "properties": {
+            "tags": "Page,Brewed Coffee,Caffe,Caffe Latte,Coffee,Coffee Beans,Coffee Drinks,Coffee At Home,Drip Coffee,Espreso,Espresso,Expresso,Iced Coffee,Instant Coffee,Latte,Macchiato,Mocha,Pike Place,SBC,SBUX,Seattle,Seattles Best,Seattles Best Coffee,Starbuck,Starbucks Coffee Company,Starbucks Corporation,Starbucks.com,Via,Whole Bean,Starbucks,Starbucks Coffee",
+            "phone": "(703) 760-4840",
+            "int_address": ["Unit D015L"],
+            "location": "1",
+            "description": "Specialty retailer that sells high-quality whole bean coffees along with fresh, rich-brewed, Italian style espresso beverages, a variety of pastries and confections, and coffee-related accessories and equipment.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Starbucks Coffee",
+            "url": "www.Starbucks.com/",
+            "geometry": [
+                [210746, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8824,
+        "properties": {
+            "tags": "Page,Brewed Coffee,Caffe,Caffe Latte,Coffee,Coffee Beans,Coffee Drinks,Coffee At Home,Drip Coffee,Espreso,Espresso,Expresso,Iced Coffee,Instant Coffee,Latte,Macchiato,Mocha,Pike Place,SBC,SBUX,Seattle,Seattles Best,Seattles Best Coffee,Starbuck,Starbucks Coffee Company,Starbucks Corporation,Starbucks.com,Via,Whole Bean,Starbucks,Starbucks Coffee",
+            "phone": "(703) 893-4209",
+            "int_address": ["Unit F001CL"],
+            "location": "1",
+            "description": "Specialty retailer that sells high-quality whole bean coffees along with fresh, rich-brewed, Italian style espresso beverages, a variety of pastries and confections, and coffee-related accessories and equipment.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Starbucks Coffee",
+            "url": "www.Starbucks.com/",
+            "geometry": [
+                [210712, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8825,
+        "properties": {
+            "tags": "Piano,Steinway,Steinway Piano",
+            "phone": "(703) 538-2280",
+            "int_address": ["Unit D001L"],
+            "location": "1",
+            "description": "For over 150 years, Steinway has made the world's finest pianos and inspired the artists who make them sing.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Steinway Piano",
+            "geometry": [
+                [210732, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8826,
+        "properties": {
+            "tags": "Optical,Sterling,Sterling Optical",
+            "phone": "(703) 734-0977",
+            "int_address": ["Unit O011U"],
+            "location": "2",
+            "description": "Dispensing of prescription eyewear including glasses, sunglasses and contact lenses. Eye exams available from an independent doctor next door. We now carry Oakley eywear.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Sterling Optical",
+            "url": "www.sterlingoptical.net",
+            "geometry": [
+                [329875, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8828,
+        "properties": {
+            "tags": "Rite,Stride,Stride Rite",
+            "phone": "(703) 893-2501",
+            "int_address": ["Unit K006L"],
+            "location": "1",
+            "description": "Designing and engineering quality footwear specifically to meet the needs of growing children.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Stride Rite",
+            "url": "www.striderite.com/",
+            "geometry": [
+                [210637, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8829,
+        "properties": {
+            "tags": "Boss,Businesses,Deli,Entrepeneur,Fast Food,Franchise,Franchises,Franchising,Lunch,Qsr,Quick,Restaurant,Restaurants,Salads,Sandwich,Sandwiches,Self Employed,Seminars,Service,Small Business,Submarine,Trade Shows,Subway",
+            "phone": "(703) 790-0201",
+            "int_address": ["Unit E010L"],
+            "location": "1",
+            "description": "Offering made-to-order sub sandwiches, salads, and much more! ",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Subway",
+            "url": "www.subway.com/",
+            "geometry": [
+                [214564, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8830,
+        "properties": {
+            "tags": "Spa,Suissa,Suissa Spa",
+            "phone": "(703) 893-5800",
+            "int_address": ["Unit F012L"],
+            "location": "1",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Suissa Spa",
+            "url": "www.suissasalon.com",
+            "geometry": [
+                [210665, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8831,
+        "properties": {
+            "tags": "Sunglass,Sunglass Hut",
+            "phone": "(703) 893-6447",
+            "int_address": ["Unit G010U"],
+            "location": "2",
+            "description": "Sunglass Hut is a high end botique that specializes in premium and designer sunglasses.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Sunglass Hut",
+            "url": "www2.sunglasshut.com/",
+            "geometry": [
+                [329905, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8832,
+        "properties": {
+            "tags": "International,Jewelry And Accessories,Sunglass,Sunglass Hut International",
+            "phone": "(703) 917-8980",
+            "int_address": ["Unit G002U"],
+            "location": "2",
+            "description": "Sunglasses and related products. ",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Sunglass Hut",
+            "url": "www2.sunglasshut.com/",
+            "geometry": [
+                [329886, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8833,
+        "properties": {
+            "tags": "Crystalline,Crystals,Design,Gift,Gift Ideas,Gifts,Glas,Glass,Object,Objects,Present,Present Ideas,Presents,Product,Products,Strass,Style,Svarovsci.,Svarowski,Swarofski,Swaroski,Swarovsci,Swarovski,Swarovski Crystals,Swarovsky,Swarowski,Swarowsky",
+            "phone": "(571) 633-1800",
+            "int_address": ["Unit O007U"],
+            "location": "2",
+            "description": "A world of crystal that represents the height of unmatched quality, unique variety, crystal brilliance, latest trend information and cutting edge innovations.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Swarovski",
+            "url": "www.swarovski.com/",
+            "geometry": [
+                [329878, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 535161,
+        "properties": {
+            "phone": "(703) 388-0110",
+            "int_address": ["Unit G010L"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Swatch",
+            "url": "http://www.swatch.com/",
+            "geometry": [
+                [210677, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 139709,
+        "properties": {
+            "tags": "T-Mobile",
+            "phone": "(703) 356-1929",
+            "int_address": ["Unit J004L"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "T-Mobile",
+            "url": " ",
+            "geometry": [
+                [210700, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8834,
+        "properties": {
+            "tags": "Grille,Taka,Taka Grille",
+            "phone": "(703) 356-9090",
+            "int_address": ["Unit FC07"],
+            "location": "3",
+            "description": "Sushi and other Japanese Teppanyaki grille cuisine.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Taka Grille",
+            "url": "www.takagrille.com",
+            "geometry": [
+                [6369989, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8835,
+        "properties": {
+            "tags": "Petites,Talbots,Talbots / Talbots Petites / Talbots Woman,Woman",
+            "phone": "(703) 442-0700",
+            "int_address": ["Unit H004U"],
+            "location": "2",
+            "description": "Women's clothing and related accessories in petite sizes. Features high-quality clothing designed to fit women wearing sizes 12W to 24W.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Talbots",
+            "url": "www.talbots.com",
+            "geometry": [
+                [329850, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8836,
+        "properties": {
+            "tags": "Black Tea,Buy Tea Online,Herbal Tea,Loose Leaf Tea,Mate Tea,Oolong Tea,Rooibos Tea,Tea Accessories,Tea Bags,Tea Products,White Tea,Teavana",
+            "phone": "(571) 633-0315",
+            "int_address": ["Unit O007L"],
+            "location": "1",
+            "description": "Buy fresh, high quality loose leaf teas online from Teavana. From Rooibos to Oolong and everything in between, Teavana has great tea gifts and products for enjoying afternoon tea.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Teavana",
+            "url": "www.teavana.com",
+            "geometry": [
+                [210694, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 696469,
+        "properties": {
+            "phone": "(703) 749-1203",
+            "int_address": ["Unit F003BU"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Tesla Motors",
+            "url": "http://www.teslamotors.com/",
+            "geometry": [
+                [329934, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8838,
+        "properties": {
+            "tags": "Friday's,TGI,TGI Friday's",
+            "phone": "(703) 448-5470",
+            "int_address": ["Unit FC11"],
+            "location": "3",
+            "description": "In here it's always Fridayâ\u20ac¦ Offering a variety of American Cuisine, such as burgers, steaks, chicken dishes, mixed drinks and so much more!",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "TGI Friday's",
+            "url": "www.tgifridays.com/index.htm",
+            "geometry": [
+                [6369984, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8839,
+        "properties": {
+            "tags": "Aromatherapy,Barber Spa,Chrome,Essential Oils,Fragrance,Fusion,Gifts For Men,Gillette,Grooming,Lavender,Lemon,Luxury Shaving Products,Men,Pre-shave Oil,Razor,Safety Razor,Sandalwood,Shaving Brush,Shaving Cream,Shaving Kit,Shaving Set,Straight Razor,Unscented,Women,The Art Of Shaving,The Perfect Shave",
+            "phone": "(703) 288-0099",
+            "int_address": ["Unit G001AU"],
+            "location": "2",
+            "description": "The Art of Shaving is your online source for shaving sets, razors, shaving brushes, and more. Visit us today to check out our quality shaving products.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "The Art of Shaving",
+            "url": "www.theartofshaving.com/",
+            "geometry": [
+                [329885, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8843,
+        "properties": {
+            "tags": "Leather,Store,The Leather Store",
+            "phone": "(703) 288-4111",
+            "int_address": ["Unit D007U"],
+            "location": "2",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "The Leather Store",
+            "geometry": [
+                [329915, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 142441,
+        "properties": {
+            "tags": "Leather,Store,The Leather Store",
+            "phone": "(703) 288-4111",
+            "int_address": ["Unit O012L"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "The Leather Store",
+            "geometry": [
+                [210690, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8844,
+        "properties": {
+            "tags": "Apparel For Women,Fashion Apparel,Fashion Trends,Gifts,Holiday Apparel,Holiday Fashion,Holiday Gift,Holiday Outfit,Latest Fashion,Latest Trends,Limited,Limited Stores,The Limited,Trends,Women Apparel,Women Fashion,Women&039s Gift,Women&039s Gifts,Womens Apparel,Womens Clothing Apparel,Holiday",
+            "phone": "(703) 893-0647",
+            "int_address": ["Unit G009L"],
+            "location": "1",
+            "description": "Sophisticated, Modern Clothing for today's fashion savvy woman.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "The Limited",
+            "url": "www.thelimited.com/",
+            "geometry": [
+                [210676, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8845,
+        "properties": {
+            "tags": "North Face,TNF,The North Face Fleece,Apparel,Backpacks,Clothing,Coats,Daypacks,Equipment,Fleece,Gore-tex,Jackets,Mountaineering,Northface,Outdoor Clothing,Outdoor Gear,Packs,Skiing,Sleeping Bags,Tents,The North Face",
+            "phone": "(703) 917-0111",
+            "int_address": ["Unit M003L"],
+            "location": "1",
+            "description": "High performance sportswear and accessories for men, women, and children.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "The North Face",
+            "url": "www.thenorthface.com/",
+            "geometry": [
+                [210751, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8846,
+        "properties": {
+            "tags": "All Occasion,Birthday Presents,Bridal Party Gifts,Bridesmaids Gifts,Engraved Gifts,Groomsmen Gifts,Jewelry,Personalized Gifts,Personalized Wedding Gifts,Things Remembered,Unique Gifts,Gift Ideas",
+            "phone": "(703) 749-9584",
+            "int_address": ["Unit G014L"],
+            "location": "2",
+            "description": "Providing gift solutions for all gift giving occasions. Whether it's a sweet 16 or a 50th birthday, a first baby or a promotion to a new job, we will help you find that special gift.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Things Remembered",
+            "url": "www.ThingsRemembered.com/",
+            "geometry": [
+                [210679, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8849,
+        "properties": {
+            "tags": "Bureau De Change,Currency Exchange,Currency Calculator,Currency Converter,Exchange Rates,Foreign Currency,Foreign Money,Money,Money Transfer,Travel Money,Travel Cash,Travelex,Travellers Cheques,ACCESSORIES,Foreign Exchange,JEWELRY,Tous",
+            "phone": "(703) 448-8687",
+            "int_address": ["Unit O002L"],
+            "location": "1",
+            "description": "Tous, a Spanish jewelry and handbag company.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Tous",
+            "url": "http://www.travelex.com/",
+            "geometry": [
+                [210686, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8851,
+        "properties": {
+            "tags": "Guru Denim,Hollywood,Jeff Lubell,Kym Lubell,TRLG,True Religion Denim,Berkeley,Bobby,Brand,Celebrities,Corduroy,Denim,Detail,Jackets,Joey,Patchwork,Shirts,Shorts,Skirts,Stitches,T-shirts,Woodstock,True Religion Brand Jeans,True Religion Jeans",
+            "phone": "(703) 288-1811",
+            "int_address": ["Unit O008L"],
+            "location": "1",
+            "description": "True Religion Brand Jeans - Shop online for the latest trends in denim and fashion.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "True Religion Brand Jeans",
+            "url": "www.truereligionbrandjeans.com",
+            "geometry": [
+                [210693, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8855,
+        "properties": {
+            "tags": "Tailors,Tysons,Tysons Tailors",
+            "phone": "(703) 917-0873",
+            "int_address": ["Unit J001AUA"],
+            "location": "2",
+            "description": "Custom tailoring service",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Tysons Tailors",
+            "geometry": [
+                [329853, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 535164,
+        "properties": {
+            "phone": "(703) 356-8880",
+            "int_address": ["Unit J009L"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Under The Olive Tree",
+            "geometry": [
+                [210705, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8856,
+        "properties": {
+            "tags": "Outfitters,Urban,Urban Outfitters",
+            "phone": "(703) 847-0394",
+            "int_address": ["Unit N015U"],
+            "location": "2",
+            "description": "We have hip clothes, shoes and accessories for men and women as well as stylish home decor and gift ideas.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Urban Outfitters",
+            "url": "www.urbanoutfitters.com",
+            "geometry": [
+                [329954, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 142506,
+        "properties": {
+            "tags": "BMX,Kids Shoes,Moto-X,Surfing,Vans Girls,Vans Shoes,Vault,Apparel,Contests,Skateboarding,Skateparks,Videos,Vans",
+            "phone": "(703) 442-0161",
+            "int_address": ["Unit F003BL"],
+            "description": "Shop for Vans shoes and clothing. Find Vans news, blogs, contests, videos, podcasts, and more",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Vans",
+            "url": "www.vans.com/vans/index2.asp",
+            "geometry": [
+                [210658, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 522691,
+        "properties": {
+            "phone": "(703) 790-0316",
+            "int_address": ["Unit G002AU"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Vera Bradley",
+            "url": "http://www.verabradley.com/",
+            "geometry": [
+                [329887, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8858,
+        "properties": {
+            "tags": "Cell Phone,Cell Phones,Cellular Phone,Mobile Phones,Verizon Wireless",
+            "phone": "(703) 883-2552",
+            "int_address": ["Unit K002U"],
+            "location": "2",
+            "description": "Cell phones, 3g smartphones, smart phone and cell phone plans with the best accessories at Verizon Wireless.",
+            "name": "Verizon Wireless",
+            "url": "www.verizonwireless.com",
+            "geometry": [
+                [329836, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8859,
+        "properties": {
+            "tags": "Intimate Apparel,Lingerie Apparel,Women's Accessories,Women's Apparel,Women's Clothing,Women's Lingerie,Victoria's Secret,Lingerie",
+            "phone": "(703) 734-9373",
+            "int_address": ["Unit N003U"],
+            "location": "2",
+            "description": "World-famous bras, panties, lingerie, and beauty collections as well as exciting fashions.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Victoria's Secret",
+            "url": "www.VictoriasSecret.com/",
+            "geometry": [
+                [329938, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 142474,
+        "properties": {
+            "tags": "Wasabi",
+            "phone": "(703) 388-0646",
+            "int_address": ["Unit E021L"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Wasabi",
+            "geometry": [
+                [210727, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8860,
+        "properties": {
+            "tags": "Official,Redskins,Store,Washington,Washington Redskins Official Store",
+            "phone": "(703) 893-0993",
+            "int_address": ["Unit O013AL"],
+            "location": "1",
+            "description": "Washington Redskins related clothing, souvenirs and goods.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Washington Redskins Official Store",
+            "geometry": [
+                [210689, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 813541,
+        "properties": {
+            "phone": "(703) 790-1525",
+            "int_address": ["Unit E017L"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Watch Station International",
+            "url": "http://www.watchstation.com/",
+            "geometry": [
+                [210728, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8861,
+        "properties": {
+            "tags": "Contemporary Furniture,Home Furnishings,Modern Furniture,Modern Home Decor,West Elm,Home Decor",
+            "phone": "(571) 633-0227",
+            "int_address": ["Unit M005L"],
+            "location": "1",
+            "description": "Exclusive, unique home furnishings designed for modern living at affordable prices.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "West Elm",
+            "url": "http://www.westelm.com/",
+            "geometry": [
+                [210750, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8862,
+        "properties": {
+            "tags": "Dresses,Shoes And More By Wet Seal,Teen Clothing For Girls Fashion Tops,Wet Seal",
+            "phone": "(703) 847-2306",
+            "int_address": ["Unit G004U"],
+            "location": "2",
+            "description": "Fashionable and contemporary teens and women's apparel and accessory items.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Wet Seal",
+            "url": "www.WetSeal.com/",
+            "geometry": [
+                [329891, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8863,
+        "properties": {
+            "tags": "Wetzel's Pretzels,Best Franchise,Franchise,Franchise Business,Pretzel,Pretzels,Soft Pretzel,Wetzels Pretzels",
+            "phone": "(703) 556-7730",
+            "int_address": ["Unit KSK05L"],
+            "location": "1",
+            "description": "Soft Chewy Pretzels that come in a variety of flavorsâ\u20ac¦ such as sun dried tomato, pesto or ham and cheese, as well as many other traditional flavors.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Wetzel's Pretzels",
+            "url": "www.wetzels.com/",
+            "geometry": [
+                [210714, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8864,
+        "properties": {
+            "tags": "Accessories,Apparel,Beautiful,Black,Black Book,Catalog,Classic,Clothing,Collection,Designer,Fashion,Gift,House,Market,Novelty,Retail,Shopping,Stores,Trend,Unique,Womens,White House | Black Market,White",
+            "phone": "(703) 288-1200",
+            "int_address": ["Unit O010L"],
+            "location": "1",
+            "description": "Beyond color, we offer chic, sophisticated apparel and accessories in timeless shades of white and black. ",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "White House | Black Market",
+            "url": "www.whitehouseblackmarket.com/store/home.asp",
+            "geometry": [
+                [210691, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8865,
+        "properties": {
+            "tags": "Cooking Utensils,Gourmet Foods,Kitchen Cookware,Kitchen Decor,Kitchen Utensils,Small Kitchen Appliances,Williams Sonoma,Williams-Sonoma,Cookware",
+            "phone": "(703) 821-3020",
+            "int_address": ["Unit H007U"],
+            "location": "2",
+            "description": "We cover every room in the house from the kitchen to the living room, bedroom, home office and even the hall closet.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Williams-Sonoma",
+            "url": "http://www.williams-sonoma.com/",
+            "geometry": [
+                [329852, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 216210,
+        "properties": {
+            "tags": "Bros,Winn,Winn Bros",
+            "phone": "(703) 734-9466",
+            "int_address": ["Unit J001BU"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Winn Bros",
+            "url": "http://winnbrosmens.com/",
+            "geometry": [
+                [329857, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8867,
+        "properties": {
+            "tags": "Eateries,Yogen Fruz,Froyo,Frozen Dessert,Frozen Treat,Frozen Yogurt,Yoghurt,Yogurt,Yogurt Illinois,Yogurt Washington DC,Yogurt California,Yogurt Chicago,Yogurt Florida,Yogurt Los Angeles,Yogurt New York,Yogurt Ny,Yogurt San Diego,Yogurt South Carolina,Yogurt Texas",
+            "phone": "(703) 388-0606",
+            "int_address": ["Unit KSK06L"],
+            "location": "1",
+            "description": "Yogen Fr?vides delicious and nutritious frozen desserts, just what you need to live a healthy and active lifestyle.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Yogen Fruz",
+            "url": "www.yogenfruz.com",
+            "geometry": [
+                [210713, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 522698,
+        "properties": {
+            "phone": "(703) 506-8602",
+            "int_address": ["Unit N009L"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Z Gallerie",
+            "url": "http://www.zgallerie.com/",
+            "geometry": [
+                [210708, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8868,
+        "properties": {
+            "tags": "Anniversary,Bracelet,Bridal,Diamond,Earrings,Engagement,Gifts,Gold,Jeweler,Jewelry,Necklace,Ring,Silver,Watches,Wedding,Zale,Zales",
+            "phone": "(703) 760-8968",
+            "int_address": ["Unit D005L"],
+            "location": "1",
+            "description": "Providing customers with quality jewelry at the lowest possible prices.",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Zales",
+            "url": "www.Zales.com/",
+            "geometry": [
+                [210736, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 8870,
+        "properties": {
+            "tags": "Salon,Spa,Zoe,Zoe Salon & Spa",
+            "phone": "(703) 356-6995",
+            "int_address": ["Unit M013U"],
+            "location": "2",
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Zoe Salon & Spa",
+            "geometry": [
+                [329957, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }, {
+        "id": 142509,
+        "properties": {
+            "tags": "Zumiez",
+            "phone": "(703) 790-0532",
+            "int_address": ["Unit F005L"],
+            "hours": "Mon-Sat: 10am-9:30pm,Sun: 11am-7pm",
+            "name": "Zumiez",
+            "url": "www.Zumiez.com/",
+            "geometry": [
+                [210661, true]
+            ]
+        },
+        "obj_type": "Entity"
+    }],
+    "obj_type": "CommunityEntity"
+}

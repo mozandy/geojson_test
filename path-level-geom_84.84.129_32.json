@@ -1,0 +1,4841 @@
+{
+    "crs": null,
+    "id": 129,
+    "drawing_id": 84,
+    "entity_version": 31,
+    "features": [{
+        "id": 14724,
+        "location": {
+            "type": "Point",
+            "coordinates": [1074.608, 984.736]
+        },
+        "properties": {
+            "structure": "building",
+            "$style": "Background"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1171.905, 1378.656],
+                [1, 1167.086, 1378.656],
+                [1, 1167.085, 1296.939],
+                [1, 1184.884, 1296.939],
+                [1, 1184.884, 1267.189],
+                [1, 1184.884, 1103.838],
+                [1, 1191.836, 1103.838],
+                [1, 1191.836, 919.064],
+                [1, 1221.059, 919.064],
+                [1, 1221.059, 963.627],
+                [1, 1342.585, 963.627],
+                [1, 1342.585, 773.439],
+                [1, 1179.901, 773.439],
+                [1, 1179.901, 682.189],
+                [1, 1165.409, 675.058],
+                [1, 1223.456, 429.368],
+                [1, 1090.961, 395.356],
+                [1, 1052.487, 548.101],
+                [1, 772.749, 468.468],
+                [1, 769.230, 478.531],
+                [1, 533.991, 414.788],
+                [1, 474.491, 620.494],
+                [1, 643.423, 669.307],
+                [1, 640.466, 678.478],
+                [1, 785.369, 720.057],
+                [1, 738.140, 893.078],
+                [1, 888.346, 928.671],
+                [1, 919.989, 783.290],
+                [1, 953.107, 791.978],
+                [1, 957.869, 771.356],
+                [1, 976.000, 775.916],
+                [1, 976.000, 877.691],
+                [1, 929.150, 877.691],
+                [1, 919.888, 895.942],
+                [1, 919.888, 929.689],
+                [1, 925.250, 929.689],
+                [1, 959.500, 953.691],
+                [1, 972.150, 953.691],
+                [1, 972.149, 1367.187],
+                [1, 980.424, 1365.997],
+                [1, 980.424, 1380.673],
+                [1, 986.092, 1429.984],
+                [1, 1154.530, 1429.984],
+                [1, 1154.530, 1404.623],
+                [1, 1171.908, 1404.623],
+                [1, 1171.905, 1378.656],
+                [1, 1171.905, 1378.656],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 207060,
+        "location": {
+            "type": "Point",
+            "coordinates": [365.195, 516.067]
+        },
+        "properties": {
+            "structure": "parking structure"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 410.992, 676.953],
+                [1, 249.713, 631.203],
+                [1, 333.992, 349.619],
+                [1, 485.324, 400.952],
+                [1, 410.992, 676.953],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 207062,
+        "location": {
+            "type": "Point",
+            "coordinates": [1311.600, 564.981]
+        },
+        "properties": {
+            "structure": "parking structure"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1260.493, 442.036],
+                [1, 1365.493, 464.786],
+                [1, 1401.814, 522.964],
+                [1, 1347.993, 732.786],
+                [1, 1268.993, 713.286],
+                [1, 1217.993, 616.786],
+                [1, 1260.493, 442.036],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 207063,
+        "location": {
+            "type": "Point",
+            "coordinates": [1278.194, 1239.372]
+        },
+        "properties": {
+            "structure": "parking structure"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1223.770, 1110.427],
+                [1, 1339.882, 1110.565],
+                [1, 1340.189, 1283.632],
+                [1, 1332.300, 1283.632],
+                [1, 1332.300, 1351.618],
+                [1, 1269.069, 1420.855],
+                [1, 1223.771, 1420.855],
+                [1, 1223.770, 1110.427],
+                [1, 1223.770, 1110.427],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 207064,
+        "location": {
+            "type": "Point",
+            "coordinates": [849.494, 1197.294]
+        },
+        "properties": {
+            "structure": "parking structure"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 938.649, 979.622],
+                [1, 948.989, 1427.283],
+                [1, 767.982, 1422.956],
+                [1, 754.486, 932.792],
+                [1, 938.649, 979.622],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 207065,
+        "location": {
+            "type": "Point",
+            "coordinates": [1272.308, 1045.984]
+        },
+        "properties": {
+            "traffic": "parking lot"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1223.564, 1013.286],
+                [1, 1223.564, 1076.856],
+                [1, 1321.994, 1076.856],
+                [1, 1321.994, 1013.286],
+                [1, 1223.564, 1013.286],
+                [1, 1223.564, 1013.286],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 207068,
+        "location": {
+            "type": "Point",
+            "coordinates": [514.629, 710.097]
+        },
+        "properties": {
+            "traffic": "parking lot"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 453.993, 648.956],
+                [1, 593.473, 703.753],
+                [1, 574.461, 770.195],
+                [1, 435.991, 710.290],
+                [1, 453.993, 648.956],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 207069,
+        "location": {
+            "type": "Point",
+            "coordinates": [702.369, 788.320]
+        },
+        "properties": {
+            "traffic": "parking lot"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 675.993, 732.619],
+                [1, 748.993, 753.615],
+                [1, 725.659, 839.953],
+                [1, 657.471, 823.570],
+                [1, 675.993, 732.619],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210635,
+        "location": {
+            "type": "Point",
+            "coordinates": [561.077, 533.126]
+        },
+        "properties": {
+            "display_name": "Bloomingdale's",
+            "int_address": "Unit MAJ01",
+            "facility": "unit",
+            "entities": [8652]
+        },
+        "is_group_main": true,
+        "group": 210635,
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 474.493, 620.492],
+                [1, 533.993, 414.786],
+                [1, 643.900, 444.580],
+                [1, 630.879, 499.643],
+                [1, 709.899, 522.062],
+                [1, 692.399, 595.193],
+                [1, 644.711, 582.776],
+                [1, 641.329, 594.932],
+                [1, 627.455, 590.911],
+                [1, 607.436, 658.909],
+                [1, 474.493, 620.492],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210894,
+        "location": {
+            "type": "Point",
+            "coordinates": [962.696, 1376.658]
+        },
+        "properties": {
+            "nonphysical": "true",
+            "marker": "entrance"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 962.639, 1371.701],
+                [1, 968.288, 1376.186],
+                [1, 963.598, 1381.701],
+                [1, 963.288, 1378.480],
+                [1, 958.630, 1378.943],
+                [1, 958.288, 1375.383],
+                [1, 962.946, 1374.919],
+                [1, 962.639, 1371.701],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210896,
+        "location": {
+            "type": "Point",
+            "coordinates": [1177.318, 1329.948]
+        },
+        "properties": {
+            "nonphysical": "true",
+            "marker": "entrance"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1177.000, 1335.012],
+                [1, 1171.705, 1330.060],
+                [1, 1176.913, 1325.012],
+                [1, 1176.940, 1328.231],
+                [1, 1181.673, 1328.189],
+                [1, 1181.704, 1331.749],
+                [1, 1176.971, 1331.791],
+                [1, 1177.000, 1335.012],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 329093,
+        "location": {
+            "type": "Point",
+            "coordinates": [1477.026, 1016.148]
+        },
+        "properties": {
+            "structure": "building",
+            "$style": "Background"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1504.273, 1095.785],
+                [1, 1458.848, 1095.785],
+                [1, 1458.848, 1078.344],
+                [1, 1429.244, 1078.344],
+                [1, 1429.244, 950.156],
+                [1, 1454.912, 950.156],
+                [1, 1454.912, 867.447],
+                [1, 1449.412, 867.447],
+                [1, 1449.412, 850.313],
+                [1, 1517.242, 850.313],
+                [1, 1517.242, 867.447],
+                [1, 1511.554, 867.447],
+                [1, 1511.554, 950.156],
+                [1, 1527.129, 950.156],
+                [1, 1527.129, 1078.344],
+                [1, 1504.275, 1078.344],
+                [1, 1504.273, 1095.785],
+                [1, 1504.273, 1095.785],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 329337,
+        "location": {
+            "type": "Point",
+            "coordinates": [813.696, 117.762]
+        },
+        "line_width": 5.000,
+        "properties": {
+            "traffic": "road"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": false,
+            "type": "Path",
+            "coordinates": [
+                [0, 1123.469, 93.125],
+                [3, 1123.469, 93.125, 945.732, 268.997, 732.668, 234.240],
+                [3, 732.668, 234.240, 661.304, 225.040, 607.522, 193.350],
+                [1, 368.893, 89.086]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 329338,
+        "location": {
+            "type": "Point",
+            "coordinates": [-355.896, -167.445]
+        },
+        "line_width": 5.000,
+        "properties": {
+            "traffic": "road"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": false,
+            "type": "Path",
+            "coordinates": [
+                [0, 417.841, 89.479],
+                [1, 114.169, 618.595]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 329339,
+        "location": {
+            "type": "Point",
+            "coordinates": [-355.896, -167.445]
+        },
+        "line_width": 5.000,
+        "properties": {
+            "traffic": "road"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": false,
+            "type": "Path",
+            "coordinates": [
+                [0, 378.944, 71.709],
+                [1, 74.884, 597.354]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 329341,
+        "location": {
+            "type": "Point",
+            "coordinates": [131.948, 593.928]
+        },
+        "line_width": 3.000,
+        "properties": {
+            "traffic": "road"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": false,
+            "type": "Path",
+            "coordinates": [
+                [0, 175.537, 647.898],
+                [1, 74.885, 597.354]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 329342,
+        "location": {
+            "type": "Point",
+            "coordinates": [523.003, 1031.095]
+        },
+        "line_width": 3.000,
+        "properties": {
+            "traffic": "road"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": false,
+            "type": "Path",
+            "coordinates": [
+                [0, 175.536, 647.898],
+                [3, 175.536, 647.898, 375.493, 726.266, 429.969, 756.932],
+                [1, 597.525, 838.031],
+                [3, 597.525, 838.031, 711.296, 899.363, 723.014, 994.769],
+                [3, 723.014, 994.769, 730.660, 1138.005, 726.528, 1187.752],
+                [3, 726.528, 1187.752, 709.507, 1251.002, 683.999, 1291.896],
+                [3, 683.999, 1291.896, 668.548, 1338.917, 668.548, 1358.677],
+                [1, 668.548, 1452.948]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 329343,
+        "location": {
+            "type": "Point",
+            "coordinates": [813.103, 1205.559]
+        },
+        "line_width": 3.000,
+        "properties": {
+            "traffic": "road"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": false,
+            "type": "Path",
+            "coordinates": [
+                [0, 700.077, 932.608],
+                [1, 729.216, 917.761],
+                [3, 729.216, 917.761, 745.766, 910.948, 769.209, 917.761],
+                [1, 891.170, 953.771],
+                [3, 891.170, 953.771, 963.566, 967.375, 959.900, 989.541],
+                [1, 956.649, 1456.812],
+                [1, 668.540, 1452.954]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 329347,
+        "location": {
+            "type": "Point",
+            "coordinates": [782.078, 482.974]
+        },
+        "line_width": 3.000,
+        "properties": {
+            "traffic": "road"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": false,
+            "type": "Path",
+            "coordinates": [
+                [0, 413.609, 748.393],
+                [1, 501.325, 410.072],
+                [3, 501.325, 410.072, 505.402, 381.862, 544.659, 395.493],
+                [1, 746.536, 446.553],
+                [1, 805.750, 275.824],
+                [1, 978.130, 239.706],
+                [1, 1166.368, 283.999],
+                [3, 1166.368, 283.999, 1193.075, 291.232, 1217.984, 279.910],
+                [1, 1243.534, 248.043]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 329349,
+        "location": {
+            "type": "Point",
+            "coordinates": [701.481, 321.087]
+        },
+        "line_width": 3.000,
+        "properties": {
+            "traffic": "road"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": false,
+            "type": "Path",
+            "coordinates": [
+                [0, 650.791, 422.337],
+                [1, 736.241, 234.798],
+                [1, 740.354, 216.746]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 329350,
+        "location": {
+            "type": "Point",
+            "coordinates": [512.610, 713.329]
+        },
+        "line_width": 3.000,
+        "properties": {
+            "traffic": "road"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": false,
+            "type": "Path",
+            "coordinates": [
+                [0, 444.627, 628.765],
+                [1, 505.144, 650.286],
+                [1, 537.186, 672.437],
+                [1, 612.242, 701.500],
+                [1, 587.179, 791.016],
+                [1, 419.850, 724.349]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 329351,
+        "location": {
+            "type": "Point",
+            "coordinates": [696.850, 789.170]
+        },
+        "line_width": 3.000,
+        "properties": {
+            "traffic": "road"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": false,
+            "type": "Path",
+            "coordinates": [
+                [0, 612.235, 701.503],
+                [1, 727.029, 732.308],
+                [3, 727.029, 732.308, 757.714, 738.287, 757.714, 759.912],
+                [1, 737.593, 854.141],
+                [1, 636.247, 826.037],
+                [1, 663.532, 715.269]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 329352,
+        "location": {
+            "type": "Point",
+            "coordinates": [-355.896, -167.445]
+        },
+        "line_width": 3.000,
+        "properties": {
+            "traffic": "road"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": false,
+            "type": "Path",
+            "coordinates": [
+                [0, 545.137, 774.268],
+                [1, 533.542, 807.068]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 329353,
+        "location": {
+            "type": "Point",
+            "coordinates": [661.058, 859.071]
+        },
+        "line_width": 3.000,
+        "properties": {
+            "traffic": "road"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": false,
+            "type": "Path",
+            "coordinates": [
+                [0, 671.323, 836.963],
+                [3, 671.323, 836.963, 653.377, 862.151, 653.377, 878.374]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 329354,
+        "location": {
+            "type": "Point",
+            "coordinates": [1261.916, 1099.738]
+        },
+        "line_width": 3.000,
+        "properties": {
+            "traffic": "road"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": false,
+            "type": "Path",
+            "coordinates": [
+                [0, 1203.497, 1455.660],
+                [1, 1207.049, 1111.585],
+                [1, 1211.875, 1100.404],
+                [1, 1211.875, 977.057],
+                [1, 1331.854, 977.057],
+                [1, 1373.710, 990.909]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 329364,
+        "location": {
+            "type": "Point",
+            "coordinates": [-355.896, -167.445]
+        },
+        "line_width": 3.000,
+        "properties": {
+            "traffic": "road"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": false,
+            "type": "Path",
+            "coordinates": [
+                [0, 1075.317, 366.959],
+                [1, 1102.304, 268.921]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 329365,
+        "location": {
+            "type": "Point",
+            "coordinates": [1316.807, 401.371]
+        },
+        "line_width": 3.000,
+        "properties": {
+            "traffic": "road"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": false,
+            "type": "Path",
+            "coordinates": [
+                [0, 1251.984, 418.958],
+                [3, 1251.984, 418.958, 1283.317, 421.626, 1313.317, 421.626],
+                [3, 1313.317, 421.626, 1350.671, 403.605, 1360.661, 371.615]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 329373,
+        "location": {
+            "type": "Point",
+            "coordinates": [1120.505, 548.383]
+        },
+        "line_width": 3.000,
+        "properties": {
+            "traffic": "road"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": false,
+            "type": "Path",
+            "coordinates": [
+                [0, 746.536, 446.547],
+                [1, 903.128, 479.704],
+                [1, 967.863, 492.243],
+                [1, 1035.317, 510.956],
+                [1, 1075.317, 366.957],
+                [1, 1251.984, 418.956],
+                [1, 1206.651, 607.624],
+                [1, 1243.318, 709.624],
+                [3, 1256.652, 738.290, 1326.318, 751.290, 1326.318, 751.290],
+                [3, 1361.985, 751.290, 1357.984, 782.959, 1357.984, 782.959],
+                [3, 1357.984, 833.286, 1371.218, 866.286, 1371.218, 866.286],
+                [1, 1386.693, 914.724]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 6368267,
+        "location": {
+            "type": "Point",
+            "coordinates": [704.491, 500.555]
+        },
+        "properties": {
+            "display_name": "American Girl",
+            "int_address": "Unit K009L",
+            "facility": "unit",
+            "entities": [522619]
+        },
+        "is_group_main": true,
+        "group": 6368267,
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 667.315, 469.209],
+                [1, 656.798, 506.985],
+                [1, 709.899, 522.062],
+                [1, 708.332, 528.773],
+                [1, 724.897, 532.449],
+                [1, 721.556, 547.384],
+                [1, 738.923, 552.030],
+                [1, 752.222, 491.776],
+                [1, 667.315, 469.209],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210637,
+        "location": {
+            "type": "Point",
+            "coordinates": [751.045, 536.424]
+        },
+        "properties": {
+            "display_name": "Stride Rite",
+            "int_address": "Unit K006L",
+            "facility": "unit",
+            "entities": [8828]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 738.914, 552.035],
+                [1, 756.227, 556.521],
+                [1, 764.894, 520.355],
+                [1, 746.851, 516.042],
+                [1, 738.914, 552.035],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210638,
+        "location": {
+            "type": "Point",
+            "coordinates": [783.366, 517.705]
+        },
+        "properties": {
+            "display_name": "Pottery Barn Kids",
+            "int_address": "Unit K007L",
+            "facility": "unit",
+            "entities": [8803]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 756.233, 556.522],
+                [1, 788.066, 565.356],
+                [1, 812.716, 479.856],
+                [1, 772.749, 468.464],
+                [1, 769.228, 478.527],
+                [1, 750.979, 473.588],
+                [1, 746.635, 490.292],
+                [1, 752.221, 491.777],
+                [1, 746.852, 516.050],
+                [1, 764.895, 520.363],
+                [1, 756.233, 556.522],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210639,
+        "location": {
+            "type": "Point",
+            "coordinates": [812.330, 540.217]
+        },
+        "properties": {
+            "display_name": "Bath & Body Works",
+            "int_address": "Unit K004L",
+            "facility": "unit",
+            "entities": [8648]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 843.992, 488.745],
+                [1, 812.720, 479.855],
+                [1, 788.071, 565.355],
+                [1, 819.238, 574.855],
+                [1, 836.905, 514.188],
+                [1, 829.291, 511.714],
+                [1, 832.923, 498.646],
+                [1, 840.751, 500.916],
+                [1, 843.992, 488.745],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210640,
+        "location": {
+            "type": "Point",
+            "coordinates": [838.818, 531.377]
+        },
+        "properties": {
+            "display_name": "Unit K003AL",
+            "int_address": "Unit K003AL",
+            "facility": "unit"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 843.992, 488.745],
+                [1, 840.750, 500.916],
+                [1, 832.922, 498.646],
+                [1, 829.290, 511.714],
+                [1, 836.904, 514.188],
+                [1, 820.492, 570.529],
+                [1, 835.509, 574.793],
+                [1, 858.135, 492.804],
+                [1, 843.992, 488.745],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210641,
+        "location": {
+            "type": "Point",
+            "coordinates": [853.285, 535.805]
+        },
+        "properties": {
+            "display_name": "Unit K003L",
+            "int_address": "Unit K003L",
+            "facility": "unit"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 850.838, 579.143],
+                [1, 835.509, 574.789],
+                [1, 858.136, 492.801],
+                [1, 872.980, 497.030],
+                [1, 850.838, 579.143],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210642,
+        "location": {
+            "type": "Point",
+            "coordinates": [869.330, 540.589]
+        },
+        "properties": {
+            "display_name": "PR FreshLook Store",
+            "int_address": "Unit K002L",
+            "facility": "unit",
+            "entities": [522679]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 872.980, 497.030],
+                [1, 889.123, 501.631],
+                [1, 868.171, 583.902],
+                [1, 850.844, 579.144],
+                [1, 872.980, 497.030],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210643,
+        "location": {
+            "type": "Point",
+            "coordinates": [884.643, 551.326]
+        },
+        "properties": {
+            "display_name": "Unit K001AL",
+            "int_address": "Unit K001AL",
+            "facility": "unit"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 886.151, 513.301],
+                [1, 901.072, 517.669],
+                [1, 883.839, 588.507],
+                [1, 868.175, 583.903],
+                [1, 886.151, 513.301],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210644,
+        "location": {
+            "type": "Point",
+            "coordinates": [901.506, 550.025]
+        },
+        "properties": {
+            "display_name": "bebe",
+            "int_address": "Unit K001L",
+            "facility": "unit",
+            "entities": [8650]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 889.123, 501.631],
+                [1, 920.826, 510.666],
+                [1, 902.108, 593.698],
+                [1, 883.837, 588.510],
+                [1, 901.072, 517.669],
+                [1, 886.151, 513.301],
+                [1, 889.123, 501.631],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210645,
+        "location": {
+            "type": "Point",
+            "coordinates": [927.409, 557.956]
+        },
+        "properties": {
+            "display_name": "Eddie Bauer",
+            "int_address": "Unit H005L",
+            "facility": "unit",
+            "entities": [8686]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 920.825, 510.665],
+                [1, 955.031, 520.424],
+                [1, 935.141, 603.191],
+                [1, 902.099, 593.700],
+                [1, 920.825, 510.665],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210646,
+        "location": {
+            "type": "Point",
+            "coordinates": [947.235, 590.072]
+        },
+        "properties": {
+            "display_name": "Aerosoles",
+            "int_address": "Unit H004L",
+            "facility": "unit",
+            "entities": [8625]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 935.149, 603.189],
+                [1, 951.232, 608.022],
+                [1, 960.367, 576.711],
+                [1, 942.734, 571.608],
+                [1, 935.149, 603.189],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210647,
+        "location": {
+            "type": "Point",
+            "coordinates": [990.123, 577.089]
+        },
+        "properties": {
+            "display_name": "Pottery Barn",
+            "int_address": "Unit H001L",
+            "facility": "unit",
+            "entities": [8802]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1011.248, 624.780],
+                [1, 951.232, 608.022],
+                [1, 960.367, 576.711],
+                [1, 942.734, 571.608],
+                [1, 955.031, 520.412],
+                [1, 1030.905, 542.060],
+                [1, 1011.248, 624.780],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 6368268,
+        "location": {
+            "type": "Point",
+            "coordinates": [1032.669, 607.353]
+        },
+        "properties": {
+            "display_name": "Art For Your Face",
+            "int_address": "Unit KSK01L",
+            "facility": "unit",
+            "entities": [8637]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1041.544, 591.546],
+                [1, 1032.694, 588.928],
+                [1, 1024.805, 622.307],
+                [1, 1033.173, 624.794],
+                [1, 1041.544, 591.546],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 6368269,
+        "location": {
+            "type": "Point",
+            "coordinates": [1071.212, 630.771]
+        },
+        "properties": {
+            "display_name": "Crumb's Bake Shop",
+            "int_address": "Unit KSK03L",
+            "facility": "unit",
+            "entities": [1082483]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1085.501, 628.949],
+                [1, 1059.919, 622.307],
+                [1, 1057.510, 631.810],
+                [1, 1083.073, 639.151],
+                [1, 1085.501, 628.949],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 6368270,
+        "location": {
+            "type": "Point",
+            "coordinates": [1046.540, 623.641]
+        },
+        "properties": {
+            "display_name": "Parfums de France",
+            "int_address": "Unit KSK02L",
+            "facility": "unit",
+            "entities": [8795]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1035.399, 615.939],
+                [1, 1033.173, 624.794],
+                [1, 1057.510, 631.810],
+                [1, 1059.919, 622.307],
+                [1, 1035.399, 615.939],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210650,
+        "location": {
+            "type": "Point",
+            "coordinates": [1030.228, 1407.040]
+        },
+        "properties": {
+            "display_name": "Barnes & Noble",
+            "int_address": "Unit M013L",
+            "facility": "unit",
+            "entities": [8647]
+        },
+        "group": 329955,
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 986.093, 1429.984],
+                [1, 980.424, 1380.673],
+                [1, 1063.736, 1380.673],
+                [3, 1063.736, 1380.673, 1070.902, 1386.569, 1082.027, 1386.569],
+                [1, 1082.027, 1429.982],
+                [1, 986.093, 1429.984],
+                [1, 986.093, 1429.984],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210651,
+        "location": {
+            "type": "Point",
+            "coordinates": [1118.299, 1417.812]
+        },
+        "properties": {
+            "display_name": "La Sandia Mexican Chicken and Bar",
+            "int_address": "Unit M011L",
+            "facility": "unit",
+            "entities": [142492]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1106.399, 1366.189],
+                [3, 1106.399, 1366.189, 1097.523, 1386.564, 1082.023, 1386.564],
+                [1, 1082.023, 1429.984],
+                [1, 1154.527, 1429.984],
+                [1, 1154.527, 1404.623],
+                [1, 1128.524, 1404.623],
+                [1, 1106.399, 1366.189],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210652,
+        "location": {
+            "type": "Point",
+            "coordinates": [1142.026, 1369.334]
+        },
+        "properties": {
+            "display_name": "Brio Tuscan Grille",
+            "int_address": "Unit M009L",
+            "facility": "unit",
+            "entities": [8655]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1109.233, 1345.189],
+                [1, 1167.087, 1335.856],
+                [1, 1167.087, 1378.656],
+                [1, 1171.905, 1378.656],
+                [1, 1171.905, 1404.623],
+                [1, 1128.525, 1404.623],
+                [1, 1106.400, 1366.189],
+                [3, 1106.399, 1366.189, 1109.233, 1360.022, 1109.233, 1345.189],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210653,
+        "location": {
+            "type": "Point",
+            "coordinates": [1007.635, 1337.368]
+        },
+        "properties": {
+            "display_name": "Gordon Biersch Brewery Restaurant",
+            "int_address": "Unit N013L",
+            "facility": "unit",
+            "entities": [8712]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 972.149, 1315.189],
+                [1, 972.149, 1367.187],
+                [1, 1046.887, 1356.439],
+                [3, 1046.887, 1356.439, 1043.655, 1327.439, 1070.155, 1320.689],
+                [1, 1070.155, 1315.189],
+                [1, 972.149, 1315.189],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210654,
+        "location": {
+            "type": "Point",
+            "coordinates": [1021.119, 1290.682]
+        },
+        "properties": {
+            "display_name": "Seasons 52",
+            "int_address": "Unit N011L",
+            "facility": "unit",
+            "entities": [522683]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 972.149, 1315.189],
+                [1, 1070.155, 1315.189],
+                [1, 1070.155, 1267.189],
+                [1, 998.498, 1267.189],
+                [1, 998.498, 1230.411],
+                [1, 972.149, 1230.439],
+                [1, 972.149, 1315.189],
+                [1, 972.149, 1315.189],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210655,
+        "location": {
+            "type": "Point",
+            "coordinates": [1055.325, 1064.030]
+        },
+        "properties": {
+            "display_name": "LoveSac",
+            "int_address": "Unit F004AL",
+            "facility": "unit",
+            "entities": [142503]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1045.673, 1074.439],
+                [1, 1065.125, 1074.439],
+                [1, 1065.125, 1053.939],
+                [1, 1045.673, 1053.939],
+                [1, 1045.673, 1074.439],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210656,
+        "location": {
+            "type": "Point",
+            "coordinates": [1041.722, 1045.775]
+        },
+        "properties": {
+            "display_name": "Spencer's Gifts",
+            "int_address": "Unit F004L",
+            "facility": "unit",
+            "entities": [522684]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1018.399, 1037.356],
+                [1, 1018.399, 1053.939],
+                [1, 1065.125, 1053.939],
+                [1, 1065.125, 1037.356],
+                [1, 1018.399, 1037.356],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210657,
+        "location": {
+            "type": "Point",
+            "coordinates": [1038.010, 1027.643]
+        },
+        "properties": {
+            "display_name": "Journeys",
+            "int_address": "Unit F003AL",
+            "facility": "unit",
+            "entities": [8731]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1011.649, 1017.939],
+                [1, 1011.649, 1037.356],
+                [1, 1065.125, 1037.356],
+                [1, 1065.125, 1017.939],
+                [1, 1011.649, 1017.939],
+                [1, 1011.649, 1017.939],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210658,
+        "location": {
+            "type": "Point",
+            "coordinates": [1038.043, 1009.361]
+        },
+        "properties": {
+            "display_name": "Vans",
+            "int_address": "Unit F003BL",
+            "facility": "unit",
+            "entities": [142506]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1065.125, 999.877],
+                [1, 1065.125, 1017.940],
+                [1, 1011.649, 1017.939],
+                [1, 1011.649, 999.877],
+                [1, 1065.125, 999.877],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210659,
+        "location": {
+            "type": "Point",
+            "coordinates": [1025.828, 987.850]
+        },
+        "properties": {
+            "display_name": "Foot Locker/Kids Foot Locker",
+            "int_address": "Unit F003L",
+            "facility": "unit",
+            "entities": [142507]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 987.899, 974.439],
+                [1, 987.899, 999.877],
+                [1, 1065.125, 999.877],
+                [1, 1065.125, 974.439],
+                [1, 987.899, 974.439],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 6368271,
+        "location": {
+            "type": "Point",
+            "coordinates": [991.845, 1009.375]
+        },
+        "properties": {
+            "display_name": "Chipotle Mexican Grill",
+            "int_address": "Unit F003CL",
+            "facility": "unit",
+            "entities": [1008769]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1011.649, 999.877],
+                [1, 987.899, 999.877],
+                [1, 987.899, 974.439],
+                [1, 972.149, 974.439],
+                [1, 972.149, 1017.939],
+                [1, 1011.649, 1017.939],
+                [1, 1011.649, 999.877],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 6368272,
+        "location": {
+            "type": "Point",
+            "coordinates": [999.146, 1043.863]
+        },
+        "properties": {
+            "display_name": "Elevation Burger",
+            "int_address": "Unit F003DL",
+            "facility": "unit",
+            "entities": [522636]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 972.149, 1017.939],
+                [1, 972.149, 1037.356],
+                [1, 987.899, 1037.356],
+                [1, 987.899, 1068.999],
+                [1, 1011.649, 1068.999],
+                [1, 1011.649, 1017.939],
+                [1, 972.149, 1017.939],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210661,
+        "location": {
+            "type": "Point",
+            "coordinates": [1039.708, 963.603]
+        },
+        "properties": {
+            "display_name": "Zumiez",
+            "int_address": "Unit F005L",
+            "facility": "unit",
+            "entities": [142509]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1013.649, 974.439],
+                [1, 1013.649, 960.188],
+                [1, 1016.462, 960.188],
+                [1, 1016.399, 943.427],
+                [1, 1035.398, 943.427],
+                [1, 1035.398, 954.677],
+                [1, 1065.125, 954.677],
+                [1, 1065.125, 974.439],
+                [1, 1013.649, 974.439],
+                [1, 1013.649, 974.439],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210662,
+        "location": {
+            "type": "Point",
+            "coordinates": [979.508, 944.592]
+        },
+        "properties": {
+            "display_name": "Panera Bread Co.",
+            "int_address": "Unit F009L",
+            "facility": "unit",
+            "entities": [8790]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 987.899, 974.439],
+                [1, 987.899, 914.939],
+                [1, 969.000, 914.939],
+                [1, 953.134, 937.610],
+                [1, 958.551, 941.599],
+                [1, 952.725, 948.942],
+                [1, 959.500, 953.690],
+                [1, 972.149, 953.690],
+                [1, 972.149, 974.438],
+                [1, 987.899, 974.439],
+                [1, 987.899, 974.439],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210663,
+        "location": {
+            "type": "Point",
+            "coordinates": [995.943, 944.052]
+        },
+        "properties": {
+            "display_name": "McDonald's",
+            "int_address": "Unit F002L",
+            "facility": "unit",
+            "entities": [142514]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1004.706, 904.439],
+                [1, 1003.102, 904.439],
+                [1, 987.901, 914.939],
+                [1, 987.899, 974.439],
+                [1, 1013.652, 974.439],
+                [1, 1013.652, 960.188],
+                [1, 1004.709, 960.188],
+                [1, 1004.706, 904.439],
+                [1, 1004.706, 904.439],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210664,
+        "location": {
+            "type": "Point",
+            "coordinates": [1010.242, 932.397]
+        },
+        "properties": {
+            "display_name": "Unit F013L",
+            "int_address": "Unit F013L",
+            "facility": "unit"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1004.706, 904.439],
+                [1, 1020.899, 904.439],
+                [1, 1020.899, 930.022],
+                [1, 1016.461, 930.022],
+                [1, 1016.461, 960.188],
+                [1, 1004.705, 960.188],
+                [1, 1004.706, 904.439],
+                [1, 1004.706, 904.439],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210665,
+        "location": {
+            "type": "Point",
+            "coordinates": [1028.008, 924.068]
+        },
+        "properties": {
+            "display_name": "Suissa Spa",
+            "int_address": "Unit F012L",
+            "facility": "unit",
+            "entities": [8830]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1020.899, 904.439],
+                [1, 1035.566, 904.439],
+                [1, 1035.566, 943.439],
+                [1, 1016.462, 943.439],
+                [1, 1016.462, 930.022],
+                [1, 1020.900, 930.022],
+                [1, 1020.899, 904.439],
+                [1, 1020.899, 904.439],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210666,
+        "location": {
+            "type": "Point",
+            "coordinates": [1040.988, 918.971]
+        },
+        "properties": {
+            "display_name": "CakeLove",
+            "int_address": "Unit F011L",
+            "facility": "unit",
+            "entities": [8661]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1035.566, 904.439],
+                [1, 1035.566, 933.689],
+                [1, 1046.399, 933.689],
+                [1, 1046.399, 904.439],
+                [1, 1035.566, 904.439],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210667,
+        "location": {
+            "type": "Point",
+            "coordinates": [1055.398, 919.189]
+        },
+        "properties": {
+            "display_name": "Helzberg Diamonds",
+            "int_address": "Unit F008L",
+            "facility": "unit",
+            "entities": [8723]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1065.125, 904.439],
+                [1, 1046.399, 904.439],
+                [1, 1046.399, 933.689],
+                [1, 1065.125, 933.689],
+                [1, 1065.125, 904.439],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210668,
+        "location": {
+            "type": "Point",
+            "coordinates": [939.380, 907.274]
+        },
+        "properties": {
+            "display_name": "California Pizza Kitchen",
+            "int_address": "Unit G021L",
+            "facility": "unit",
+            "entities": [8662]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 919.891, 929.689],
+                [1, 919.891, 895.942],
+                [1, 929.153, 877.691],
+                [1, 943.903, 877.691],
+                [1, 943.903, 891.689],
+                [1, 961.364, 904.114],
+                [1, 942.125, 929.689],
+                [1, 938.375, 927.014],
+                [1, 932.633, 934.863],
+                [1, 925.250, 929.689],
+                [1, 919.891, 929.689],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210669,
+        "location": {
+            "type": "Point",
+            "coordinates": [960.031, 884.879]
+        },
+        "properties": {
+            "display_name": "Sbarro",
+            "int_address": "Unit G021AL",
+            "facility": "unit",
+            "entities": [8814]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 976.000, 877.691],
+                [1, 976.000, 890.814],
+                [1, 971.673, 890.814],
+                [1, 961.364, 904.114],
+                [1, 943.899, 891.689],
+                [1, 943.899, 877.691],
+                [1, 976.000, 877.691],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210670,
+        "location": {
+            "type": "Point",
+            "coordinates": [993.881, 868.738]
+        },
+        "properties": {
+            "display_name": "Panda Express",
+            "int_address": "Unit G020L",
+            "facility": "unit",
+            "entities": [8789]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1002.524, 890.814],
+                [1, 985.167, 890.814],
+                [1, 985.167, 846.314],
+                [1, 1002.524, 846.314],
+                [1, 1002.524, 890.814],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 6368273,
+        "location": {
+            "type": "Point",
+            "coordinates": [1009.747, 871.637]
+        },
+        "properties": {
+            "display_name": "Kelly's Cajun Grill",
+            "int_address": "Unit G001L",
+            "facility": "unit",
+            "entities": [8734]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1016.775, 868.439],
+                [1, 1016.775, 852.189],
+                [1, 1002.524, 852.189],
+                [1, 1002.524, 890.814],
+                [1, 1020.375, 890.814],
+                [1, 1020.375, 868.439],
+                [1, 1016.775, 868.439],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 6368274,
+        "location": {
+            "type": "Point",
+            "coordinates": [1027.887, 879.546]
+        },
+        "properties": {
+            "display_name": "Charlie Chiang's Kwai",
+            "int_address": "Unit G002L",
+            "facility": "unit",
+            "entities": [8666]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1020.375, 868.439],
+                [1, 1020.375, 890.814],
+                [1, 1035.948, 890.814],
+                [1, 1035.948, 882.939],
+                [1, 1042.963, 875.499],
+                [1, 1042.963, 868.439],
+                [1, 1020.375, 868.439],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210672,
+        "location": {
+            "type": "Point",
+            "coordinates": [1045.804, 879.434]
+        },
+        "properties": {
+            "display_name": "Nestle Toll House Cafe",
+            "int_address": "Unit G002AL",
+            "facility": "unit",
+            "entities": [1082484]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1049.138, 890.814],
+                [1, 1049.138, 868.439],
+                [1, 1042.963, 868.439],
+                [1, 1042.963, 875.499],
+                [1, 1035.946, 882.939],
+                [1, 1035.946, 890.814],
+                [1, 1049.138, 890.814],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210673,
+        "location": {
+            "type": "Point",
+            "coordinates": [1041.001, 857.264]
+        },
+        "properties": {
+            "display_name": "Call It Spring",
+            "int_address": "Unit G006L",
+            "facility": "unit",
+            "entities": [1008815]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1016.774, 852.189],
+                [1, 1016.774, 846.314],
+                [1, 1065.898, 846.314],
+                [1, 1065.898, 868.439],
+                [1, 1016.773, 868.439],
+                [1, 1016.774, 852.189],
+                [1, 1016.774, 852.189],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210674,
+        "location": {
+            "type": "Point",
+            "coordinates": [1045.451, 821.669]
+        },
+        "properties": {
+            "display_name": "New York & Company",
+            "int_address": "Unit G008L",
+            "facility": "unit",
+            "entities": [8778]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1002.524, 852.189],
+                [1, 1002.524, 820.939],
+                [1, 1005.436, 820.939],
+                [1, 1005.436, 809.568],
+                [1, 1010.399, 809.568],
+                [1, 1010.399, 790.189],
+                [1, 1017.398, 790.189],
+                [1, 1017.398, 799.689],
+                [1, 1079.453, 799.689],
+                [1, 1079.453, 846.314],
+                [1, 1016.774, 846.314],
+                [1, 1016.774, 852.189],
+                [1, 1002.524, 852.189],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210675,
+        "location": {
+            "type": "Point",
+            "coordinates": [1047.306, 786.905]
+        },
+        "properties": {
+            "display_name": "Justice",
+            "int_address": "Unit G009AL",
+            "facility": "unit",
+            "entities": [8732]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1017.398, 773.689],
+                [1, 1006.399, 773.689],
+                [1, 1006.399, 747.689],
+                [1, 1017.649, 747.689],
+                [1, 1017.649, 764.439],
+                [1, 1027.648, 764.439],
+                [1, 1027.648, 773.939],
+                [1, 1079.453, 773.939],
+                [1, 1079.453, 799.689],
+                [1, 1017.398, 799.689],
+                [1, 1017.398, 773.689],
+                [1, 1017.398, 773.689],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210676,
+        "location": {
+            "type": "Point",
+            "coordinates": [1052.846, 759.152]
+        },
+        "properties": {
+            "display_name": "The Limited",
+            "int_address": "Unit G009L",
+            "facility": "unit",
+            "entities": [8844]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1011.899, 738.189],
+                [1, 1011.899, 747.689],
+                [1, 1017.649, 747.689],
+                [1, 1017.649, 764.439],
+                [1, 1027.648, 764.439],
+                [1, 1027.648, 773.939],
+                [1, 1079.453, 773.939],
+                [1, 1079.453, 744.001],
+                [1, 1068.500, 744.001],
+                [1, 1068.500, 738.188],
+                [1, 1059.917, 738.188],
+                [1, 1059.917, 729.031],
+                [1, 1047.650, 729.031],
+                [1, 1047.650, 738.188],
+                [1, 1011.899, 738.189],
+                [1, 1011.899, 738.189],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210677,
+        "location": {
+            "type": "Point",
+            "coordinates": [1069.645, 733.524]
+        },
+        "properties": {
+            "display_name": "Swatch",
+            "int_address": "Unit G010L",
+            "facility": "unit",
+            "entities": [535161]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1059.917, 729.032],
+                [1, 1059.917, 738.188],
+                [1, 1068.500, 738.188],
+                [1, 1068.500, 744.001],
+                [1, 1079.453, 744.001],
+                [1, 1079.453, 729.032],
+                [1, 1059.917, 729.032],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210678,
+        "location": {
+            "type": "Point",
+            "coordinates": [1067.929, 720.972]
+        },
+        "properties": {
+            "display_name": "Paradise Pen Company",
+            "int_address": "Unit G013L",
+            "facility": "unit",
+            "entities": [8793]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1056.899, 712.627],
+                [1, 1056.899, 729.032],
+                [1, 1079.453, 729.032],
+                [1, 1079.453, 712.627],
+                [1, 1056.899, 712.627],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210679,
+        "location": {
+            "type": "Point",
+            "coordinates": [1067.929, 705.838]
+        },
+        "properties": {
+            "display_name": "Things Remembered",
+            "int_address": "Unit G014L",
+            "facility": "unit",
+            "entities": [8846]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1056.899, 695.939],
+                [1, 1056.899, 712.627],
+                [1, 1079.453, 712.627],
+                [1, 1079.453, 699.189],
+                [1, 1061.649, 699.189],
+                [1, 1061.649, 695.939],
+                [1, 1056.899, 695.939],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 6368275,
+        "location": {
+            "type": "Point",
+            "coordinates": [1065.800, 664.801]
+        },
+        "properties": {
+            "display_name": "Solstice Sunglass Boutique",
+            "int_address": "Unit G017L",
+            "facility": "unit",
+            "entities": [8819]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1065.800, 655.968],
+                [1, 1064.148, 655.375],
+                [1, 1058.397, 670.689],
+                [1, 1079.449, 670.689],
+                [1, 1065.800, 655.968],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 6368276,
+        "location": {
+            "type": "Point",
+            "coordinates": [1044.432, 684.464]
+        },
+        "properties": {
+            "display_name": "Unit G016L",
+            "int_address": "Unit G016L",
+            "facility": "unit"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1058.397, 670.689],
+                [1, 1023.399, 660.939],
+                [1, 1019.899, 668.689],
+                [1, 1013.149, 666.939],
+                [1, 1003.649, 695.939],
+                [1, 1061.644, 695.942],
+                [1, 1061.644, 699.192],
+                [1, 1079.449, 699.192],
+                [1, 1079.449, 670.689],
+                [1, 1058.397, 670.689],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210682,
+        "location": {
+            "type": "Point",
+            "coordinates": [992.425, 660.891]
+        },
+        "properties": {
+            "display_name": "AT&T",
+            "int_address": "Unit O003L",
+            "facility": "unit",
+            "entities": [139707]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 961.399, 687.939],
+                [1, 969.017, 659.449],
+                [1, 980.002, 662.747],
+                [1, 988.169, 633.999],
+                [1, 1010.685, 640.346],
+                [1, 995.900, 686.439],
+                [1, 987.875, 684.624],
+                [1, 984.642, 694.879],
+                [1, 961.399, 687.939],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210683,
+        "location": {
+            "type": "Point",
+            "coordinates": [1052.307, 660.778]
+        },
+        "properties": {
+            "display_name": "Godiva Chocolatier",
+            "int_address": "Unit G018L",
+            "facility": "unit",
+            "entities": [8711]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1047.200, 650.564],
+                [1, 1041.096, 665.869],
+                [1, 1058.397, 670.689],
+                [1, 1064.147, 655.375],
+                [1, 1047.200, 650.564],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210684,
+        "location": {
+            "type": "Point",
+            "coordinates": [1034.093, 655.664]
+        },
+        "properties": {
+            "display_name": "Bareminerals",
+            "int_address": "Unit G023L",
+            "facility": "unit",
+            "entities": [8646]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1028.482, 645.249],
+                [1, 1023.399, 660.939],
+                [1, 1041.095, 665.868],
+                [1, 1047.199, 650.563],
+                [1, 1028.482, 645.249],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210685,
+        "location": {
+            "type": "Point",
+            "coordinates": [1016.689, 650.534]
+        },
+        "properties": {
+            "display_name": "Fire & Ice",
+            "int_address": "Unit G022L",
+            "facility": "unit",
+            "entities": [8698]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1010.688, 640.349],
+                [1, 1028.485, 645.249],
+                [1, 1023.399, 660.939],
+                [1, 1005.740, 655.776],
+                [1, 1010.688, 640.349],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210686,
+        "location": {
+            "type": "Point",
+            "coordinates": [978.320, 647.087]
+        },
+        "properties": {
+            "display_name": "Tous",
+            "int_address": "Unit O002L",
+            "facility": "unit",
+            "entities": [8849]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 976.733, 630.803],
+                [1, 969.016, 659.449],
+                [1, 980.001, 662.747],
+                [1, 988.167, 633.999],
+                [1, 976.733, 630.803],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210687,
+        "location": {
+            "type": "Point",
+            "coordinates": [933.437, 655.541]
+        },
+        "properties": {
+            "display_name": "Express",
+            "int_address": "Unit O004L",
+            "facility": "unit",
+            "entities": [8691]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 893.149, 677.939],
+                [1, 909.649, 611.939],
+                [1, 976.734, 630.793],
+                [1, 958.899, 696.939],
+                [1, 893.149, 677.939],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210688,
+        "location": {
+            "type": "Point",
+            "coordinates": [876.767, 740.412]
+        },
+        "properties": {
+            "display_name": "Magic & Health",
+            "int_address": "Unit O013L",
+            "facility": "unit",
+            "entities": [216174]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 855.985, 745.684],
+                [1, 862.679, 725.363],
+                [1, 889.254, 731.592],
+                [1, 894.018, 714.426],
+                [1, 900.998, 716.249],
+                [1, 891.802, 754.709],
+                [1, 855.985, 745.684],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210689,
+        "location": {
+            "type": "Point",
+            "coordinates": [878.479, 719.748]
+        },
+        "properties": {
+            "display_name": "Washington Redskins Official Store",
+            "int_address": "Unit O013AL",
+            "facility": "unit",
+            "entities": [8860]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 868.079, 707.593],
+                [1, 862.680, 725.364],
+                [1, 889.255, 731.593],
+                [1, 894.019, 714.426],
+                [1, 868.079, 707.593],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210690,
+        "location": {
+            "type": "Point",
+            "coordinates": [879.452, 696.759]
+        },
+        "properties": {
+            "display_name": "The Leather Store",
+            "int_address": "Unit O012L",
+            "facility": "unit",
+            "entities": [142441]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 859.748, 681.287],
+                [1, 853.693, 699.487],
+                [1, 900.727, 711.850],
+                [1, 906.379, 692.972],
+                [1, 859.748, 681.287],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210691,
+        "location": {
+            "type": "Point",
+            "coordinates": [878.428, 672.178]
+        },
+        "properties": {
+            "display_name": "White House | Black Market",
+            "int_address": "Unit O010L",
+            "facility": "unit",
+            "entities": [8864]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 867.899, 655.689],
+                [1, 859.753, 681.288],
+                [1, 890.381, 688.975],
+                [1, 896.632, 664.001],
+                [1, 867.899, 655.689],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210692,
+        "location": {
+            "type": "Point",
+            "coordinates": [884.342, 651.971]
+        },
+        "properties": {
+            "display_name": "Easy Spirit",
+            "int_address": "Unit O009L",
+            "facility": "unit",
+            "entities": [8685]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 873.024, 639.426],
+                [1, 867.896, 655.697],
+                [1, 896.632, 664.002],
+                [1, 900.896, 646.947],
+                [1, 873.024, 639.426],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210693,
+        "location": {
+            "type": "Point",
+            "coordinates": [894.035, 633.772]
+        },
+        "properties": {
+            "display_name": "True Religion Brand Jeans",
+            "int_address": "Unit O008L",
+            "facility": "unit",
+            "entities": [8851]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 890.149, 621.189],
+                [1, 873.712, 637.711],
+                [1, 873.024, 639.417],
+                [1, 900.895, 646.938],
+                [1, 906.234, 625.584],
+                [1, 890.149, 621.189],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210694,
+        "location": {
+            "type": "Point",
+            "coordinates": [899.470, 616.922]
+        },
+        "properties": {
+            "display_name": "Teavana",
+            "int_address": "Unit O007L",
+            "facility": "unit",
+            "entities": [8836]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 893.255, 607.337],
+                [1, 890.151, 621.191],
+                [1, 906.239, 625.587],
+                [1, 909.651, 611.941],
+                [1, 893.255, 607.337],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210696,
+        "location": {
+            "type": "Point",
+            "coordinates": [831.373, 829.317]
+        },
+        "properties": {
+            "display_name": "Nordstrom",
+            "int_address": "Unit MAJ05",
+            "facility": "unit",
+            "entities": [8781]
+        },
+        "group": 6369983,
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 738.140, 893.077],
+                [1, 783.369, 727.387],
+                [1, 957.869, 771.356],
+                [1, 953.112, 791.981],
+                [1, 919.988, 783.293],
+                [1, 888.345, 928.672],
+                [1, 738.140, 893.077],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 6368277,
+        "location": {
+            "type": "Point",
+            "coordinates": [809.594, 705.755]
+        },
+        "properties": {
+            "display_name": "Paul Mitchell the School",
+            "int_address": "Unit J016LA",
+            "facility": "unit",
+            "entities": [8796]
+        },
+        "is_group_main": true,
+        "group": 6368277,
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 799.444, 672.892],
+                [1, 794.084, 689.290],
+                [1, 775.128, 683.519],
+                [1, 765.505, 714.357],
+                [1, 785.371, 720.057],
+                [1, 783.368, 727.392],
+                [1, 821.580, 737.012],
+                [1, 837.828, 684.955],
+                [1, 799.444, 672.892],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210699,
+        "location": {
+            "type": "Point",
+            "coordinates": [820.572, 671.657]
+        },
+        "properties": {
+            "display_name": "Jessica McClintock",
+            "int_address": "Unit J003L",
+            "facility": "unit",
+            "entities": [8729]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 804.170, 658.431],
+                [1, 799.443, 672.892],
+                [1, 837.831, 684.968],
+                [1, 842.618, 669.864],
+                [1, 804.170, 658.431],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210700,
+        "location": {
+            "type": "Point",
+            "coordinates": [825.588, 657.658]
+        },
+        "properties": {
+            "display_name": "T-Mobile",
+            "int_address": "Unit J004L",
+            "facility": "unit",
+            "entities": [139709]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 846.899, 656.326],
+                [1, 842.611, 669.855],
+                [1, 804.170, 658.431],
+                [1, 809.617, 641.767],
+                [1, 825.701, 646.456],
+                [1, 824.869, 649.726],
+                [1, 846.899, 656.326],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210701,
+        "location": {
+            "type": "Point",
+            "coordinates": [837.885, 645.487]
+        },
+        "properties": {
+            "display_name": "Aveda",
+            "int_address": "Unit J005L",
+            "facility": "unit",
+            "entities": [8641]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 828.709, 634.666],
+                [1, 851.795, 641.119],
+                [1, 846.899, 656.326],
+                [1, 824.869, 649.726],
+                [1, 828.709, 634.666],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 6368278,
+        "location": {
+            "type": "Point",
+            "coordinates": [838.554, 621.766]
+        },
+        "properties": {
+            "display_name": "Catimini",
+            "int_address": "Unit J006AL",
+            "facility": "unit",
+            "entities": [522633]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 836.233, 605.189],
+                [1, 828.712, 634.666],
+                [1, 841.292, 638.183],
+                [1, 849.365, 608.916],
+                [1, 836.233, 605.189],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 6368279,
+        "location": {
+            "type": "Point",
+            "coordinates": [850.452, 624.921]
+        },
+        "properties": {
+            "display_name": "Pandora",
+            "int_address": "Unit J006L",
+            "facility": "unit",
+            "entities": [522674]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 861.135, 612.289],
+                [1, 849.365, 608.916],
+                [1, 841.292, 638.183],
+                [1, 851.797, 641.120],
+                [1, 861.135, 612.289],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210703,
+        "location": {
+            "type": "Point",
+            "coordinates": [822.725, 625.242]
+        },
+        "properties": {
+            "display_name": "Sperry Top-Sider",
+            "int_address": "Unit J007L",
+            "facility": "unit",
+            "entities": [813538]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 822.817, 601.382],
+                [1, 809.617, 641.767],
+                [1, 825.702, 646.456],
+                [1, 836.234, 605.189],
+                [1, 822.817, 601.382],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210704,
+        "location": {
+            "type": "Point",
+            "coordinates": [798.348, 625.426]
+        },
+        "properties": {
+            "display_name": "lucy",
+            "int_address": "Unit J008L",
+            "facility": "unit",
+            "entities": [8756]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 782.039, 652.206],
+                [1, 802.305, 590.020],
+                [1, 809.384, 597.416],
+                [1, 815.298, 599.206],
+                [1, 797.676, 657.011],
+                [1, 782.039, 652.206],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210705,
+        "location": {
+            "type": "Point",
+            "coordinates": [787.499, 601.850]
+        },
+        "properties": {
+            "display_name": "Under The Olive Tree",
+            "int_address": "Unit J009L",
+            "facility": "unit",
+            "entities": [535164]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 773.399, 612.356],
+                [1, 782.562, 583.902],
+                [1, 802.303, 590.024],
+                [1, 792.780, 619.269],
+                [1, 773.399, 612.356],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210706,
+        "location": {
+            "type": "Point",
+            "coordinates": [703.381, 663.153]
+        },
+        "properties": {
+            "display_name": "L.L. Bean",
+            "int_address": "Unit J010L",
+            "facility": "unit",
+            "entities": [8739]
+        },
+        "is_group_main": true,
+        "group": 210706,
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 640.469, 678.477],
+                [1, 660.087, 617.576],
+                [1, 706.398, 631.443],
+                [1, 723.155, 575.192],
+                [1, 754.529, 583.771],
+                [1, 765.659, 578.958],
+                [1, 782.562, 583.905],
+                [1, 773.405, 612.359],
+                [1, 792.780, 619.269],
+                [1, 782.039, 652.206],
+                [1, 797.676, 657.011],
+                [1, 790.880, 679.302],
+                [1, 761.280, 670.315],
+                [1, 749.228, 709.686],
+                [1, 640.469, 678.477],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210707,
+        "location": {
+            "type": "Point",
+            "coordinates": [686.757, 609.672]
+        },
+        "properties": {
+            "display_name": "LensCrafters",
+            "int_address": "Unit J013L",
+            "facility": "unit",
+            "entities": [8747]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 669.229, 589.159],
+                [1, 660.087, 617.576],
+                [1, 706.398, 631.443],
+                [1, 723.148, 575.193],
+                [1, 698.825, 568.389],
+                [1, 692.398, 595.193],
+                [1, 669.229, 589.159],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210708,
+        "location": {
+            "type": "Point",
+            "coordinates": [1034.251, 1240.318]
+        },
+        "properties": {
+            "display_name": "Z Gallerie",
+            "int_address": "Unit N009L",
+            "facility": "unit",
+            "entities": [522698]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1070.149, 1215.189],
+                [1, 1070.155, 1267.189],
+                [1, 998.498, 1267.189],
+                [1, 998.498, 1230.411],
+                [1, 972.149, 1230.439],
+                [1, 972.149, 1215.189],
+                [1, 1070.149, 1215.189],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210709,
+        "location": {
+            "type": "Point",
+            "coordinates": [1041.431, 1173.994]
+        },
+        "properties": {
+            "display_name": "Arhaus Furniture",
+            "int_address": "Unit N001L",
+            "facility": "unit",
+            "entities": [8636]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1013.149, 1131.689],
+                [1, 1013.149, 1152.439],
+                [1, 1009.149, 1165.189],
+                [1, 987.399, 1165.189],
+                [1, 987.399, 1183.439],
+                [1, 972.149, 1183.439],
+                [1, 972.149, 1215.189],
+                [1, 1070.145, 1215.189],
+                [1, 1070.145, 1131.689],
+                [1, 1013.149, 1131.689],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210710,
+        "location": {
+            "type": "Point",
+            "coordinates": [1045.370, 1086.873]
+        },
+        "properties": {
+            "display_name": "Claire's",
+            "int_address": "Unit F001BL",
+            "facility": "unit",
+            "entities": [8670]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1024.399, 1092.939],
+                [1, 1024.399, 1076.939],
+                [1, 1039.899, 1076.939],
+                [1, 1039.899, 1081.939],
+                [1, 1066.149, 1081.939],
+                [1, 1066.149, 1092.939],
+                [1, 1024.399, 1092.939],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210711,
+        "location": {
+            "type": "Point",
+            "coordinates": [1040.325, 1098.730]
+        },
+        "properties": {
+            "display_name": "GNC",
+            "int_address": "Unit F001AL",
+            "facility": "unit",
+            "entities": [8710]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1024.399, 1104.814],
+                [1, 1024.399, 1092.939],
+                [1, 1066.149, 1092.939],
+                [1, 1066.149, 1094.418],
+                [1, 1054.274, 1104.814],
+                [1, 1024.399, 1104.814],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210712,
+        "location": {
+            "type": "Point",
+            "coordinates": [1039.020, 1115.072]
+        },
+        "properties": {
+            "display_name": "Starbucks Coffee",
+            "int_address": "Unit F001CL",
+            "facility": "unit",
+            "entities": [8824]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1024.399, 1104.814],
+                [1, 1054.274, 1104.814],
+                [1, 1054.274, 1126.189],
+                [1, 1017.899, 1126.189],
+                [1, 1017.899, 1109.911],
+                [1, 1024.399, 1109.911],
+                [1, 1024.399, 1104.814],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210713,
+        "location": {
+            "type": "Point",
+            "coordinates": [1067.953, 1113.871]
+        },
+        "properties": {
+            "display_name": "Yogen Fruz",
+            "int_address": "Unit KSK06L",
+            "facility": "unit",
+            "entities": [8867]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1063.733, 1106.414],
+                [1, 1063.733, 1121.749],
+                [1, 1072.233, 1121.749],
+                [1, 1072.233, 1103.588],
+                [1, 1067.250, 1103.588],
+                [1, 1063.733, 1106.414],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210714,
+        "location": {
+            "type": "Point",
+            "coordinates": [1090.136, 1114.275]
+        },
+        "properties": {
+            "display_name": "Wetzel's Pretzels",
+            "int_address": "Unit KSK05L",
+            "facility": "unit",
+            "entities": [8863]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1086.399, 1103.588],
+                [1, 1086.399, 1121.749],
+                [1, 1094.232, 1121.749],
+                [1, 1094.232, 1107.724],
+                [1, 1090.125, 1103.588],
+                [1, 1086.399, 1103.588],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210715,
+        "location": {
+            "type": "Point",
+            "coordinates": [1137.523, 1098.230]
+        },
+        "properties": {
+            "display_name": "H&M",
+            "int_address": "Unit E001L",
+            "facility": "unit",
+            "entities": [8718]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1100.566, 1125.689],
+                [1, 1100.566, 1103.689],
+                [1, 1092.816, 1095.939],
+                [1, 1092.816, 1082.522],
+                [1, 1082.274, 1072.564],
+                [1, 1082.274, 1052.189],
+                [1, 1144.466, 1052.189],
+                [1, 1144.466, 1069.689],
+                [1, 1191.833, 1069.689],
+                [1, 1191.833, 1103.837],
+                [1, 1173.900, 1103.837],
+                [1, 1173.900, 1125.689],
+                [1, 1100.566, 1125.689],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210716,
+        "location": {
+            "type": "Point",
+            "coordinates": [1113.333, 1042.428]
+        },
+        "properties": {
+            "display_name": "Unit E005L",
+            "int_address": "Unit E005L",
+            "facility": "unit"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1082.274, 1032.856],
+                [1, 1082.274, 1052.189],
+                [1, 1144.466, 1052.189],
+                [1, 1144.466, 1023.874],
+                [1, 1118.566, 1023.874],
+                [1, 1118.566, 1032.855],
+                [1, 1082.274, 1032.856],
+                [1, 1082.274, 1032.856],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210718,
+        "location": {
+            "type": "Point",
+            "coordinates": [1113.015, 1003.479]
+        },
+        "properties": {
+            "display_name": "Square One",
+            "int_address": "Unit E007L",
+            "facility": "unit",
+            "entities": [8822]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1118.566, 1015.751],
+                [1, 1118.566, 1019.874],
+                [1, 1144.465, 1019.874],
+                [1, 1144.465, 980.590],
+                [1, 1118.274, 980.590],
+                [1, 1118.274, 991.693],
+                [1, 1082.274, 991.693],
+                [1, 1082.274, 1015.818],
+                [1, 1118.566, 1015.751],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210719,
+        "location": {
+            "type": "Point",
+            "coordinates": [1112.987, 969.677]
+        },
+        "properties": {
+            "display_name": "Finish Line",
+            "int_address": "Unit E012L",
+            "facility": "unit",
+            "entities": [8697]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1082.274, 991.689],
+                [1, 1082.274, 959.440],
+                [1, 1144.466, 959.440],
+                [1, 1144.466, 980.587],
+                [1, 1118.274, 980.587],
+                [1, 1118.274, 991.689],
+                [1, 1082.274, 991.689],
+                [1, 1082.274, 991.689],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210720,
+        "location": {
+            "type": "Point",
+            "coordinates": [1123.686, 951.007]
+        },
+        "properties": {
+            "display_name": "PacSun",
+            "int_address": "Unit E018L",
+            "facility": "unit",
+            "entities": [8788]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1082.274, 941.106],
+                [1, 1082.274, 959.440],
+                [1, 1144.466, 959.440],
+                [1, 1144.466, 980.587],
+                [1, 1165.482, 980.587],
+                [1, 1165.480, 941.105],
+                [1, 1082.274, 941.106],
+                [1, 1082.274, 941.106],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210721,
+        "location": {
+            "type": "Point",
+            "coordinates": [1143.324, 924.468]
+        },
+        "properties": {
+            "display_name": "Forever 21",
+            "int_address": "Unit E020L",
+            "facility": "unit",
+            "entities": [8701]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1082.274, 941.106],
+                [1, 1082.274, 939.764],
+                [1, 1102.733, 919.939],
+                [1, 1102.733, 908.308],
+                [1, 1165.384, 908.308],
+                [1, 1187.500, 908.308],
+                [1, 1187.500, 980.588],
+                [1, 1165.479, 980.588],
+                [1, 1165.479, 941.108],
+                [1, 1082.274, 941.106],
+                [1, 1082.274, 941.106],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210722,
+        "location": {
+            "type": "Point",
+            "coordinates": [1170.323, 996.979]
+        },
+        "properties": {
+            "display_name": "Unit E015L",
+            "int_address": "Unit E015L",
+            "facility": "unit"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1149.250, 1013.939],
+                [1, 1191.836, 1013.939],
+                [1, 1191.836, 980.588],
+                [1, 1149.250, 980.588],
+                [1, 1149.250, 1013.939],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210723,
+        "location": {
+            "type": "Point",
+            "coordinates": [1170.511, 1027.876]
+        },
+        "properties": {
+            "display_name": "Unit E014L",
+            "int_address": "Unit E014L",
+            "facility": "unit"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1149.250, 1042.509],
+                [1, 1191.836, 1042.509],
+                [1, 1191.836, 1013.946],
+                [1, 1149.250, 1013.946],
+                [1, 1149.250, 1042.509],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210724,
+        "location": {
+            "type": "Point",
+            "coordinates": [1170.262, 1061.179]
+        },
+        "properties": {
+            "display_name": "Unit E013L",
+            "int_address": "Unit E013L",
+            "facility": "unit"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1149.250, 1052.343],
+                [1, 1149.250, 1069.697],
+                [1, 1191.836, 1069.697],
+                [1, 1191.836, 1052.343],
+                [1, 1149.250, 1052.343],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210725,
+        "location": {
+            "type": "Point",
+            "coordinates": [1211.941, 895.110]
+        },
+        "properties": {
+            "display_name": "Massage Express",
+            "int_address": "Unit E022L",
+            "facility": "unit",
+            "entities": [8765]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1202.892, 886.373],
+                [1, 1202.892, 902.832],
+                [1, 1209.333, 902.832],
+                [1, 1209.333, 907.665],
+                [1, 1216.500, 907.665],
+                [1, 1216.500, 919.063],
+                [1, 1221.059, 919.063],
+                [1, 1221.059, 886.372],
+                [1, 1202.892, 886.373],
+                [1, 1202.892, 886.373],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210726,
+        "location": {
+            "type": "Point",
+            "coordinates": [1280.262, 870.148]
+        },
+        "properties": {
+            "display_name": "Lord & Taylor",
+            "int_address": "Unit MAJ03",
+            "facility": "unit",
+            "entities": [8752]
+        },
+        "is_group_main": true,
+        "group": 210726,
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1221.059, 773.439],
+                [1, 1221.059, 963.627],
+                [1, 1342.585, 963.627],
+                [1, 1342.585, 773.439],
+                [1, 1221.059, 773.439],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210727,
+        "location": {
+            "type": "Point",
+            "coordinates": [1087.490, 889.098]
+        },
+        "properties": {
+            "display_name": "Wasabi",
+            "int_address": "Unit E021L",
+            "facility": "unit",
+            "entities": [142474]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1083.399, 904.023],
+                [1, 1083.399, 874.093],
+                [1, 1091.466, 874.093],
+                [1, 1091.466, 904.114],
+                [1, 1083.399, 904.023],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210728,
+        "location": {
+            "type": "Point",
+            "coordinates": [1113.262, 874.517]
+        },
+        "properties": {
+            "display_name": "Watch Station International",
+            "int_address": "Unit E017L",
+            "facility": "unit",
+            "entities": [813541]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1102.733, 864.426],
+                [1, 1102.733, 884.530],
+                [1, 1123.733, 884.530],
+                [1, 1123.733, 864.468],
+                [1, 1102.733, 864.426],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210729,
+        "location": {
+            "type": "Point",
+            "coordinates": [1121.452, 892.267]
+        },
+        "properties": {
+            "display_name": "Unit E019L",
+            "int_address": "Unit E019L",
+            "facility": "unit"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1102.733, 884.522],
+                [1, 1141.067, 884.522],
+                [1, 1141.067, 900.356],
+                [1, 1121.400, 900.356],
+                [1, 1121.400, 908.307],
+                [1, 1102.733, 908.307],
+                [1, 1102.733, 884.522],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210730,
+        "location": {
+            "type": "Point",
+            "coordinates": [1132.295, 874.745]
+        },
+        "properties": {
+            "display_name": "Candy Heaven",
+            "int_address": "Unit E011LB",
+            "facility": "unit",
+            "entities": [8663]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1123.733, 864.468],
+                [1, 1123.733, 884.531],
+                [1, 1141.067, 884.531],
+                [1, 1141.067, 864.448],
+                [1, 1123.733, 864.468],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210731,
+        "location": {
+            "type": "Point",
+            "coordinates": [1152.630, 886.262]
+        },
+        "properties": {
+            "display_name": "Unit E011LA",
+            "int_address": "Unit E011LA",
+            "facility": "unit"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1165.399, 864.439],
+                [1, 1141.066, 864.439],
+                [1, 1141.066, 900.356],
+                [1, 1121.399, 900.356],
+                [1, 1121.399, 908.307],
+                [1, 1165.399, 908.307],
+                [1, 1165.399, 864.439],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210732,
+        "location": {
+            "type": "Point",
+            "coordinates": [1196.664, 819.381]
+        },
+        "properties": {
+            "display_name": "Steinway Piano",
+            "int_address": "Unit D001L",
+            "facility": "unit",
+            "entities": [8825]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1179.066, 788.022],
+                [1, 1179.066, 849.689],
+                [1, 1215.232, 849.689],
+                [1, 1215.232, 788.022],
+                [1, 1179.066, 788.022],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210733,
+        "location": {
+            "type": "Point",
+            "coordinates": [1171.899, 830.022]
+        },
+        "properties": {
+            "display_name": "Perfect Eyebrows",
+            "int_address": "Unit D002L",
+            "facility": "unit",
+            "entities": [813535]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1165.399, 810.522],
+                [1, 1179.066, 810.522],
+                [1, 1179.066, 849.689],
+                [1, 1165.399, 849.689],
+                [1, 1165.399, 810.522],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210734,
+        "location": {
+            "type": "Point",
+            "coordinates": [1158.465, 831.896]
+        },
+        "properties": {
+            "display_name": "Motherhood Maternity",
+            "int_address": "Unit D003L",
+            "facility": "unit",
+            "entities": [8771]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1151.733, 813.522],
+                [1, 1151.733, 849.689],
+                [1, 1165.399, 849.689],
+                [1, 1165.399, 813.522],
+                [1, 1151.733, 813.522],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210735,
+        "location": {
+            "type": "Point",
+            "coordinates": [1143.161, 831.778]
+        },
+        "properties": {
+            "display_name": "Bubbles",
+            "int_address": "Unit D004L",
+            "facility": "unit",
+            "entities": [8657]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1134.733, 813.522],
+                [1, 1134.733, 849.689],
+                [1, 1151.733, 849.689],
+                [1, 1151.733, 813.522],
+                [1, 1134.733, 813.522],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210736,
+        "location": {
+            "type": "Point",
+            "coordinates": [1118.826, 839.837]
+        },
+        "properties": {
+            "display_name": "Zales",
+            "int_address": "Unit D005L",
+            "facility": "unit",
+            "entities": [8868]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1095.733, 831.374],
+                [1, 1095.733, 830.021],
+                [1, 1134.733, 830.021],
+                [1, 1134.733, 849.688],
+                [1, 1102.900, 849.688],
+                [1, 1102.900, 838.521],
+                [1, 1095.733, 831.374],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210737,
+        "location": {
+            "type": "Point",
+            "coordinates": [1114.903, 821.807]
+        },
+        "properties": {
+            "display_name": "Naartjie",
+            "int_address": "Unit D006L",
+            "facility": "unit",
+            "entities": [8775]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1095.733, 813.522],
+                [1, 1095.733, 830.023],
+                [1, 1134.733, 830.023],
+                [1, 1134.733, 813.522],
+                [1, 1095.733, 813.522],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210738,
+        "location": {
+            "type": "Point",
+            "coordinates": [1122.595, 802.079]
+        },
+        "properties": {
+            "display_name": "Lego",
+            "int_address": "Unit D007L",
+            "facility": "unit",
+            "entities": [8745]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1095.733, 813.522],
+                [1, 1095.733, 791.189],
+                [1, 1149.150, 791.189],
+                [1, 1149.150, 813.522],
+                [1, 1095.733, 813.522],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210739,
+        "location": {
+            "type": "Point",
+            "coordinates": [1121.959, 781.932]
+        },
+        "properties": {
+            "display_name": "Gymboree",
+            "int_address": "Unit D008L",
+            "facility": "unit",
+            "entities": [8716]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1095.733, 771.814],
+                [1, 1095.733, 791.189],
+                [1, 1149.150, 791.189],
+                [1, 1149.150, 780.564],
+                [1, 1162.650, 780.564],
+                [1, 1162.650, 771.814],
+                [1, 1095.733, 771.814],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210740,
+        "location": {
+            "type": "Point",
+            "coordinates": [1111.137, 765.985]
+        },
+        "properties": {
+            "display_name": "Lady Foot Locker",
+            "int_address": "Unit D009L",
+            "facility": "unit",
+            "entities": [139704]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1095.733, 759.814],
+                [1, 1095.733, 771.814],
+                [1, 1126.650, 771.814],
+                [1, 1126.650, 759.814],
+                [1, 1095.733, 759.814],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210741,
+        "location": {
+            "type": "Point",
+            "coordinates": [1143.598, 744.102]
+        },
+        "properties": {
+            "display_name": "Charlotte Russe",
+            "int_address": "Unit D010L",
+            "facility": "unit",
+            "entities": [8667]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1095.733, 730.314],
+                [1, 1095.733, 759.814],
+                [1, 1126.650, 759.814],
+                [1, 1126.650, 771.814],
+                [1, 1162.650, 771.814],
+                [1, 1162.650, 716.189],
+                [1, 1126.650, 716.189],
+                [1, 1126.650, 730.314],
+                [1, 1095.733, 730.314],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210742,
+        "location": {
+            "type": "Point",
+            "coordinates": [1110.938, 723.158]
+        },
+        "properties": {
+            "display_name": "Lids",
+            "int_address": "Unit D011L",
+            "facility": "unit",
+            "entities": [8750]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1095.733, 716.189],
+                [1, 1095.733, 730.314],
+                [1, 1126.650, 730.314],
+                [1, 1126.650, 716.189],
+                [1, 1095.733, 716.189],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210744,
+        "location": {
+            "type": "Point",
+            "coordinates": [1128.901, 706.091]
+        },
+        "properties": {
+            "display_name": "Skechers",
+            "int_address": "Unit D012L",
+            "facility": "unit",
+            "entities": [8818]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1095.733, 696.064],
+                [1, 1095.733, 716.189],
+                [1, 1162.650, 716.189],
+                [1, 1162.650, 696.064],
+                [1, 1095.733, 696.064],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210745,
+        "location": {
+            "type": "Point",
+            "coordinates": [1141.832, 688.322]
+        },
+        "properties": {
+            "display_name": "Dinsey Store",
+            "int_address": "Unit D014L",
+            "facility": "unit",
+            "entities": [142453]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1111.524, 670.814],
+                [1, 1097.649, 696.064],
+                [1, 1162.649, 696.064],
+                [1, 1162.649, 701.606],
+                [1, 1179.901, 701.606],
+                [1, 1179.898, 682.189],
+                [1, 1156.024, 670.439],
+                [1, 1150.774, 681.564],
+                [1, 1111.524, 670.814],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210746,
+        "location": {
+            "type": "Point",
+            "coordinates": [1129.285, 668.111]
+        },
+        "properties": {
+            "display_name": "Starbucks Coffee",
+            "int_address": "Unit D015L",
+            "facility": "unit",
+            "entities": [8823]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1118.996, 655.987],
+                [1, 1111.517, 670.814],
+                [1, 1141.330, 678.978],
+                [1, 1147.518, 665.564],
+                [1, 1118.996, 655.987],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210748,
+        "location": {
+            "type": "Point",
+            "coordinates": [1128.058, 524.348]
+        },
+        "properties": {
+            "display_name": "Macy's",
+            "int_address": "Unit MAJ02",
+            "facility": "unit",
+            "entities": [139705]
+        },
+        "group": 329869,
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1035.399, 615.939],
+                [1, 1090.962, 395.356],
+                [1, 1223.457, 429.368],
+                [1, 1171.055, 651.160],
+                [1, 1035.399, 615.939],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210749,
+        "location": {
+            "type": "Point",
+            "coordinates": [1129.553, 1295.426]
+        },
+        "properties": {
+            "display_name": "Coastal Flats",
+            "int_address": "Unit M007L",
+            "facility": "unit",
+            "entities": [8673]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1092.399, 1323.314],
+                [1, 1092.399, 1267.189],
+                [1, 1184.881, 1267.189],
+                [1, 1184.881, 1296.939],
+                [1, 1167.083, 1296.939],
+                [1, 1167.083, 1323.314],
+                [1, 1092.399, 1323.314],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210750,
+        "location": {
+            "type": "Point",
+            "coordinates": [1134.290, 1233.580]
+        },
+        "properties": {
+            "display_name": "West Elm",
+            "int_address": "Unit M005L",
+            "facility": "unit",
+            "entities": [8861]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1085.649, 1267.189],
+                [1, 1184.881, 1267.189],
+                [1, 1184.881, 1184.939],
+                [1, 1149.399, 1184.939],
+                [1, 1149.399, 1202.439],
+                [1, 1085.649, 1202.439],
+                [1, 1085.649, 1267.189],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210751,
+        "location": {
+            "type": "Point",
+            "coordinates": [1117.468, 1189.711]
+        },
+        "properties": {
+            "display_name": "The North Face",
+            "int_address": "Unit M003L",
+            "facility": "unit",
+            "entities": [8845]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1085.649, 1176.189],
+                [1, 1085.649, 1202.439],
+                [1, 1149.399, 1202.439],
+                [1, 1149.399, 1184.939],
+                [1, 1184.881, 1184.939],
+                [1, 1184.881, 1176.189],
+                [1, 1085.649, 1176.189],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210752,
+        "location": {
+            "type": "Point",
+            "coordinates": [1121.774, 1160.706]
+        },
+        "properties": {
+            "display_name": "H&M",
+            "int_address": "Unit M001L",
+            "facility": "unit",
+            "entities": [8717]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1157.399, 1164.814],
+                [1, 1157.399, 1176.189],
+                [1, 1085.649, 1176.189],
+                [1, 1085.649, 1143.939],
+                [1, 1139.875, 1143.939],
+                [1, 1139.875, 1130.939],
+                [1, 1158.899, 1130.939],
+                [1, 1158.899, 1150.689],
+                [1, 1169.899, 1150.689],
+                [1, 1169.899, 1164.814],
+                [1, 1157.399, 1164.814],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 210922,
+        "properties": {
+            "display_name": "ATM",
+            "service": "atm"
+        },
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [714.885, 538.711]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 214564,
+        "location": {
+            "type": "Point",
+            "coordinates": [1173.923, 887.948]
+        },
+        "properties": {
+            "display_name": "Subway",
+            "int_address": "Unit E010L",
+            "facility": "unit",
+            "entities": [8829]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1165.399, 864.440],
+                [1, 1179.750, 864.440],
+                [1, 1187.500, 885.999],
+                [1, 1187.500, 908.306],
+                [1, 1165.386, 908.306],
+                [1, 1165.399, 864.440],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 214565,
+        "location": {
+            "type": "Point",
+            "coordinates": [1170.559, 1047.394]
+        },
+        "properties": {
+            "display_name": "Unit E013LA",
+            "int_address": "Unit E013LA",
+            "facility": "unit"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1149.250, 1052.344],
+                [1, 1149.250, 1042.510],
+                [1, 1191.836, 1042.510],
+                [1, 1191.836, 1052.344],
+                [1, 1149.250, 1052.344],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 214566,
+        "location": {
+            "type": "Point",
+            "coordinates": [1057.554, 882.917]
+        },
+        "properties": {
+            "display_name": "Cinnabon",
+            "int_address": "Unit G003LA",
+            "facility": "unit",
+            "entities": [8669]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1049.138, 875.175],
+                [1, 1065.904, 875.175],
+                [1, 1065.904, 890.820],
+                [1, 1049.138, 890.820],
+                [1, 1049.138, 875.175],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 214567,
+        "location": {
+            "type": "Point",
+            "coordinates": [1057.469, 871.771]
+        },
+        "properties": {
+            "display_name": "Mixing Bowl",
+            "int_address": "Unit G003LB",
+            "facility": "unit",
+            "entities": [696466]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1049.138, 868.440],
+                [1, 1065.906, 868.440],
+                [1, 1065.906, 875.169],
+                [1, 1049.138, 875.169],
+                [1, 1049.138, 868.440],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 214568,
+        "location": {
+            "type": "Point",
+            "coordinates": [1050.325, 943.825]
+        },
+        "properties": {
+            "display_name": "EB Games",
+            "int_address": "Unit F006L",
+            "facility": "unit",
+            "entities": [1082464]
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1035.399, 954.683],
+                [1, 1035.564, 933.701],
+                [1, 1065.125, 933.701],
+                [1, 1065.125, 954.683],
+                [1, 1035.399, 954.683],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 329094,
+        "location": {
+            "type": "Point",
+            "coordinates": [1482.234, 869.374]
+        },
+        "properties": {
+            "facility": "unit"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1454.912, 888.462],
+                [1, 1454.912, 867.448],
+                [1, 1449.409, 867.448],
+                [1, 1449.409, 850.314],
+                [1, 1517.239, 850.314],
+                [1, 1517.239, 867.448],
+                [1, 1511.551, 867.448],
+                [1, 1511.551, 888.462],
+                [1, 1454.912, 888.462],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 329095,
+        "location": {
+            "type": "Point",
+            "coordinates": [1483.269, 893.602]
+        },
+        "properties": {
+            "facility": "unit"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1454.912, 888.462],
+                [1, 1454.912, 898.243],
+                [1, 1511.554, 898.243],
+                [1, 1511.554, 888.462],
+                [1, 1454.912, 888.462],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 329096,
+        "location": {
+            "type": "Point",
+            "coordinates": [1482.831, 904.927]
+        },
+        "properties": {
+            "facility": "unit"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1454.912, 898.243],
+                [1, 1454.912, 911.326],
+                [1, 1511.554, 911.326],
+                [1, 1511.554, 898.243],
+                [1, 1454.912, 898.243],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 329097,
+        "location": {
+            "type": "Point",
+            "coordinates": [1482.937, 917.259]
+        },
+        "properties": {
+            "facility": "unit"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1454.912, 911.325],
+                [1, 1454.912, 923.426],
+                [1, 1511.554, 923.426],
+                [1, 1511.554, 911.325],
+                [1, 1454.912, 911.325],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 329098,
+        "location": {
+            "type": "Point",
+            "coordinates": [1482.880, 936.995]
+        },
+        "properties": {
+            "facility": "unit"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1454.912, 923.426],
+                [1, 1454.912, 950.157],
+                [1, 1511.554, 950.157],
+                [1, 1511.554, 923.426],
+                [1, 1454.912, 923.426],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 329099,
+        "location": {
+            "type": "Point",
+            "coordinates": [1477.685, 1013.754]
+        },
+        "properties": {
+            "facility": "unit"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1429.243, 950.157],
+                [1, 1429.243, 1078.345],
+                [1, 1527.129, 1078.345],
+                [1, 1527.129, 950.157],
+                [1, 1429.243, 950.157],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 329100,
+        "location": {
+            "type": "Point",
+            "coordinates": [1481.412, 1087.473]
+        },
+        "properties": {
+            "facility": "unit"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1458.851, 1078.345],
+                [1, 1458.851, 1095.786],
+                [1, 1504.277, 1095.786],
+                [1, 1504.277, 1078.345],
+                [1, 1458.851, 1078.345],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 338974,
+        "location": {
+            "type": "Point",
+            "coordinates": [933.849, 949.285]
+        },
+        "properties": {
+            "nonphysical": "true",
+            "marker": "entrance"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 930.274, 945.906],
+                [1, 937.453, 944.851],
+                [1, 938.144, 952.075],
+                [1, 935.610, 950.089],
+                [1, 932.685, 953.820],
+                [1, 929.886, 951.626],
+                [1, 932.811, 947.895],
+                [1, 930.274, 945.906],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 647508,
+        "location": {
+            "type": "Point",
+            "coordinates": [20509714.566, -21392809.715]
+        },
+        "line_width": 5.000,
+        "properties": {
+            "traffic": "road"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": false,
+            "type": "Path",
+            "coordinates": [
+                [0, 378.944, 71.711],
+                [3, 378.944, 71.711, 689.673, 216.751, 740.353, 216.751],
+                [3, 740.353, 216.751, 793.946, 220.921, 857.370, 210.732],
+                [3, 877.948, 207.426, 941.558, 191.015, 990.075, 162.905],
+                [3, 1040.928, 133.440, 1076.761, 91.984, 1099.075, 77.732]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 647509,
+        "location": {
+            "type": "Point",
+            "coordinates": [20509714.566, -21392809.715]
+        },
+        "line_width": 3.000,
+        "properties": {
+            "traffic": "road"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": false,
+            "type": "Path",
+            "coordinates": [
+                [0, 746.536, 446.549],
+                [1, 903.128, 479.705],
+                [1, 967.863, 492.244],
+                [1, 1035.317, 510.957],
+                [1, 1075.317, 366.958],
+                [1, 1251.984, 418.957],
+                [1, 1206.651, 607.625],
+                [1, 1243.318, 709.625],
+                [3, 1256.652, 738.291, 1326.318, 751.291, 1326.318, 751.291],
+                [3, 1361.985, 751.291, 1357.984, 782.961, 1357.984, 782.961],
+                [3, 1357.984, 833.287, 1371.216, 866.287, 1371.216, 866.287],
+                [1, 1386.693, 914.725],
+                [1, 1384.945, 924.583],
+                [3, 1380.119, 946.387, 1372.534, 998.862, 1372.534, 998.862],
+                [1, 1366.329, 1304.841],
+                [3, 1366.329, 1362.087, 1271.180, 1425.737, 1271.180, 1425.737],
+                [3, 1243.598, 1452.995, 1197.407, 1456.802, 1197.407, 1456.802],
+                [1, 951.937, 1456.802]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 647510,
+        "location": {
+            "type": "Point",
+            "coordinates": [20509714.566, -21392809.715]
+        },
+        "line_width": 3.000,
+        "properties": {
+            "traffic": "road"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": false,
+            "type": "Path",
+            "coordinates": [
+                [0, 1386.693, 914.727],
+                [1, 1416.112, 821.701],
+                [1, 1428.300, 779.263],
+                [1, 1445.446, 672.950],
+                [3, 1445.446, 672.950, 1467.446, 581.636, 1431.336, 519.115],
+                [1, 1360.666, 371.623],
+                [1, 1243.537, 248.049],
+                [1, 1080.678, 92.139]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 6368280,
+        "location": {
+            "type": "Point",
+            "coordinates": [913.238, 388.721]
+        },
+        "properties": {
+            "structure": "parking structure"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 964.993, 255.287],
+                [1, 1073.493, 282.287],
+                [1, 1015.993, 495.787],
+                [1, 776.638, 439.287],
+                [1, 817.993, 285.787],
+                [1, 964.993, 255.287],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 6368281,
+        "location": {
+            "type": "Point",
+            "coordinates": [1045.438, 531.999]
+        },
+        "properties": {
+            "nonphysical": "true",
+            "marker": "entrance"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1050.172, 533.822],
+                [1, 1043.850, 537.384],
+                [1, 1040.612, 530.889],
+                [1, 1043.690, 531.833],
+                [1, 1045.080, 527.301],
+                [1, 1048.480, 528.344],
+                [1, 1047.089, 532.876],
+                [1, 1050.172, 533.822],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 6368283,
+        "properties": {
+            "display_name": "Elevator",
+            "facility": "elevator"
+        },
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [1113.457, 1134.208]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 6368284,
+        "location": {
+            "type": "Point",
+            "coordinates": [694.765, 467.731]
+        },
+        "properties": {
+            "facility": "inaccessible space"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 746.636, 490.293],
+                [1, 750.979, 473.589],
+                [1, 643.901, 444.580],
+                [1, 630.880, 499.640],
+                [1, 656.798, 506.986],
+                [1, 667.315, 469.210],
+                [1, 746.636, 490.293],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 6368285,
+        "location": {
+            "type": "Point",
+            "coordinates": [635.258, 631.143]
+        },
+        "properties": {
+            "facility": "inaccessible space"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 607.436, 658.910],
+                [1, 627.455, 590.912],
+                [1, 641.329, 594.933],
+                [1, 644.711, 582.777],
+                [1, 669.229, 589.160],
+                [1, 643.423, 669.308],
+                [1, 607.436, 658.910],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 6368286,
+        "location": {
+            "type": "Point",
+            "coordinates": [1170.439, 756.019]
+        },
+        "properties": {
+            "facility": "inaccessible space"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1215.232, 849.690],
+                [1, 1215.232, 788.023],
+                [1, 1179.066, 788.023],
+                [1, 1179.066, 810.523],
+                [1, 1165.386, 810.523],
+                [1, 1165.386, 813.523],
+                [1, 1149.150, 813.523],
+                [1, 1149.150, 780.565],
+                [1, 1162.650, 780.565],
+                [1, 1162.650, 701.607],
+                [1, 1179.901, 701.607],
+                [1, 1179.901, 773.440],
+                [1, 1221.059, 773.440],
+                [1, 1221.059, 849.690],
+                [1, 1215.232, 849.690],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 6368287,
+        "location": {
+            "type": "Point",
+            "coordinates": [1149.378, 655.225]
+        },
+        "properties": {
+            "facility": "inaccessible space"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1171.055, 651.161],
+                [1, 1134.459, 641.659],
+                [1, 1128.634, 659.224],
+                [1, 1147.518, 665.565],
+                [1, 1141.330, 678.979],
+                [1, 1150.774, 681.565],
+                [1, 1156.024, 670.440],
+                [1, 1165.409, 675.059],
+                [1, 1171.055, 651.161],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 6368288,
+        "location": {
+            "type": "Point",
+            "coordinates": [954.358, 734.459]
+        },
+        "properties": {
+            "facility": "inaccessible space"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 868.079, 707.594],
+                [1, 869.194, 703.563],
+                [1, 900.727, 711.851],
+                [1, 906.380, 692.974],
+                [1, 890.381, 688.976],
+                [1, 893.149, 677.940],
+                [1, 958.899, 696.940],
+                [1, 961.399, 687.940],
+                [1, 984.642, 694.880],
+                [1, 987.875, 684.625],
+                [1, 995.900, 686.440],
+                [1, 1005.740, 655.777],
+                [1, 1023.399, 660.940],
+                [1, 1019.899, 668.690],
+                [1, 1013.149, 666.940],
+                [1, 1003.649, 695.940],
+                [1, 1056.899, 695.940],
+                [1, 1056.899, 729.033],
+                [1, 1047.649, 729.033],
+                [1, 1047.649, 738.189],
+                [1, 1011.899, 738.189],
+                [1, 1011.899, 747.690],
+                [1, 1006.399, 747.690],
+                [1, 1006.399, 773.690],
+                [1, 1017.398, 773.690],
+                [1, 1017.398, 790.190],
+                [1, 1010.399, 790.190],
+                [1, 1010.399, 809.569],
+                [1, 1005.436, 809.569],
+                [1, 1005.436, 820.940],
+                [1, 1002.524, 820.940],
+                [1, 1002.524, 846.315],
+                [1, 985.167, 846.315],
+                [1, 985.167, 890.815],
+                [1, 976.000, 890.815],
+                [1, 976.000, 775.917],
+                [1, 891.802, 754.710],
+                [1, 900.998, 716.249],
+                [1, 868.079, 707.594],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 6368289,
+        "location": {
+            "type": "Point",
+            "coordinates": [1198.431, 910.782]
+        },
+        "properties": {
+            "facility": "inaccessible space"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1216.500, 919.065],
+                [1, 1216.500, 907.667],
+                [1, 1209.333, 907.667],
+                [1, 1209.333, 902.833],
+                [1, 1187.500, 902.833],
+                [1, 1187.500, 980.589],
+                [1, 1191.836, 980.589],
+                [1, 1191.836, 919.065],
+                [1, 1216.500, 919.065],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 6368290,
+        "location": {
+            "type": "Point",
+            "coordinates": [991.345, 1114.139]
+        },
+        "properties": {
+            "facility": "inaccessible space"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 972.149, 1037.357],
+                [1, 987.899, 1037.357],
+                [1, 987.899, 1069.000],
+                [1, 1011.649, 1069.000],
+                [1, 1011.649, 1037.357],
+                [1, 1018.399, 1037.357],
+                [1, 1018.399, 1053.940],
+                [1, 1045.673, 1053.940],
+                [1, 1045.673, 1074.440],
+                [1, 1065.125, 1074.440],
+                [1, 1065.125, 1081.940],
+                [1, 1039.899, 1081.940],
+                [1, 1039.899, 1076.940],
+                [1, 1024.399, 1076.940],
+                [1, 1024.399, 1109.912],
+                [1, 1017.899, 1109.912],
+                [1, 1017.899, 1126.190],
+                [1, 1054.274, 1126.190],
+                [1, 1054.274, 1131.690],
+                [1, 1013.149, 1131.690],
+                [1, 1013.149, 1152.440],
+                [1, 1009.149, 1165.190],
+                [1, 987.399, 1165.190],
+                [1, 987.399, 1183.440],
+                [1, 972.149, 1183.440],
+                [1, 972.149, 1037.357],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 6368291,
+        "location": {
+            "type": "Point",
+            "coordinates": [1176.794, 1151.179]
+        },
+        "properties": {
+            "facility": "inaccessible space"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 1184.881, 1176.190],
+                [1, 1157.399, 1176.190],
+                [1, 1157.399, 1164.815],
+                [1, 1169.899, 1164.815],
+                [1, 1169.899, 1150.690],
+                [1, 1158.899, 1150.690],
+                [1, 1158.899, 1130.940],
+                [1, 1139.875, 1130.940],
+                [1, 1139.875, 1125.690],
+                [1, 1173.900, 1125.690],
+                [1, 1173.900, 1103.838],
+                [1, 1184.884, 1103.838],
+                [1, 1184.881, 1176.190],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 6368292,
+        "properties": {
+            "display_name": "Stairs",
+            "facility": "stairs"
+        },
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [1035.905, 568.241]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 6368293,
+        "properties": {
+            "display_name": "Elevator",
+            "facility": "elevator"
+        },
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [1123.634, 648.497]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 6368294,
+        "properties": {
+            "display_name": "Elevator",
+            "facility": "elevator"
+        },
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [882.067, 601.155]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 6368295,
+        "properties": {
+            "display_name": "Escalator",
+            "facility": "escalator"
+        },
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [1100.004, 1024.371]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 6368296,
+        "properties": {
+            "display_name": "Escalator",
+            "facility": "escalator"
+        },
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [1078.023, 1346.514]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 6368297,
+        "properties": {
+            "display_name": "Escalator",
+            "facility": "escalator"
+        },
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [1079.017, 896.980]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 6368298,
+        "properties": {
+            "display_name": "Escalator",
+            "facility": "escalator"
+        },
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [861.613, 596.357]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 6368299,
+        "properties": {
+            "display_name": "Escalator",
+            "facility": "escalator"
+        },
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": [612.525, 536.993]
+        },
+        "obj_type": "Geometry"
+    }, {
+        "id": 6370583,
+        "location": {
+            "type": "Point",
+            "coordinates": [762.433, 692.015]
+        },
+        "properties": {
+            "facility": "inaccessible space"
+        },
+        "type": "Feature",
+        "geometry": {
+            "area": true,
+            "type": "Path",
+            "coordinates": [
+                [0, 765.505, 714.358],
+                [1, 775.128, 683.520],
+                [1, 794.084, 689.291],
+                [1, 822.817, 601.383],
+                [1, 815.298, 599.207],
+                [1, 790.880, 679.304],
+                [1, 761.280, 670.317],
+                [1, 749.228, 709.688],
+                [1, 765.505, 714.358],
+                [4]
+            ]
+        },
+        "obj_type": "Geometry"
+    }],
+    "properties": {
+        "name": "1",
+        "zlevel": 0,
+        "main": true
+    },
+    "map_version": 32,
+    "type": "FeatureCollection",
+    "community_id": 84,
+    "obj_type": "LevelGeometry"
+}
